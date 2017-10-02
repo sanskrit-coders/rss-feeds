@@ -1,0 +1,277 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
+  
+          <channel>
+    
+    
+              <title>
+                  shaiva tantra mt [itunes test 1]
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/shaiva_tantra_mt, with description:
+      शैव-तन्त्र-परिचयः। वक्ता मानसतरङ्गिणीकारः। मूलम् - https://manasataramgini.wordpress.com/2017/09/24/a-rambling-talk-on-the-saiva-mantra-tradition/ ।&lt;br /&gt;&lt;br /&gt;भाषा - English.
+              </description>
+              <itunes:subtitle>
+                  shaiva tantra mt [itunes test 1]
+              </itunes:subtitle>
+              <itunes:summary>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/shaiva_tantra_mt, with description:
+      शैव-तन्त्र-परिचयः। वक्ता मानसतरङ्गिणीकारः। मूलम् - https://manasataramgini.wordpress.com/2017/09/24/a-rambling-talk-on-the-saiva-mantra-tradition/ ।&lt;br /&gt;&lt;br /&gt;भाषा - English.
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/shaiva_tantra_mt</link>
+    
+    
+              <language>en</language>
+    
+    
+    
+              <lastBuildDate>
+                  Mon, 25 Sep 2017 03:58:28 +0530
+              </lastBuildDate>
+              <pubDate>
+                  Mon, 25 Sep 2017 03:58:28 +0530
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  kashcidv@gmail.com
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+    
+    
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>shaiva tantra mt [itunes test 1]</title>
+                  <link> https://archive.org/details/shaiva_tantra_mt</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+    
+    
+    
+    
+              <itunes:explicit>no</itunes:explicit>
+    
+    
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+                  shaiva,tantra,Agama,mantra,iconography
+              </itunes:keywords>
+    
+    
+              <item>
+              <title>
+                  shaiva_tAntrika2.mp3
+              </title>
+              <description>
+                  shaiva_tAntrika2.mp3
+              </description>
+              <itunes:summary>
+                  shaiva_tAntrika2.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  shaiva_tAntrika2.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika2.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika2.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                01:01:46
+            </itunes:duration>
+              <pubDate>
+                  Sat, 30 Sep 2017 03:58:28 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  shaiva_tAntrika1.mp3
+              </title>
+              <description>
+                  shaiva_tAntrika1.mp3
+              </description>
+              <itunes:summary>
+                  shaiva_tAntrika1.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  shaiva_tAntrika1.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika1.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika1.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                01:08:37
+            </itunes:duration>
+              <pubDate>
+                  Fri, 29 Sep 2017 03:58:28 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  introduction to saiddhAntika shaiva iconography
+              </title>
+              <description>
+                  introduction to saiddhAntika shaiva iconography
+              </description>
+              <itunes:summary>
+                  introduction to saiddhAntika shaiva iconography
+              </itunes:summary>
+              <itunes:subtitle>
+                  introduction to saiddhAntika shaiva iconograph
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_saiddhAntika_iconography_intro.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_saiddhAntika_iconography_intro.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:24:52
+            </itunes:duration>
+              <pubDate>
+                  Thu, 28 Sep 2017 03:58:28 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  shaiva_mantras1.3.mp3
+              </title>
+              <description>
+                  shaiva_mantras1.3.mp3
+              </description>
+              <itunes:summary>
+                  shaiva_mantras1.3.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  shaiva_mantras1.3.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.3.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.3.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:33:25
+            </itunes:duration>
+              <pubDate>
+                  Wed, 27 Sep 2017 03:58:28 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  shaiva_mantras1.2.mp3
+              </title>
+              <description>
+                  shaiva_mantras1.2.mp3
+              </description>
+              <itunes:summary>
+                  shaiva_mantras1.2.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  shaiva_mantras1.2.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.2.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.2.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:37:27
+            </itunes:duration>
+              <pubDate>
+                  Tue, 26 Sep 2017 03:58:28 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  shaiva_mantras.mp3
+              </title>
+              <description>
+                  shaiva_mantras.mp3
+              </description>
+              <itunes:summary>
+                  shaiva_mantras.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  shaiva_mantras.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_mantras.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_mantras.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                01:20:25
+            </itunes:duration>
+              <pubDate>
+                  Mon, 25 Sep 2017 03:58:28 +0530
+              </pubDate>
+          </item>
+          </channel>
+      </rss>
