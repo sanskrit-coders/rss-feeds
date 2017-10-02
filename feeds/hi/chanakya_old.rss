@@ -1,0 +1,345 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ 
+ 
+          <channel>
+   
+   
+              <title>
+                  chANakya-hindI-audio
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/chANakya-hindI-audio, with description:
+      चाणक्य-नाम्नी धारावाहिन्य् अभवत् पुरा। तदीयाः धारा इमाः।.
+              </description>
+              <itunes:subtitle>
+                  chANakya-hindI-audio
+              </itunes:subtitle>
+              <itunes:summary>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/chANakya-hindI-audio, with description:
+      चाणक्य-नाम्नी धारावाहिन्य् अभवत् पुरा। तदीयाः धारा इमाः।.
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/chANakya-hindI-audio</link>
+   
+   
+              <language>hi</language>
+   
+   
+   
+              <lastBuildDate>
+                  Sun, 01 Oct 2017 03:24:25 +0530
+              </lastBuildDate>
+              <pubDate>
+                  Sun, 01 Oct 2017 03:24:25 +0530
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  kashcidv@gmail.com
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+   
+   
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>chANakya-hindI-audio</title>
+                  <link> https://archive.org/details/chANakya-hindI-audio</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+   
+   
+   
+   
+              <itunes:explicit>no</itunes:explicit>
+   
+   
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+                  hindi,drama,India,chanakya
+              </itunes:keywords>
+   
+   
+              <item>
+              <title>
+                  chANakya-hindI-vol-8.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-8.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-8.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-8.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-8.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-8.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                03:44:22
+            </itunes:duration>
+              <pubDate>
+                  Sun, 08 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-7.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-7.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-7.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-7.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-7.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-7.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                04:27:36
+            </itunes:duration>
+              <pubDate>
+                  Sat, 07 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-6.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-6.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-6.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-6.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-6.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-6.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                04:33:30
+            </itunes:duration>
+              <pubDate>
+                  Fri, 06 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-5.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-5.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-5.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-5.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-5.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-5.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                04:29:21
+            </itunes:duration>
+              <pubDate>
+                  Thu, 05 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-4.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-4.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-4.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-4.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-4.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-4.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                03:50:46
+            </itunes:duration>
+              <pubDate>
+                  Wed, 04 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-3.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-3.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-3.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-3.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-3.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-3.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                03:48:31
+            </itunes:duration>
+              <pubDate>
+                  Tue, 03 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-2.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-2.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-2.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-2.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-2.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-2.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                03:58:40
+            </itunes:duration>
+              <pubDate>
+                  Mon, 02 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  chANakya-hindI-vol-1.mp3
+              </title>
+              <description>
+                  chANakya-hindI-vol-1.mp3
+              </description>
+              <itunes:summary>
+                  chANakya-hindI-vol-1.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  chANakya-hindI-vol-1.mp
+              </itunes:subtitle>
+     
+     
+     
+              <guid>
+                  https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-1.mp3
+              </guid>
+     
+     
+     
+     
+     
+            <enclosure url="https://archive.org/download/chANakya-hindI-audio/chANakya-hindI-vol-1.mp3" type="audio/mpeg" length="1"/>
+     
+     
+              <itunes:duration>
+                03:54:29
+            </itunes:duration>
+              <pubDate>
+                  Sun, 01 Oct 2017 03:24:25 +0530
+              </pubDate>
+          </item>
+          </channel>
+      </rss>
