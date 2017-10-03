@@ -1,0 +1,492 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+          <!--The namespace definitions point to non-existent dtd-s and online validators complain, but that's fine. Can't help it.-->
+  
+          <channel>
+    
+    
+              <title>
+                  CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni - sAmaveda
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni, with description:
+      &quot;CDAC TARKSHYA&quot;-जनैर् भारतसर्वकारसमर्थितैर् आदौ प्रकाशितम् http://bhoomi.csa.iisc.ernet.in:8080/ihg/eLearning/web/index.jsp# इत्यत्र।.
+              </description>
+              <itunes:subtitle>
+                  CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni - sAmaveda
+              </itunes:subtitle>
+              <itunes:summary>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni, with description:
+      &quot;CDAC TARKSHYA&quot;-जनैर् भारतसर्वकारसमर्थितैर् आदौ प्रकाशितम् http://bhoomi.csa.iisc.ernet.in:8080/ihg/eLearning/web/index.jsp# इत्यत्र।.
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni</link>
+    
+              <!--The language should be specified according to RFC 3066, RFC 4647 and RFC 5646. List: http://www.loc.gov/standards/iso639-2/php/code_list.php -->
+              <language>sa</language>
+    
+    
+    
+              <lastBuildDate>
+                  Mon, 17 Oct 2016 00:34:49 -0700
+              </lastBuildDate>
+              <pubDate>
+                  Mon, 17 Oct 2016 00:34:49 -0700
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  kashcidv
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+    
+              <!--Image must be square and over 1200 x 1200 for Google Play, and over 1400 x 1400 for ITunes.-->
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni - sAmaveda</title>
+                  <link> https://archive.org/details/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+    
+    
+              <!--Category fields.-->
+              <!--itunes:explicit: Valid values: yes or no or clean. Google Play says: If a tag isn’t included, the content will not be considered explicit. ITunes requires this.-->
+              <itunes:explicit>no</itunes:explicit>
+    
+            <!--Only certain categories are valid, see: https://support.google.com/googleplay/podcasts/answer/6260341#rpt for Google Play and https://www.seriouslysimplepodcasting.com/itunes-podcast-category-list/ for ITunes.-->
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+                  sanskrit,samskrtam,veda
+              </itunes:keywords>
+    
+              <item>
+              <title>
+                  सामवेद-लक्षणम्Part-01- Overview
+              </title>
+              <description>
+                  सामवेद-लक्षणम्Part-01- Overview
+              </description>
+              <itunes:summary>
+                  सामवेद-लक्षणम्Part-01- Overview
+              </itunes:summary>
+              <itunes:subtitle>
+                  सामवेद-लक्षणम्Part-01- Overvie
+              </itunes:subtitle>
+      
+              <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+      
+              <guid>
+                  https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-01-_Overview.mp3
+              </guid>
+      
+              <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+        .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+        
+        
+        
+              <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-01-_Overview.mp3" type="audio/mpeg" length="1"/>
+        
+                <!--Expected format: H:MM:SS-->
+                <itunes:duration>
+                  00:01:58
+              </itunes:duration>
+                <pubDate>
+                    Mon, 17 Oct 2016 00:34:49 -0700
+                </pubDate>
+            </item>
+      <item>
+                <title>
+                    सामवेद-लक्षणम्Part-02- Introduction
+                </title>
+                <description>
+                    सामवेद-लक्षणम्Part-02- Introduction
+                </description>
+                <itunes:summary>
+                    सामवेद-लक्षणम्Part-02- Introduction
+                </itunes:summary>
+                <itunes:subtitle>
+                    सामवेद-लक्षणम्Part-02- Introductio
+                </itunes:subtitle>
+        
+                <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+        
+                <guid>
+                    https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-02-_Introduction.mp3
+                </guid>
+        
+                <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+          .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+          
+          
+          
+                <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-02-_Introduction.mp3" type="audio/mpeg" length="1"/>
+          
+                  <!--Expected format: H:MM:SS-->
+                  <itunes:duration>
+                    00:04:16
+                </itunes:duration>
+                  <pubDate>
+                      Mon, 17 Oct 2016 00:34:50 -0700
+                  </pubDate>
+              </item>
+        <item>
+                  <title>
+                      सामवेद-लक्षणम्Part-03- Samhita, Pada and Gana
+                  </title>
+                  <description>
+                      सामवेद-लक्षणम्Part-03- Samhita, Pada and Gana
+                  </description>
+                  <itunes:summary>
+                      सामवेद-लक्षणम्Part-03- Samhita, Pada and Gana
+                  </itunes:summary>
+                  <itunes:subtitle>
+                      सामवेद-लक्षणम्Part-03- Samhita, Pada and Gan
+                  </itunes:subtitle>
+          
+                  <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+          
+                  <guid>
+                      https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-03-_Samhita,%20Pada%20and%20Gana.mp3
+                  </guid>
+          
+                  <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+            .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+            
+            
+            
+                  <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-03-_Samhita,%20Pada%20and%20Gana.mp3" type="audio/mpeg" length="1"/>
+            
+                    <!--Expected format: H:MM:SS-->
+                    <itunes:duration>
+                      00:01:05
+                  </itunes:duration>
+                    <pubDate>
+                        Mon, 17 Oct 2016 00:34:51 -0700
+                    </pubDate>
+                </item>
+          <item>
+                    <title>
+                        सामवेद-लक्षणम्Part-04- Combinatorial Patterns of Recitation
+                    </title>
+                    <description>
+                        सामवेद-लक्षणम्Part-04- Combinatorial Patterns of Recitation
+                    </description>
+                    <itunes:summary>
+                        सामवेद-लक्षणम्Part-04- Combinatorial Patterns of Recitation
+                    </itunes:summary>
+                    <itunes:subtitle>
+                        सामवेद-लक्षणम्Part-04- Combinatorial Patterns of Recitatio
+                    </itunes:subtitle>
+            
+                    <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+            
+                    <guid>
+                        https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-04-_Combinatorial%20Patterns%20of%20Recitation.mp3
+                    </guid>
+            
+                    <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+              .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+              
+              
+              
+                    <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-04-_Combinatorial%20Patterns%20of%20Recitation.mp3" type="audio/mpeg" length="1"/>
+              
+                      <!--Expected format: H:MM:SS-->
+                      <itunes:duration>
+                        00:03:40
+                    </itunes:duration>
+                      <pubDate>
+                          Mon, 17 Oct 2016 00:34:52 -0700
+                      </pubDate>
+                  </item>
+            <item>
+                      <title>
+                          सामवेद-लक्षणम्Part-05- Sama Brahmanas
+                      </title>
+                      <description>
+                          सामवेद-लक्षणम्Part-05- Sama Brahmanas
+                      </description>
+                      <itunes:summary>
+                          सामवेद-लक्षणम्Part-05- Sama Brahmanas
+                      </itunes:summary>
+                      <itunes:subtitle>
+                          सामवेद-लक्षणम्Part-05- Sama Brahmana
+                      </itunes:subtitle>
+              
+                      <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+              
+                      <guid>
+                          https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-05-_Sama%20Brahmanas.mp3
+                      </guid>
+              
+                      <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                
+                
+                
+                      <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-05-_Sama%20Brahmanas.mp3" type="audio/mpeg" length="1"/>
+                
+                        <!--Expected format: H:MM:SS-->
+                        <itunes:duration>
+                          00:10:08
+                      </itunes:duration>
+                        <pubDate>
+                            Mon, 17 Oct 2016 00:34:53 -0700
+                        </pubDate>
+                    </item>
+              <item>
+                        <title>
+                            सामवेद-लक्षणम्Part-06- Srauta Sutra, Auxiliary Texts for Samaveda
+                        </title>
+                        <description>
+                            सामवेद-लक्षणम्Part-06- Srauta Sutra, Auxiliary Texts for Samaveda
+                        </description>
+                        <itunes:summary>
+                            सामवेद-लक्षणम्Part-06- Srauta Sutra, Auxiliary Texts for Samaveda
+                        </itunes:summary>
+                        <itunes:subtitle>
+                            सामवेद-लक्षणम्Part-06- Srauta Sutra, Auxiliary Texts for Samaved
+                        </itunes:subtitle>
+                
+                        <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                
+                        <guid>
+                            https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-06-_Srauta%20Sutra,%20Auxiliary%20Texts%20for%20Samaveda.mp3
+                        </guid>
+                
+                        <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                  .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                  
+                  
+                  
+                        <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-06-_Srauta%20Sutra,%20Auxiliary%20Texts%20for%20Samaveda.mp3" type="audio/mpeg" length="1"/>
+                  
+                          <!--Expected format: H:MM:SS-->
+                          <itunes:duration>
+                            00:04:31
+                        </itunes:duration>
+                          <pubDate>
+                              Mon, 17 Oct 2016 00:34:54 -0700
+                          </pubDate>
+                      </item>
+                <item>
+                          <title>
+                              सामवेद-लक्षणम्Part-07- Lakshana Granthas, Different Branches
+                          </title>
+                          <description>
+                              सामवेद-लक्षणम्Part-07- Lakshana Granthas, Different Branches
+                          </description>
+                          <itunes:summary>
+                              सामवेद-लक्षणम्Part-07- Lakshana Granthas, Different Branches
+                          </itunes:summary>
+                          <itunes:subtitle>
+                              सामवेद-लक्षणम्Part-07- Lakshana Granthas, Different Branche
+                          </itunes:subtitle>
+                  
+                          <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                  
+                          <guid>
+                              https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-07-_Lakshana%20Granthas,%20Different%20Branches.mp3
+                          </guid>
+                  
+                          <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                    .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                    
+                    
+                    
+                          <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-07-_Lakshana%20Granthas,%20Different%20Branches.mp3" type="audio/mpeg" length="1"/>
+                    
+                            <!--Expected format: H:MM:SS-->
+                            <itunes:duration>
+                              00:07:48
+                          </itunes:duration>
+                            <pubDate>
+                                Mon, 17 Oct 2016 00:34:55 -0700
+                            </pubDate>
+                        </item>
+                  <item>
+                            <title>
+                                सामवेद-लक्षणम्Part-08- Commentaries of Samaveda
+                            </title>
+                            <description>
+                                सामवेद-लक्षणम्Part-08- Commentaries of Samaveda
+                            </description>
+                            <itunes:summary>
+                                सामवेद-लक्षणम्Part-08- Commentaries of Samaveda
+                            </itunes:summary>
+                            <itunes:subtitle>
+                                सामवेद-लक्षणम्Part-08- Commentaries of Samaved
+                            </itunes:subtitle>
+                    
+                            <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                    
+                            <guid>
+                                https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-08-_Commentaries%20of%20Samaveda.mp3
+                            </guid>
+                    
+                            <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                      .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                      
+                      
+                      
+                            <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-08-_Commentaries%20of%20Samaveda.mp3" type="audio/mpeg" length="1"/>
+                      
+                              <!--Expected format: H:MM:SS-->
+                              <itunes:duration>
+                                00:04:47
+                            </itunes:duration>
+                              <pubDate>
+                                  Mon, 17 Oct 2016 00:34:56 -0700
+                              </pubDate>
+                          </item>
+                    <item>
+                              <title>
+                                  सामवेद-लक्षणम्Part-09- Metre and Deity for Hymns, Substitution
+                              </title>
+                              <description>
+                                  सामवेद-लक्षणम्Part-09- Metre and Deity for Hymns, Substitution
+                              </description>
+                              <itunes:summary>
+                                  सामवेद-लक्षणम्Part-09- Metre and Deity for Hymns, Substitution
+                              </itunes:summary>
+                              <itunes:subtitle>
+                                  सामवेद-लक्षणम्Part-09- Metre and Deity for Hymns, Substitutio
+                              </itunes:subtitle>
+                      
+                              <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                      
+                              <guid>
+                                  https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-09-_Metre%20and%20Deity%20for%20Hymns,%20Substitution.mp3
+                              </guid>
+                      
+                              <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                        .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                        
+                        
+                        
+                              <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-09-_Metre%20and%20Deity%20for%20Hymns,%20Substitution.mp3" type="audio/mpeg" length="1"/>
+                        
+                                <!--Expected format: H:MM:SS-->
+                                <itunes:duration>
+                                  00:10:44
+                              </itunes:duration>
+                                <pubDate>
+                                    Mon, 17 Oct 2016 00:34:57 -0700
+                                </pubDate>
+                            </item>
+                      <item>
+                                <title>
+                                    सामवेद-लक्षणम्Part-10- Udgata, Recital, Meaning of Setushama
+                                </title>
+                                <description>
+                                    सामवेद-लक्षणम्Part-10- Udgata, Recital, Meaning of Setushama
+                                </description>
+                                <itunes:summary>
+                                    सामवेद-लक्षणम्Part-10- Udgata, Recital, Meaning of Setushama
+                                </itunes:summary>
+                                <itunes:subtitle>
+                                    सामवेद-लक्षणम्Part-10- Udgata, Recital, Meaning of Setusham
+                                </itunes:subtitle>
+                        
+                                <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                        
+                                <guid>
+                                    https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-10-_Udgata,%20Recital,%20Meaning%20of%20Setushama.mp3
+                                </guid>
+                        
+                                <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                          .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                          
+                          
+                          
+                                <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-10-_Udgata,%20Recital,%20Meaning%20of%20Setushama.mp3" type="audio/mpeg" length="1"/>
+                          
+                                  <!--Expected format: H:MM:SS-->
+                                  <itunes:duration>
+                                    00:08:33
+                                </itunes:duration>
+                                  <pubDate>
+                                      Mon, 17 Oct 2016 00:34:58 -0700
+                                  </pubDate>
+                              </item>
+                        <item>
+                                  <title>
+                                      सामवेद-लक्षणम्Part-11- Q &amp; A
+                                  </title>
+                                  <description>
+                                      सामवेद-लक्षणम्Part-11- Q &amp; A
+                                  </description>
+                                  <itunes:summary>
+                                      सामवेद-लक्षणम्Part-11- Q &amp; A
+                                  </itunes:summary>
+                                  <itunes:subtitle>
+                            सामवेद-लक्षणम्Part-11- Q &amp;
+                                  </itunes:subtitle>
+                          
+                                  <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                          
+                                  <guid>
+                                      https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-11-_Q%20&amp;%20A.mp3
+                                  </guid>
+                          
+                                  <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                            .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                            
+                            
+                            
+                                  <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-11-_Q%20&amp;%20A.mp3" type="audio/mpeg" length="1"/>
+                            
+                                    <!--Expected format: H:MM:SS-->
+                                    <itunes:duration>
+                                      00:17:54
+                                  </itunes:duration>
+                                    <pubDate>
+                                        Mon, 17 Oct 2016 00:34:59 -0700
+                                    </pubDate>
+                                </item>
+                          <item>
+                                    <title>
+                                        सामवेद-लक्षणम्Part-12- MuraliKrishnaSroutiSamaVedalakshana-1
+                                    </title>
+                                    <description>
+                                        सामवेद-लक्षणम्Part-12- MuraliKrishnaSroutiSamaVedalakshana-1
+                                    </description>
+                                    <itunes:summary>
+                                        सामवेद-लक्षणम्Part-12- MuraliKrishnaSroutiSamaVedalakshana-1
+                                    </itunes:summary>
+                                    <itunes:subtitle>
+                                        सामवेद-लक्षणम्Part-12- MuraliKrishnaSroutiSamaVedalakshana-
+                                    </itunes:subtitle>
+                            
+                                    <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                            
+                                    <guid>
+                                        https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-12-Muralikrishnasroutisamavedalakshana-1.mp3
+                                    </guid>
+                            
+                                    <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                              .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                              
+                              
+                              
+                                    <enclosure url="https://archive.org/download/CDAC-tArkShya-shAstra-viShayaka-bhAShaNAni/sAmaveda-lakShaNam/Part-12-Muralikrishnasroutisamavedalakshana-1.mp3" type="audio/mpeg" length="1"/>
+                              
+                                      <!--Expected format: H:MM:SS-->
+                                      <itunes:duration>
+                                        00:47:43
+                                    </itunes:duration>
+                                      <pubDate>
+                                          Mon, 17 Oct 2016 00:35:00 -0700
+                                      </pubDate>
+                                  </item>
+                                  </channel>
+                              </rss>
