@@ -1,0 +1,282 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+          <!--The namespace definitions point to non-existent dtd-s and online validators complain, but that's fine. Can't help it.-->
+  
+          <channel>
+    
+    
+              <title>
+                  shaiva-tantra-parichayaH (mAnasatarangiNI)
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/shaiva_tantra_mt, with description:
+      शैव-तन्त्र-परिचयः। वक्ता मानसतरङ्गिणीकारः। मूलम् - https://manasataramgini.wordpress.com/2017/09/24/a-rambling-talk-on-the-saiva-mantra-tradition/ ।&lt;br /&gt;&lt;br /&gt;भाषा - English.
+              </description>
+              <itunes:subtitle>
+                  shaiva-tantra-parichayaH
+              </itunes:subtitle>
+              <itunes:summary>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/shaiva_tantra_mt, with description:
+      शैव-तन्त्र-परिचयः। वक्ता मानसतरङ्गिणीकारः। मूलम् - https://manasataramgini.wordpress.com/2017/09/24/a-rambling-talk-on-the-saiva-mantra-tradition/ ।&lt;br /&gt;&lt;br /&gt;भाषा - English.
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/shaiva_tantra_mt</link>
+    
+              <!--The language should be specified according to RFC 3066, RFC 4647 and RFC 5646. List: http://www.loc.gov/standards/iso639-2/php/code_list.php -->
+              <language>en</language>
+    
+    
+    
+              <lastBuildDate>
+                  Mon, 25 Sep 2017 03:58:28 +0530
+              </lastBuildDate>
+              <pubDate>
+                  Mon, 25 Sep 2017 03:58:28 +0530
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  kashcidv
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+    
+              <!--Image must be square and over 1200 x 1200 for Google Play, and over 1400 x 1400 for ITunes.-->
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>shaiva-tantra-parichayaH</title>
+                  <link> https://archive.org/details/shaiva_tantra_mt</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+    
+    
+              <!--Category fields.-->
+              <!--itunes:explicit: Valid values: yes or no or clean. Google Play says: If a tag isn’t included, the content will not be considered explicit. ITunes requires this.-->
+              <itunes:explicit>no</itunes:explicit>
+    
+            <!--Only certain categories are valid, see: https://support.google.com/googleplay/podcasts/answer/6260341#rpt for Google Play and https://www.seriouslysimplepodcasting.com/itunes-podcast-category-list/ for ITunes.-->
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+                  shaiva,tantra,Agama,mantra,iconography
+              </itunes:keywords>
+    
+              <item>
+              <title>
+                  shaiva_mantras.mp3
+              </title>
+              <description>
+                  shaiva_mantras.mp3
+              </description>
+              <itunes:summary>
+                  shaiva_mantras.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  shaiva_mantras.mp
+              </itunes:subtitle>
+      
+              <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+      
+              <guid>
+                  https://archive.org/download/shaiva_tantra_mt/shaiva_mantras.mp3
+              </guid>
+      
+              <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+        .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+        
+        
+        
+              <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_mantras.mp3" type="audio/mpeg" length="1"/>
+        
+                <!--Expected format: H:MM:SS-->
+                <itunes:duration>
+                  01:20:25
+              </itunes:duration>
+                <pubDate>
+                    Mon, 25 Sep 2017 03:58:28 +0530
+                </pubDate>
+            </item>
+      <item>
+                <title>
+                    shaiva_mantras1.2.mp3
+                </title>
+                <description>
+                    shaiva_mantras1.2.mp3
+                </description>
+                <itunes:summary>
+                    shaiva_mantras1.2.mp3
+                </itunes:summary>
+                <itunes:subtitle>
+                    shaiva_mantras1.2.mp
+                </itunes:subtitle>
+        
+                <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+        
+                <guid>
+                    https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.2.mp3
+                </guid>
+        
+                <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+          .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+          
+          
+          
+                <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.2.mp3" type="audio/mpeg" length="1"/>
+          
+                  <!--Expected format: H:MM:SS-->
+                  <itunes:duration>
+                    00:37:27
+                </itunes:duration>
+                  <pubDate>
+                      Mon, 25 Sep 2017 03:58:29 +0530
+                  </pubDate>
+              </item>
+        <item>
+                  <title>
+                      shaiva_mantras1.3.mp3
+                  </title>
+                  <description>
+                      shaiva_mantras1.3.mp3
+                  </description>
+                  <itunes:summary>
+                      shaiva_mantras1.3.mp3
+                  </itunes:summary>
+                  <itunes:subtitle>
+                      shaiva_mantras1.3.mp
+                  </itunes:subtitle>
+          
+                  <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+          
+                  <guid>
+                      https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.3.mp3
+                  </guid>
+          
+                  <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+            .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+            
+            
+            
+                  <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_mantras1.3.mp3" type="audio/mpeg" length="1"/>
+            
+                    <!--Expected format: H:MM:SS-->
+                    <itunes:duration>
+                      00:33:25
+                  </itunes:duration>
+                    <pubDate>
+                        Mon, 25 Sep 2017 03:58:30 +0530
+                    </pubDate>
+                </item>
+          <item>
+                    <title>
+                        introduction to saiddhAntika shaiva iconography
+                    </title>
+                    <description>
+                        introduction to saiddhAntika shaiva iconography
+                    </description>
+                    <itunes:summary>
+                        introduction to saiddhAntika shaiva iconography
+                    </itunes:summary>
+                    <itunes:subtitle>
+                        introduction to saiddhAntika shaiva iconograph
+                    </itunes:subtitle>
+            
+                    <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+            
+                    <guid>
+                        https://archive.org/download/shaiva_tantra_mt/shaiva_saiddhAntika_iconography_intro.mp3
+                    </guid>
+            
+                    <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+              .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+              
+              
+              
+                    <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_saiddhAntika_iconography_intro.mp3" type="audio/mpeg" length="1"/>
+              
+                      <!--Expected format: H:MM:SS-->
+                      <itunes:duration>
+                        00:24:52
+                    </itunes:duration>
+                      <pubDate>
+                          Mon, 25 Sep 2017 03:58:31 +0530
+                      </pubDate>
+                  </item>
+            <item>
+                      <title>
+                          shaiva_tAntrika1.mp3
+                      </title>
+                      <description>
+                          shaiva_tAntrika1.mp3
+                      </description>
+                      <itunes:summary>
+                          shaiva_tAntrika1.mp3
+                      </itunes:summary>
+                      <itunes:subtitle>
+                          shaiva_tAntrika1.mp
+                      </itunes:subtitle>
+              
+                      <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+              
+                      <guid>
+                          https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika1.mp3
+                      </guid>
+              
+                      <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                
+                
+                
+                      <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika1.mp3" type="audio/mpeg" length="1"/>
+                
+                        <!--Expected format: H:MM:SS-->
+                        <itunes:duration>
+                          01:08:37
+                      </itunes:duration>
+                        <pubDate>
+                            Mon, 25 Sep 2017 03:58:32 +0530
+                        </pubDate>
+                    </item>
+              <item>
+                        <title>
+                            shaiva_tAntrika2.mp3
+                        </title>
+                        <description>
+                            shaiva_tAntrika2.mp3
+                        </description>
+                        <itunes:summary>
+                            shaiva_tAntrika2.mp3
+                        </itunes:summary>
+                        <itunes:subtitle>
+                            shaiva_tAntrika2.mp
+                        </itunes:subtitle>
+                
+                        <!--iTunesU Category Codes: http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5-->
+                
+                        <guid>
+                            https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika2.mp3
+                        </guid>
+                
+                        <!--'The <itunes:order> tag can be used to override the default ordering of episodes on the iTunes Store by populating it with the number value in which you would like the episode to appear. For example, if you would like an <item> to appear as the first episode of the podcast, you would populate the <itunes:order> tag with “1.” If conflicting order values are present in multiple episodes, the store will order by <pubDate>
+                  .' But itunes itself doesnt seem to respect it in the podcast submission page! Same with several podcast players. Also, podcast players like Doggcatcher show episodes in the oldest-first order, which is suboptimal. Conclusion : use date to set order.-->
+                  
+                  
+                  
+                        <enclosure url="https://archive.org/download/shaiva_tantra_mt/shaiva_tAntrika2.mp3" type="audio/mpeg" length="1"/>
+                  
+                          <!--Expected format: H:MM:SS-->
+                          <itunes:duration>
+                            01:01:46
+                        </itunes:duration>
+                          <pubDate>
+                              Mon, 25 Sep 2017 03:58:33 +0530
+                          </pubDate>
+                      </item>
+                      </channel>
+                  </rss>
