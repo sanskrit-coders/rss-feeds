@@ -1,0 +1,379 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
+  
+          <channel>
+    
+    
+              <title>
+                  alankAra-parichaya-R-ganesh
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/AlankAraParichayaVol7AlankaraParicaya0077, with description:
+       (ಅಲಂಕಾರ ಪರಿಚಯ).
+              </description>
+              <itunes:subtitle>
+                  alankAra-parichaya-R-ganesh
+              </itunes:subtitle>
+              <itunes:summary>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/AlankAraParichayaVol7AlankaraParicaya0077, with description:
+       (ಅಲಂಕಾರ ಪರಿಚಯ).
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/AlankAraParichayaVol7AlankaraParicaya0077</link>
+    
+    
+              <language>kn</language>
+    
+    
+    
+              <lastBuildDate>
+                  Mon, 02 Oct 2017 00:09:17 +0530
+              </lastBuildDate>
+              <pubDate>
+                  Mon, 02 Oct 2017 00:09:17 +0530
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  shatAvadhAnI R Ganesh
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+    
+    
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>alankAra-parichaya-R-ganesh</title>
+                  <link> https://archive.org/details/AlankAraParichayaVol7AlankaraParicaya0077</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+    
+    
+    
+    
+              <itunes:explicit>no</itunes:explicit>
+    
+    
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+                  kannada,alankara,kAvya
+              </itunes:keywords>
+    
+    
+              <item>
+              <title>
+                  alankAra-parichaya-vol-9-alaṅkāra paricaya - 009 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-9-alaṅkāra paricaya - 009 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-9-alaṅkāra paricaya - 009 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-9-alaṅkāra paricaya - 009 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-9-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20009%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-9-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20009%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:27:36
+            </itunes:duration>
+              <pubDate>
+                  Tue, 10 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-8-alaṅkāra paricaya - 008 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-8-alaṅkāra paricaya - 008 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-8-alaṅkāra paricaya - 008 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-8-alaṅkāra paricaya - 008 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-8-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20008%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-8-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20008%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:21:17
+            </itunes:duration>
+              <pubDate>
+                  Mon, 09 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-7-alaṅkāra paricaya - 007 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-7-alaṅkāra paricaya - 007 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-7-alaṅkāra paricaya - 007 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-7-alaṅkāra paricaya - 007 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-7-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20007%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-7-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20007%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:29:40
+            </itunes:duration>
+              <pubDate>
+                  Sun, 08 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-6-alaṅkāra paricaya - 006 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-6-alaṅkāra paricaya - 006 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-6-alaṅkāra paricaya - 006 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-6-alaṅkāra paricaya - 006 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-6-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20006%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-6-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20006%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:15:12
+            </itunes:duration>
+              <pubDate>
+                  Sat, 07 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-5-alaṅkāra paricaya - 005 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-5-alaṅkāra paricaya - 005 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-5-alaṅkāra paricaya - 005 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-5-alaṅkāra paricaya - 005 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-5-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20005%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-5-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20005%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:18:20
+            </itunes:duration>
+              <pubDate>
+                  Fri, 06 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-4-alaṅkāra paricaya - 004 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-4-alaṅkāra paricaya - 004 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-4-alaṅkāra paricaya - 004 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-4-alaṅkāra paricaya - 004 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-4-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20004%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-4-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20004%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:06:59
+            </itunes:duration>
+              <pubDate>
+                  Thu, 05 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-3-alaṅkāra paricaya - 003 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-3-alaṅkāra paricaya - 003 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-3-alaṅkāra paricaya - 003 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-3-alaṅkāra paricaya - 003 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-3-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20003%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-3-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20003%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:19:52
+            </itunes:duration>
+              <pubDate>
+                  Wed, 04 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-2-alaṅkāra paricaya - 002 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-2-alaṅkāra paricaya - 002 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-2-alaṅkāra paricaya - 002 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-2-alaṅkāra paricaya - 002 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-2-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20002%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-2-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20002%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:13:19
+            </itunes:duration>
+              <pubDate>
+                  Tue, 03 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  alankAra-parichaya-vol-1-alaṅkāra paricaya - 001 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </title>
+              <description>
+                  alankAra-parichaya-vol-1-alaṅkāra paricaya - 001 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </description>
+              <itunes:summary>
+                  alankAra-parichaya-vol-1-alaṅkāra paricaya - 001 (ಅಲಂಕಾರ ಪರಿಚಯ).mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  alankAra-parichaya-vol-1-alaṅkāra paricaya - 001 (ಅಲಂಕಾರ ಪರಿಚಯ).mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-1-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20001%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/AlankAraParichayaVol7AlankaraParicaya0077/alankAra-parichaya-vol-1-ala%E1%B9%85k%C4%81ra%20paricaya%20-%20001%20(%E0%B2%85%E0%B2%B2%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%B0%20%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%AF).mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:06:23
+            </itunes:duration>
+              <pubDate>
+                  Mon, 02 Oct 2017 00:09:17 +0530
+              </pubDate>
+          </item>
+          </channel>
+      </rss>
