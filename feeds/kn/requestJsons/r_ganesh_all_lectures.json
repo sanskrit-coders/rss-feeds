@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "shatAvadhAnI-gaNesha-bhAShaNagaLu"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "Lectures by shatAvadhAnI R Ganesh: combined",
+      "description": "Lectures by shatAvadhAnI R Ganesh: combined",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "kn",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "shatAvadhAnI R Ganesh",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
