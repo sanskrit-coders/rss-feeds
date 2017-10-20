@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "https://archive.org/details/KaprejiBhAshaNam",
+    "https://archive.org/details/saMnyAsinAm-saMskRtita-uktayaH",
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "saMskRta-sambhAShaNa-protsAhanam संस्कृत-सम्भाषण-प्रोत्साहनम्",
+      "description": "saMskRta-sambhAShaNa-protsAhanam",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit enthusiasts",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
