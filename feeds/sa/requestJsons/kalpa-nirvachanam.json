@@ -1,0 +1,21 @@
+{
+  "archiveIds": [
+    "udakashAnti-vidhi-mantra-bhAShya-parichayaH",
+    "gRhya-sUtra-sUcita-homa-prayoga",
+    "karmasu_charchA_20161002164955",
+    "yajur-upanayana-ChAtra-pratijJNA",
+    "sAma-yajur-AshIrvAdaH",
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "kalpa-shAstra-nirvachanam कल्पः",
+      "description": "",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
