@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "vAlmIki-rAmAyaNa-mUla-pATHaH-1-22",
+    "Shrimad-Bhagawat-Samhita-sanskrit"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "purANa-mUla-paThanam काव्यम्",
+      "description": "purANa-mUla-paThanam",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
