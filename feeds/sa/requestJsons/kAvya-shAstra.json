@@ -1,0 +1,19 @@
+{
+  "archiveIds": [
+    "kAvyasya-AtmA",
+    "SpecialFeaturesOfSanskritKAvya",
+    "KAvyaAvadhAnaQA2"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "kAvya-shAstra-nirvachanam काव्य-शास्त्र-निर्वचनम्",
+      "description": "",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
