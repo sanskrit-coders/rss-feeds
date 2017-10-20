@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "rAmakaraNa-sharma-sandarshanam-balarAmena"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "vyaktInAm charitram ",
+      "description": "",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit enthusiasts",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
