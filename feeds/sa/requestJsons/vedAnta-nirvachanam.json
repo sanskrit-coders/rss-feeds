@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "Kathopanishad1206",
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "vedAnta-nirvachanam वेदान्त-निर्वचनम्",
+      "description": "vedAnta-nirvachanam",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
