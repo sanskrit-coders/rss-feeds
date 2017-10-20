@@ -1,0 +1,31 @@
+{
+  "archiveIds": [
+    "BhvAdigaNeVisheShaDhAtavaH",
+    "DhAtavaHAdantebhyaHTinAmYojanam",
+    "DhAtoHPadaNirdhAraNam",
+    "DhAtuSiddhiH",
+    "dhAtuvihita-pratyaya-AdeshAH",
+    "ItPrakaraNam",
+    "LakArAH",
+    "SArvadhAtukAHArdhadhAtukAH",
+    "bhvAdigaNe-ajanta-dhAtavaH",
+    "bhvAdigaNe-laghu-iganta-dhAtavaH",
+    "shabdamanjarI-audio-mark",
+    "BhvAdigaNeVisheShadhAtavaHSodAharaNam",
+    "BhvAdigaNeAkAntadhAtavaHSodAharaNam",
+    "BhvAdigaNeEch-anta-dhAtavaH-sodAharaNam",
+    "puShpA-dIkShita-pAThaH-2014-01-14"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "prArambhika-vyAkaraNa-nirvachanam प्रारम्भिक-संस्कृत-व्याकरण-निर्वचनम्",
+      "description": "prArambhika-vyAkaraNa-nirvachanam",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit students",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
