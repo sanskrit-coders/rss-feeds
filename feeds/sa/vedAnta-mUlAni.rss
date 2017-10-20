@@ -1,0 +1,617 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
+  
+          <channel>
+    
+    
+              <title>
+                  vedAnta-mUlAni वेदान्तम्
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org, with description:
+      Sri Adi Sankaracharya's Bhasya (commentary) on the Upanishads are some of the most important works in Hindusim and Vedanta. They provide Sri Adi Sankara's  interpretation of the scriptural texts from the perspective of Advaita Vedanta..
+              </description>
+              <itunes:subtitle>
+                  vedAnta-mUlAni वेदान्तम्
+              </itunes:subtitle>
+              <itunes:summary>
+                  A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org, with description:
+      Sri Adi Sankaracharya's Bhasya (commentary) on the Upanishads are some of the most important works in Hindusim and Vedanta. They provide Sri Adi Sankara's  interpretation of the scriptural texts from the perspective of Advaita Vedanta..
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org</link>
+    
+    
+              <language>sa</language>
+    
+    
+    
+              <lastBuildDate>
+                  Wed, 22 Jun 2011 04:12:09 +0530
+              </lastBuildDate>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:09 +0530
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  Various sanskrit scholars
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+    
+    
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>vedAnta-mUlAni वेदान्तम्</title>
+                  <link> https://archive.org/details/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+    
+    
+    
+    
+              <itunes:explicit>no</itunes:explicit>
+    
+    
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+      
+              </itunes:keywords>
+    
+    
+              <item>
+              <title>
+                   Taittiriyopanishat04-Bhruguvalli.mp3 Taittiriyopanishat04-Bhruguvalli.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat04-Bhruguvalli.mp3 Taittiriyopanishat04-Bhruguvalli.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat04-Bhruguvalli.mp3 Taittiriyopanishat04-Bhruguvalli.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat04-Bhruguvalli.mp3 Taittiriyopanishat04-Bhruguvalli.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat04-Bhruguvalli.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat04-Bhruguvalli.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:43:17
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:24 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-007-009.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:54:22
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:23 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-002-006.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                01:08:04
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:22 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3 Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat03-Brahmanandavalli-Anuvaaka-001.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:40:16
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:21 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-007-012.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:53:35
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:20 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3 Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat02-Shikshavalli-Taittiriya1-Anuvaakas-001-006.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:52:38
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:19 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3 Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3
+              </title>
+              <description>
+                   Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3 Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3
+              </description>
+              <itunes:summary>
+                   Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3 Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3 Taittiriyopanishat01-Nivedanam-Taittiriya1.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Taittiriyopanishat01-Nivedanam-Taittiriya1.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:09:08
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:18 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya2-Valli003.mp3 Kathopanishat-Adhyaya2-Valli003.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya2-Valli003.mp3 Kathopanishat-Adhyaya2-Valli003.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya2-Valli003.mp3 Kathopanishat-Adhyaya2-Valli003.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya2-Valli003.mp3 Kathopanishat-Adhyaya2-Valli003.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya2-Valli003.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya2-Valli003.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:38:28
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:17 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya2-Valli002.mp3 Kathopanishat-Adhyaya2-Valli002.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya2-Valli002.mp3 Kathopanishat-Adhyaya2-Valli002.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya2-Valli002.mp3 Kathopanishat-Adhyaya2-Valli002.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya2-Valli002.mp3 Kathopanishat-Adhyaya2-Valli002.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya2-Valli002.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya2-Valli002.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:26:07
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:16 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya2-Valli001.mp3 Kathopanishat-Adhyaya2-Valli001.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya2-Valli001.mp3 Kathopanishat-Adhyaya2-Valli001.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya2-Valli001.mp3 Kathopanishat-Adhyaya2-Valli001.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya2-Valli001.mp3 Kathopanishat-Adhyaya2-Valli001.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya2-Valli001.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya2-Valli001.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:25:03
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:15 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya1-Valli003.mp3 Kathopanishat-Adhyaya1-Valli003.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya1-Valli003.mp3 Kathopanishat-Adhyaya1-Valli003.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya1-Valli003.mp3 Kathopanishat-Adhyaya1-Valli003.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya1-Valli003.mp3 Kathopanishat-Adhyaya1-Valli003.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Valli003.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Valli003.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:27:59
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:14 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya1-Valli002.mp3 Kathopanishat-Adhyaya1-Valli002.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya1-Valli002.mp3 Kathopanishat-Adhyaya1-Valli002.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya1-Valli002.mp3 Kathopanishat-Adhyaya1-Valli002.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya1-Valli002.mp3 Kathopanishat-Adhyaya1-Valli002.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Valli002.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Valli002.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:42:13
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:13 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya1-Valli001.mp3 Kathopanishat-Adhyaya1-Valli001.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya1-Valli001.mp3 Kathopanishat-Adhyaya1-Valli001.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya1-Valli001.mp3 Kathopanishat-Adhyaya1-Valli001.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya1-Valli001.mp3 Kathopanishat-Adhyaya1-Valli001.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Valli001.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Valli001.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:59:03
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:12 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Kathopanishat-Adhyaya1-Introduction.mp3 Kathopanishat-Adhyaya1-Introduction.mp3
+              </title>
+              <description>
+                   Kathopanishat-Adhyaya1-Introduction.mp3 Kathopanishat-Adhyaya1-Introduction.mp3
+              </description>
+              <itunes:summary>
+                   Kathopanishat-Adhyaya1-Introduction.mp3 Kathopanishat-Adhyaya1-Introduction.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kathopanishat-Adhyaya1-Introduction.mp3 Kathopanishat-Adhyaya1-Introduction.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Introduction.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Kathopanishat-Adhyaya1-Introduction.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:03:31
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:11 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Ishavasyopanishat.mp3 Ishavasyopanishat.mp3
+              </title>
+              <description>
+                   Ishavasyopanishat.mp3 Ishavasyopanishat.mp3
+              </description>
+              <itunes:summary>
+                   Ishavasyopanishat.mp3 Ishavasyopanishat.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Ishavasyopanishat.mp3 Ishavasyopanishat.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Ishavasyopanishat.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Ishavasyopanishat.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:50:46
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:10 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                   Ishavasyopanishat-Introduction.mp3 Ishavasyopanishat-Introduction.mp3
+              </title>
+              <description>
+                   Ishavasyopanishat-Introduction.mp3 Ishavasyopanishat-Introduction.mp3
+              </description>
+              <itunes:summary>
+                   Ishavasyopanishat-Introduction.mp3 Ishavasyopanishat-Introduction.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Ishavasyopanishat-Introduction.mp3 Ishavasyopanishat-Introduction.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Ishavasyopanishat-Introduction.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/SriAdiSankaraCharyaBhasyarecordedByVedabhoomi.org/Ishavasyopanishat-Introduction.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:02:17
+            </itunes:duration>
+              <pubDate>
+                  Wed, 22 Jun 2011 04:12:09 +0530
+              </pubDate>
+          </item>
+          </channel>
+      </rss>
