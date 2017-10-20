@@ -1,0 +1,173 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
+  
+          <channel>
+    
+    
+              <title>
+                  saMskRta-sambhAShaNa-protsAhanam संस्कृत-सम्भाषण-प्रोत्साहनम्
+              </title>
+              <!--Various description fields.-->
+              <description>
+                  saMskRta-sambhAShaNa-protsAhanam
+              </description>
+              <itunes:subtitle>
+                  saMskRta-sambhAShaNa-protsAhanam संस्कृत-सम्भाषण-प्रोत्साहनम्
+              </itunes:subtitle>
+              <itunes:summary>
+                  saMskRta-sambhAShaNa-protsAhanam
+              </itunes:summary>
+              <!--The podcast website.-->
+              <link> https://archive.org/details/KaprejiBhAshaNam</link>
+    
+    
+              <language>sa</language>
+    
+    
+    
+              <lastBuildDate>
+                  Thu, 05 Dec 2013 04:51:31 +0530
+              </lastBuildDate>
+              <pubDate>
+                  Thu, 05 Dec 2013 04:51:31 +0530
+              </pubDate>
+              <!--Publisher details.-->
+              <webMaster>
+                  podcast-bhaaratii@googlegroups.com
+              </webMaster>
+              <itunes:author>
+                  Various sanskrit enthusiasts
+              </itunes:author>
+              <itunes:owner>
+                  <itunes:name>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:name>
+                  <itunes:email>
+                      podcast-bhaaratii@googlegroups.com
+                  </itunes:email>
+              </itunes:owner>
+    
+    
+              <image>
+                  <url>https://i.imgur.com/dQjPQYi.jpg</url>
+                  <title>saMskRta-sambhAShaNa-protsAhanam संस्कृत-सम्भाषण-प्रोत्साहनम्</title>
+                  <link> https://archive.org/details/KaprejiBhAshaNam</link>
+              </image>
+              <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+    
+    
+    
+    
+              <itunes:explicit>no</itunes:explicit>
+    
+    
+              <itunes:category text="Society &amp; Culture"/>
+              <itunes:keywords>
+                  sanskrit,samskRtam,Sanskrit,samskritam,samskrtam,paNini,संस्कृतम्
+              </itunes:keywords>
+    
+    
+              <item>
+              <title>
+                   Kapreji BhAshaNam.mp3 Kapreji BhAshaNam.mp3
+              </title>
+              <description>
+                   Kapreji BhAshaNam.mp3 Kapreji BhAshaNam.mp3
+              </description>
+              <itunes:summary>
+                   Kapreji BhAshaNam.mp3 Kapreji BhAshaNam.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                   Kapreji BhAshaNam.mp3 Kapreji BhAshaNam.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/KaprejiBhAshaNam/Kapreji%20BhAshaNam.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/KaprejiBhAshaNam/Kapreji%20BhAshaNam.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:35:13
+            </itunes:duration>
+              <pubDate>
+                  Thu, 05 Dec 2013 04:51:31 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  A suguNendratiirtha suguNendratiirtha2013-07-07-10_51_05.mp3
+              </title>
+              <description>
+                  A suguNendratiirtha suguNendratiirtha2013-07-07-10_51_05.mp3
+              </description>
+              <itunes:summary>
+                  A suguNendratiirtha suguNendratiirtha2013-07-07-10_51_05.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  A suguNendratiirtha suguNendratiirtha2013-07-07-10_51_05.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/saMnyAsinAm-saMskRtita-uktayaH/suguNendratiirtha2013-07-07-10_51_05.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/saMnyAsinAm-saMskRtita-uktayaH/suguNendratiirtha2013-07-07-10_51_05.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:13:24
+            </itunes:duration>
+              <pubDate>
+                  Sat, 27 Jul 2013 20:44:33 +0530
+              </pubDate>
+          </item>
+    <item>
+              <title>
+                  ASR Recordings rAmabhadrAchArya-nAmasUchanam 2013-07-14 rAmabhadrAchArya-nAmasUchanam2013-07-14-13_43_22.mp3
+              </title>
+              <description>
+                  ASR Recordings rAmabhadrAchArya-nAmasUchanam 2013-07-14 rAmabhadrAchArya-nAmasUchanam2013-07-14-13_43_22.mp3
+              </description>
+              <itunes:summary>
+                  ASR Recordings rAmabhadrAchArya-nAmasUchanam 2013-07-14 rAmabhadrAchArya-nAmasUchanam2013-07-14-13_43_22.mp3
+              </itunes:summary>
+              <itunes:subtitle>
+                  ASR Recordings rAmabhadrAchArya-nAmasUchanam 2013-07-14 rAmabhadrAchArya-nAmasUchanam2013-07-14-13_43_22.mp
+              </itunes:subtitle>
+      
+      
+      
+              <guid>
+                  https://archive.org/download/saMnyAsinAm-saMskRtita-uktayaH/rAmabhadrAchArya-nAmasUchanam2013-07-14-13_43_22.mp3
+              </guid>
+      
+      
+      
+      
+      
+            <enclosure url="https://archive.org/download/saMnyAsinAm-saMskRtita-uktayaH/rAmabhadrAchArya-nAmasUchanam2013-07-14-13_43_22.mp3" type="audio/mpeg" length="1"/>
+      
+      
+              <itunes:duration>
+                00:01:22
+            </itunes:duration>
+              <pubDate>
+                  Sat, 27 Jul 2013 20:44:32 +0530
+              </pubDate>
+          </item>
+          </channel>
+      </rss>
