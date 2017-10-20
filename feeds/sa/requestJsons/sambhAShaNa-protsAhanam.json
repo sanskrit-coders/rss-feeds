@@ -1,7 +1,7 @@
 {
   "archiveIds": [
-    "https://archive.org/details/KaprejiBhAshaNam",
-    "https://archive.org/details/saMnyAsinAm-saMskRtita-uktayaH",
+    "KaprejiBhAshaNam",
+    "saMnyAsinAm-saMskRtita-uktayaH",
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
