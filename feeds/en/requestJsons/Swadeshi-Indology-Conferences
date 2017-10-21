@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "Swadeshi-Indology-Conference-01",
+    "Httpsarchive.orgdetailsSwadeshi-Indology-Conference-02",
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "Swadeshi Indology Conferences: combined",
+      "description": "Podcast of all Swadeshi Indology Conferences",
+      "imageUrl": "https://archive.org/download/Swadeshi-Indology-Conference-01/artwork-01.jpg",
+      "languageCode": "en",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Rajiv Malhotra",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
