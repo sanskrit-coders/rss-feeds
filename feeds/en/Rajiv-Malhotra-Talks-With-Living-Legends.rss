@@ -1,0 +1,734 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        
+
+        <channel>
+          
+
+          <title>
+            Rajiv Malhotra's Dialogue with the Masters
+          </title>
+          <!--Various description fields.-->
+          <description>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends, with description:
+Rajiv Malhotra interviews Living Legends of the Dharmic Traditions..
+          </description>
+          <itunes:subtitle>
+            Rajiv Malhotra's Dialogue with the Masters
+          </itunes:subtitle>
+          <itunes:summary>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends, with description:
+Rajiv Malhotra interviews Living Legends of the Dharmic Traditions..
+          </itunes:summary>
+          <!--The podcast website.-->
+          <link> https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends</link>
+
+          
+          <language>en</language>
+          
+
+
+          <lastBuildDate>
+            Tue, 18 Oct 2016 01:58:53 +0530
+          </lastBuildDate>
+          <pubDate>
+            Tue, 18 Oct 2016 01:58:53 +0530
+          </pubDate>
+          <!--Publisher details.-->
+          <webMaster>
+            podcast-bhaaratii@googlegroups.com
+          </webMaster>
+          <itunes:author>
+            podcast-bhaaratii@googlegroups.com
+          </itunes:author>
+          <itunes:owner>
+            <itunes:name>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:name>
+            <itunes:email>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:email>
+          </itunes:owner>
+
+          
+          <image>
+            <url>https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/RM-YAD.jpg</url>
+            <title>Rajiv Malhotra's Dialogue with the Masters</title>
+            <link> https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends</link>
+          </image>
+          <itunes:image href="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/RM-YAD.jpg"/>
+
+
+          
+          
+          <itunes:explicit>no</itunes:explicit>
+
+        
+          <itunes:category text="Society &amp; Culture"/>
+          <itunes:keywords>
+            Rajiv Malhotra,Interviews,Living Legends
+          </itunes:keywords>
+
+
+          <item>
+        <title>
+          Talking with the Masters 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3 2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-22-Dialogue-with-Dr-HR-Nagendra-President-VYASA-Bangalore.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:22:08
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:12 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3 2016-12-18-Rajiv-M
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-18-Rajiv-Malhotra-at-Bangalore-Literature-Festival-India-Reclaiming-Our-Civilizations-Heritage.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:46
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:11 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3 2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-18-Dialogue-with-Prof-R-Vaidyanathan-IIM-Bangalore-Caste-System.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:47:05
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:10 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3 2016-12-11-In-Conversation-with-Sonal-Mansingh.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-12-11-In-Conversation-with-Sonal-Mansingh.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:55:53
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:09 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3 2016-11-24-In-Conversation-With-General-GD-Bakshi.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-24-In-Conversation-With-General-GD-Bakshi.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:56:00
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:08 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3 2016-11-21-My-dialogue-with-Shri-Chamu-
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-21-My-dialogue-with-Shri-Chamu-Krishna-Shastry-great-champion-of-Sanskrit.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:32:17
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:07 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3 2016-11-15-In-Conversation-with-Dr-Nagaswam
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-15-In-Conversation-with-Dr-Nagaswamy-Eminent-Archaeologist-Scholar-23.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:43:02
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:06 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3 2016-11-14-Rajiv-Malhotra-In-Conversation-
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-11-14-Rajiv-Malhotra-In-Conversation-with-Sri-Sri-Ravi-Shankar-fb-LIVE-22.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:18:37
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:05 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3 2016-10-14-Rajiv-Malhotra-in-Conversation-with
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-14-Rajiv-Malhotra-in-Conversation-with-Francois-Gautier-fb-LIVE-18.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:40:58
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:04 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3 2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3
+        </title>
+        <description>
+           2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3 2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3
+        </description>
+        <itunes:summary>
+           2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3 2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3 2016-10-01-4-Provocative-Speculation-A
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-4-Provocative-Speculation-Are-Many-Hindus-Unfit-for-Hinduism-Rajiv-with-Dr-Satyanarayana-Dasa-4.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:35
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:03 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3 2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3
+        </title>
+        <description>
+           2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3 2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3
+        </description>
+        <itunes:summary>
+           2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3 2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3 2016-10-01-3-Indian-Spiritual-Traditions-Deman
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-3-Indian-Spiritual-Traditions-Demand-Discipline-Rigor-Integrity-Dr-Satyanarayana-Dasa-3.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:49:27
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:02 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3 2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3
+        </title>
+        <description>
+           2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3 2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3
+        </description>
+        <itunes:summary>
+           2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3 2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3 2016-10-01-2-Can-Dharmic-Abrahamic-Tra
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-2-Can-Dharmic-Abrahamic-Traditions-be-Reconciled-Rajiv-in-Dialogue-with-Dr-Satyanarayana-Dasa-2.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:22:35
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:01 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3 2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3
+        </title>
+        <description>
+           2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3 2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3
+        </description>
+        <itunes:summary>
+           2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3 2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3 2016-10-01-1-History-Contributions-of-the-
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-10-01-1-History-Contributions-of-the-Jiva-Goswami-Tradition-Dialogue-with-Dr-Satyanarayana-Dasa-1.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:05:01
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:59:00 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3 2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3
+        </title>
+        <description>
+           2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3 2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3
+        </description>
+        <itunes:summary>
+           2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3 2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3 2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-09-16-Rajiv-Malhotra-with-Yogi-Amrit-Desai-FULL-Interview.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:37:43
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:59 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3 2016-09-10-Rajiv-Malhot
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-09-10-Rajiv-Malhotra-Dr-Subramanian-Swamy-in-a-Vibrant-LIVE-Broadcast-on-Strategic-Issues-16.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:57:05
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:58 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-07-In-Conversation-with-Swami-Nithyananda.mp3 2016-07-In-Conversation-with-Swami-Nithyananda.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-07-In-Conversation-with-Swami-Nithyananda.mp3 2016-07-In-Conversation-with-Swami-Nithyananda.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-07-In-Conversation-with-Swami-Nithyananda.mp3 2016-07-In-Conversation-with-Swami-Nithyananda.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-07-In-Conversation-with-Swami-Nithyananda.mp3 2016-07-In-Conversation-with-Swami-Nithyananda.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-In-Conversation-with-Swami-Nithyananda.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-In-Conversation-with-Swami-Nithyananda.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:01
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:57 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3 2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-A-Discussion-with-Nithyananda-on-Sadashiva.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:50:50
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:56 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3 2016-07-13-Rajiv-Malhotra-Discus
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-13-Rajiv-Malhotra-Discusses-Strategy-for-Kumbh-Mela-with-Head-of-Akhada-Parishad.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:19:33
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:55 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3 2016-07-10-Supreme-Court-Lawyer
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-07-10-Supreme-Court-Lawyer-Monika-Arora-Explains-Lawsuit-Against-Wendy-Donigers-Book.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:12:17
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:54 +0530
+        </pubDate>
+      </item><item>
+        <title>
+          Talking with the Masters 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3
+        </title>
+        <description>
+          Talking with the Masters 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3
+        </description>
+        <itunes:summary>
+          Talking with the Masters 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+          Talking with the Masters 2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3 2016-02-01-In-conversation-with-Madhu-Kishwar-The-B
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/Rajiv-Malhotra-Talks-With-Living-Legends/2016-02-01-In-conversation-with-Madhu-Kishwar-The-Battle-For-Sanskrit.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:11:32
+      </itunes:duration>
+        <pubDate>
+          Tue, 18 Oct 2016 01:58:53 +0530
+        </pubDate>
+      </item>
+        </channel>
+      </rss>
