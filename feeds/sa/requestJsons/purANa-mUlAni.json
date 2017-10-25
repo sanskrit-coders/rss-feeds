@@ -1,7 +1,19 @@
 {
   "archiveIds": [
-    "vAlmIki-rAmAyaNa-mUla-pATHaH-1-22",
-    "Shrimad-Bhagawat-Samhita-sanskrit"
+    "Shrimad-Bhagawat-Samhita-sanskrit",
+    "narayaneeyam_201509",
+    "bhMaahath",
+    "BhagavathamPart1-3",
+    "Bhagavatham-Part23",
+    "Bhagavatham-Part56",
+    "BhagavathamPart7-8-9",
+    "BhagavathamPart11",
+    "sravanam02",
+    "skanda10a",
+    "sravanam10b_201405",
+    "sravanam01_201407",
+    "Bhagavatham12",
+    "Garudapuranam_201405"
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
