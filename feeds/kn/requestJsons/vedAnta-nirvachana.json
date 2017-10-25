@@ -1,0 +1,19 @@
+{
+  "archiveIds": [
+    "MUKUNDAMALA_201606",
+    "Vishnusahasranama14.08.05Dr.K.S.Narayanacharya",
+    "KATHAUPANISHAD_201606"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "vedAnta-nirvachana",
+      "description": "vedAnta-nirvachana",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "kn",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
