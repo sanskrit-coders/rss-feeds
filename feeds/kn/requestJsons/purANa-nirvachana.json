@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "RAMAYANAMAHABHARATASRIMADVALMIKIRAMAYANA.DISCOURCEPRAVACHANAMPRAVACHANAKANNADALA",
+    "vasankn_gmail_6"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "vedAnta-mUlAni वेदान्तम्",
+      "description": "",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
