@@ -1,0 +1,32 @@
+{
+  "archiveIds": [
+    "vAlmIki-rAmAyaNa-mUla-pATHaH-1-22",
+    "vrbala",
+    "vrayodhya",
+    "vraranya",
+    "vrsundara",
+    "vryudhdha",
+    "vruththara",
+    "vrkramam",
+    "arbala",
+    "arint",
+    "arayodhya",
+    "araranya",
+    "arkishkinda",
+    "arsundara",
+    "aryudhdha",
+    "aruththara"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "rAmAyaNa-mUla-paThanam  रामायणम्",
+      "description": "vAlmIki-rAmAyaNam, adhyAtma-rAmAyaNam",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
