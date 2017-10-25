@@ -1,0 +1,20 @@
+{
+  "archiveIds": [
+    "prahlada_201601",
+    "rukmineekalyaanam",
+    "PotanaTeluguBhagavatam-Sk.1-Introduction",
+    "TeluguPadhyalu"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "purANa-mUla",
+      "description": "purANa-mUla",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "te",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
