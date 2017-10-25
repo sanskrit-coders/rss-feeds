@@ -1,0 +1,40 @@
+{
+  "archiveIds": [
+    "sg01vishnu",
+    "sg01devi",
+    "sg01ganesh",
+    "Lalitha300",
+    "sg01ishwara",
+    "sg01ikt",
+    "SrivaishnavaStotra",
+    "savitR-stotra-2014",
+    "shiva-stOtrANi-2015-03",
+    "durgA-stotrANi-whatsapp-2015-03",
+    "guru-stotra-2015-03",
+    "GAYATRI-STOTRA-S",
+    "AUD20150227WA0009",
+    "MahishasuramardiniStotra",
+    "gaNesha-stotra-vivaraNam-saMskRtena",
+    "151012001",
+    "151210001",
+    "SriAdiShankaracharyaSoundaryaLahari",
+    "VishnuSahasranamaStotra",
+    "srivalli_sahasranama_stotram",
+    "07.NarmadaStotraMarkandeyakritMusic",
+    "MurariLalMishraDevAparadhKshamapanStotram_2",
+    "GangaStotramM_L_Mishra",
+    "SriRaghavendraStotraSriPoornabodhaGuruthirtha"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": " स्तोत्राणि  stotra",
+      "description": " स्तोत्राणि  stotra",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
