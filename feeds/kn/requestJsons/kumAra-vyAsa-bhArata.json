@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "kumAra-vyAsa-mahA-bhArata-parva-1-sandhi-1",
+    "kumAra-vyAsa-mahA-bhArata-parva-1-sandhi-2",
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "kumAra-vyAsa-mahA-bhArata vivaraNeya sahita",
+      "description": "kumAra-vyAsa-mahA-bhArata",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "kn",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Pooja and friends",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
