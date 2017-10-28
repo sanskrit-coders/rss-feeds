@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "NagusPodcast"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "Nagu and co podcasts",
+      "description": "DVG",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "kn",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Nagu and co",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
