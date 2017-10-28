@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "mahAbhArata-mUla-paThanam-GP"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "mahAbhArata-mUla-paThanam महाभारतम्",
+      "description": "महाभारतम्",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit scholars",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
