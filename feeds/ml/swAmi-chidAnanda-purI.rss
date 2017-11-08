@@ -1,11 +1,2945 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access /scala/podcasts/v1/archiveItems/swAmi-chidAnanda-purI
-on this server.<br />
-</p>
-<hr>
-<address>Apache/2.4.18 (Ubuntu) Server at api.vedavaapi.org Port 443</address>
-</body></html>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        
+
+        <channel>
+          
+
+          <title>
+            Talks of Swami Chidananda Puri
+          </title>
+          <!--Various description fields.-->
+          <description>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/swAmi-chidAnanda-purI, with description:
+Collection of some talks in audio format by Pujya Swami Chidananda Puri from YouTube and other sources. For originals search in YouTube or visit their website http://advaithashramam.org/ or FaceBook page: https://www.facebook.com/chidanandapuri/.&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;പൂജ്യ സ്വാമി ചിദാനന്ദപുരികളുടെ ഭാഷണങ്ങൾ.&lt;/div&gt;.
+          </description>
+          <itunes:subtitle>
+            Talks of Swami Chidananda Puri
+          </itunes:subtitle>
+          <itunes:summary>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/swAmi-chidAnanda-purI, with description:
+Collection of some talks in audio format by Pujya Swami Chidananda Puri from YouTube and other sources. For originals search in YouTube or visit their website http://advaithashramam.org/ or FaceBook page: https://www.facebook.com/chidanandapuri/.&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;പൂജ്യ സ്വാമി ചിദാനന്ദപുരികളുടെ ഭാഷണങ്ങൾ.&lt;/div&gt;.
+          </itunes:summary>
+          <!--The podcast website.-->
+          <link> https://archive.org/details/swAmi-chidAnanda-purI</link>
+
+          
+          <language>ml</language>
+          
+
+
+          <lastBuildDate>
+            Sat, 14 Jan 2017 15:52:39 +0530
+          </lastBuildDate>
+          <pubDate>
+            Sat, 14 Jan 2017 15:52:39 +0530
+          </pubDate>
+          <!--Publisher details.-->
+          <webMaster>
+            uttishta.bharata@gmail.com
+          </webMaster>
+          <itunes:author>
+            uttishta.bharata@gmail.com
+          </itunes:author>
+          <itunes:owner>
+            <itunes:name>
+              uttishta.bharata@gmail.com
+            </itunes:name>
+            <itunes:email>
+              uttishta.bharata@gmail.com
+            </itunes:email>
+          </itunes:owner>
+
+          
+          <image>
+            <url>https://archive.org/download/swAmi-chidAnanda-purI/swAmi-chidAnanda-purI-podcast.jpg</url>
+            <title>Talks of Swami Chidananda Puri</title>
+            <link> https://archive.org/details/swAmi-chidAnanda-purI</link>
+          </image>
+          <itunes:image href="https://archive.org/download/swAmi-chidAnanda-purI/swAmi-chidAnanda-purI-podcast.jpg"/>
+
+
+          
+          
+          <itunes:explicit>no</itunes:explicit>
+
+        
+          <itunes:category text="Society &amp; Culture"/>
+          <itunes:keywords>
+            Swami Chidananda Puri,Hindu,Kerala,Hinduism,Advaita,Yoga,Malayalam
+          </itunes:keywords>
+
+
+          <item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171031-14.mp3 2017-08-17-dharma-samvAdam-20171031-14.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171031-14.mp3 2017-08-17-dharma-samvAdam-20171031-14.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171031-14.mp3 2017-08-17-dharma-samvAdam-20171031-14.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171031-14.mp3 2017-08-17-dharma-samvAdam-20171031-14.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171031-14.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171031-14.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:40:14
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:54:05 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171031-13.mp3 2017-08-17-dharma-samvAdam-20171031-13.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171031-13.mp3 2017-08-17-dharma-samvAdam-20171031-13.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171031-13.mp3 2017-08-17-dharma-samvAdam-20171031-13.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171031-13.mp3 2017-08-17-dharma-samvAdam-20171031-13.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171031-13.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171031-13.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:05:50
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:54:04 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171031-12.mp3 2017-08-17-dharma-samvAdam-20171031-12.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171031-12.mp3 2017-08-17-dharma-samvAdam-20171031-12.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171031-12.mp3 2017-08-17-dharma-samvAdam-20171031-12.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171031-12.mp3 2017-08-17-dharma-samvAdam-20171031-12.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171031-12.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171031-12.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:56:29
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:54:03 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171030-11.mp3 2017-08-17-dharma-samvAdam-20171030-11.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171030-11.mp3 2017-08-17-dharma-samvAdam-20171030-11.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171030-11.mp3 2017-08-17-dharma-samvAdam-20171030-11.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171030-11.mp3 2017-08-17-dharma-samvAdam-20171030-11.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-11.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-11.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:45:48
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:54:02 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171030-10.mp3 2017-08-17-dharma-samvAdam-20171030-10.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171030-10.mp3 2017-08-17-dharma-samvAdam-20171030-10.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171030-10.mp3 2017-08-17-dharma-samvAdam-20171030-10.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171030-10.mp3 2017-08-17-dharma-samvAdam-20171030-10.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-10.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-10.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:08:02
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:54:01 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171030-09.mp3 2017-08-17-dharma-samvAdam-20171030-09.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171030-09.mp3 2017-08-17-dharma-samvAdam-20171030-09.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171030-09.mp3 2017-08-17-dharma-samvAdam-20171030-09.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171030-09.mp3 2017-08-17-dharma-samvAdam-20171030-09.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-09.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-09.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:45:42
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:54:00 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171030-08.mp3 2017-08-17-dharma-samvAdam-20171030-08.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171030-08.mp3 2017-08-17-dharma-samvAdam-20171030-08.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171030-08.mp3 2017-08-17-dharma-samvAdam-20171030-08.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171030-08.mp3 2017-08-17-dharma-samvAdam-20171030-08.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-08.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171030-08.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:49:43
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:59 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171020-07.mp3 2017-08-17-dharma-samvAdam-20171020-07.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171020-07.mp3 2017-08-17-dharma-samvAdam-20171020-07.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171020-07.mp3 2017-08-17-dharma-samvAdam-20171020-07.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171020-07.mp3 2017-08-17-dharma-samvAdam-20171020-07.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171020-07.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171020-07.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:45:38
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:58 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171018-06.mp3 2017-08-17-dharma-samvAdam-20171018-06.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171018-06.mp3 2017-08-17-dharma-samvAdam-20171018-06.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171018-06.mp3 2017-08-17-dharma-samvAdam-20171018-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171018-06.mp3 2017-08-17-dharma-samvAdam-20171018-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171018-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171018-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:45:09
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:57 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171016-05.mp3 2017-08-17-dharma-samvAdam-20171016-05.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171016-05.mp3 2017-08-17-dharma-samvAdam-20171016-05.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171016-05.mp3 2017-08-17-dharma-samvAdam-20171016-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171016-05.mp3 2017-08-17-dharma-samvAdam-20171016-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171016-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171016-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:39:09
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:56 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171013-04.mp3 2017-08-17-dharma-samvAdam-20171013-04.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171013-04.mp3 2017-08-17-dharma-samvAdam-20171013-04.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171013-04.mp3 2017-08-17-dharma-samvAdam-20171013-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171013-04.mp3 2017-08-17-dharma-samvAdam-20171013-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171013-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171013-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:49:18
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:55 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171011-03.mp3 2017-08-17-dharma-samvAdam-20171011-03.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171011-03.mp3 2017-08-17-dharma-samvAdam-20171011-03.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171011-03.mp3 2017-08-17-dharma-samvAdam-20171011-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171011-03.mp3 2017-08-17-dharma-samvAdam-20171011-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171011-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171011-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:39:37
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:54 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171010-02.mp3 2017-08-17-dharma-samvAdam-20171010-02.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171010-02.mp3 2017-08-17-dharma-samvAdam-20171010-02.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171010-02.mp3 2017-08-17-dharma-samvAdam-20171010-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171010-02.mp3 2017-08-17-dharma-samvAdam-20171010-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171010-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171010-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:27:40
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:53 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-08-17-dharma-samvAdam-20171009-01.mp3 2017-08-17-dharma-samvAdam-20171009-01.mp3
+        </title>
+        <description>
+           2017-08-17-dharma-samvAdam-20171009-01.mp3 2017-08-17-dharma-samvAdam-20171009-01.mp3
+        </description>
+        <itunes:summary>
+           2017-08-17-dharma-samvAdam-20171009-01.mp3 2017-08-17-dharma-samvAdam-20171009-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-08-17-dharma-samvAdam-20171009-01.mp3 2017-08-17-dharma-samvAdam-20171009-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171009-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-08-17-dharma-samvAdam-20171009-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:14:51
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:52 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3
+        </title>
+        <description>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3
+        </description>
+        <itunes:summary>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-04-07-Debate-Swamiji-RavichandranC-20170407-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:19:00
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:51 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3
+        </title>
+        <description>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3
+        </description>
+        <itunes:summary>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-04-07-Debate-Swamiji-RavichandranC-20170407-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:04:18
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:50 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3
+        </title>
+        <description>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3
+        </description>
+        <itunes:summary>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3 2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-04-07-Debate-Swamiji-RavichandranC-20170407-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:50:54
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:49 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2017-01-15-Benefits-of-De-monitisation.mp3 2017-01-15-Benefits-of-De-monitisation.mp3
+        </title>
+        <description>
+           2017-01-15-Benefits-of-De-monitisation.mp3 2017-01-15-Benefits-of-De-monitisation.mp3
+        </description>
+        <itunes:summary>
+           2017-01-15-Benefits-of-De-monitisation.mp3 2017-01-15-Benefits-of-De-monitisation.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2017-01-15-Benefits-of-De-monitisation.mp3 2017-01-15-Benefits-of-De-monitisation.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2017-01-15-Benefits-of-De-monitisation.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2017-01-15-Benefits-of-De-monitisation.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:28:40
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:48 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-03-01-pAlakkAt-prabhAShaNam-05.mp3 2016-03-01-pAlakkAt-prabhAShaNam-05.mp3
+        </title>
+        <description>
+           2016-03-01-pAlakkAt-prabhAShaNam-05.mp3 2016-03-01-pAlakkAt-prabhAShaNam-05.mp3
+        </description>
+        <itunes:summary>
+           2016-03-01-pAlakkAt-prabhAShaNam-05.mp3 2016-03-01-pAlakkAt-prabhAShaNam-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-03-01-pAlakkAt-prabhAShaNam-05.mp3 2016-03-01-pAlakkAt-prabhAShaNam-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:55:37
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:47 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-03-01-pAlakkAt-prabhAShaNam-04.mp3 2016-03-01-pAlakkAt-prabhAShaNam-04.mp3
+        </title>
+        <description>
+           2016-03-01-pAlakkAt-prabhAShaNam-04.mp3 2016-03-01-pAlakkAt-prabhAShaNam-04.mp3
+        </description>
+        <itunes:summary>
+           2016-03-01-pAlakkAt-prabhAShaNam-04.mp3 2016-03-01-pAlakkAt-prabhAShaNam-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-03-01-pAlakkAt-prabhAShaNam-04.mp3 2016-03-01-pAlakkAt-prabhAShaNam-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:32
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:46 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-03-01-pAlakkAt-prabhAShaNam-03.mp3 2016-03-01-pAlakkAt-prabhAShaNam-03.mp3
+        </title>
+        <description>
+           2016-03-01-pAlakkAt-prabhAShaNam-03.mp3 2016-03-01-pAlakkAt-prabhAShaNam-03.mp3
+        </description>
+        <itunes:summary>
+           2016-03-01-pAlakkAt-prabhAShaNam-03.mp3 2016-03-01-pAlakkAt-prabhAShaNam-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-03-01-pAlakkAt-prabhAShaNam-03.mp3 2016-03-01-pAlakkAt-prabhAShaNam-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:41
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:45 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-03-01-pAlakkAt-prabhAShaNam-02.mp3 2016-03-01-pAlakkAt-prabhAShaNam-02.mp3
+        </title>
+        <description>
+           2016-03-01-pAlakkAt-prabhAShaNam-02.mp3 2016-03-01-pAlakkAt-prabhAShaNam-02.mp3
+        </description>
+        <itunes:summary>
+           2016-03-01-pAlakkAt-prabhAShaNam-02.mp3 2016-03-01-pAlakkAt-prabhAShaNam-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-03-01-pAlakkAt-prabhAShaNam-02.mp3 2016-03-01-pAlakkAt-prabhAShaNam-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:57:49
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:44 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-03-01-pAlakkAt-prabhAShaNam-01.mp3 2016-03-01-pAlakkAt-prabhAShaNam-01.mp3
+        </title>
+        <description>
+           2016-03-01-pAlakkAt-prabhAShaNam-01.mp3 2016-03-01-pAlakkAt-prabhAShaNam-01.mp3
+        </description>
+        <itunes:summary>
+           2016-03-01-pAlakkAt-prabhAShaNam-01.mp3 2016-03-01-pAlakkAt-prabhAShaNam-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-03-01-pAlakkAt-prabhAShaNam-01.mp3 2016-03-01-pAlakkAt-prabhAShaNam-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-03-01-pAlakkAt-prabhAShaNam-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:55
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:43 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-07.mp3 2016-01-12-bhagavadgIta-54-72-shloka-07.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-07.mp3 2016-01-12-bhagavadgIta-54-72-shloka-07.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-07.mp3 2016-01-12-bhagavadgIta-54-72-shloka-07.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-07.mp3 2016-01-12-bhagavadgIta-54-72-shloka-07.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-07.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-07.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:04
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:42 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-06.mp3 2016-01-12-bhagavadgIta-54-72-shloka-06.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-06.mp3 2016-01-12-bhagavadgIta-54-72-shloka-06.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-06.mp3 2016-01-12-bhagavadgIta-54-72-shloka-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-06.mp3 2016-01-12-bhagavadgIta-54-72-shloka-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:02:42
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:41 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-05.mp3 2016-01-12-bhagavadgIta-54-72-shloka-05.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-05.mp3 2016-01-12-bhagavadgIta-54-72-shloka-05.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-05.mp3 2016-01-12-bhagavadgIta-54-72-shloka-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-05.mp3 2016-01-12-bhagavadgIta-54-72-shloka-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:02:47
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:40 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-04.mp3 2016-01-12-bhagavadgIta-54-72-shloka-04.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-04.mp3 2016-01-12-bhagavadgIta-54-72-shloka-04.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-04.mp3 2016-01-12-bhagavadgIta-54-72-shloka-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-04.mp3 2016-01-12-bhagavadgIta-54-72-shloka-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:50
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:39 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-03.mp3 2016-01-12-bhagavadgIta-54-72-shloka-03.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-03.mp3 2016-01-12-bhagavadgIta-54-72-shloka-03.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-03.mp3 2016-01-12-bhagavadgIta-54-72-shloka-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-03.mp3 2016-01-12-bhagavadgIta-54-72-shloka-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:02:14
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:38 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-02.mp3 2016-01-12-bhagavadgIta-54-72-shloka-02.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-02.mp3 2016-01-12-bhagavadgIta-54-72-shloka-02.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-02.mp3 2016-01-12-bhagavadgIta-54-72-shloka-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-02.mp3 2016-01-12-bhagavadgIta-54-72-shloka-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:03:10
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:37 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2016-01-12-bhagavadgIta-54-72-shloka-01.mp3 2016-01-12-bhagavadgIta-54-72-shloka-01.mp3
+        </title>
+        <description>
+           2016-01-12-bhagavadgIta-54-72-shloka-01.mp3 2016-01-12-bhagavadgIta-54-72-shloka-01.mp3
+        </description>
+        <itunes:summary>
+           2016-01-12-bhagavadgIta-54-72-shloka-01.mp3 2016-01-12-bhagavadgIta-54-72-shloka-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2016-01-12-bhagavadgIta-54-72-shloka-01.mp3 2016-01-12-bhagavadgIta-54-72-shloka-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2016-01-12-bhagavadgIta-54-72-shloka-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:57:24
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:36 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3
+        </title>
+        <description>
+           2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3
+        </description>
+        <itunes:summary>
+           2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-04-samvAdam-Swamiji-and-KEN.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-04-samvAdam-Swamiji-and-KEN.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:41:59
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:35 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3
+        </title>
+        <description>
+           2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3
+        </description>
+        <itunes:summary>
+           2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-03-samvAdam-Swamiji-and-KEN.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-03-samvAdam-Swamiji-and-KEN.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:42:00
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:34 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3
+        </title>
+        <description>
+           2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3
+        </description>
+        <itunes:summary>
+           2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-02-samvAdam-Swamiji-and-KEN.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-02-samvAdam-Swamiji-and-KEN.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:41:59
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:33 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3
+        </title>
+        <description>
+           2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3
+        </description>
+        <itunes:summary>
+           2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3 2015-12-07-01-samvAdam-Swamiji-and-KEN.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-12-07-01-samvAdam-Swamiji-and-KEN.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:42:01
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:32 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3
+        </title>
+        <description>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3
+        </description>
+        <itunes:summary>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-07.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:12:46
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:31 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3
+        </title>
+        <description>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3
+        </description>
+        <itunes:summary>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150801-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:52:17
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:30 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3
+        </title>
+        <description>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3
+        </description>
+        <itunes:summary>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:01:42
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:29 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3
+        </title>
+        <description>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3
+        </description>
+        <itunes:summary>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150731-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:31
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:28 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3
+        </title>
+        <description>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3
+        </description>
+        <itunes:summary>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150730-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:59:10
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:27 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3
+        </title>
+        <description>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3
+        </description>
+        <itunes:summary>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3 2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2015-01-07-shrImad-bhagavad-gItA-ch02-shlokas-26-50-20150729-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:52
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:26 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-08-07-nammuTE-dautyaM-20160826-01.mp3 2014-08-07-nammuTE-dautyaM-20160826-01.mp3
+        </title>
+        <description>
+           2014-08-07-nammuTE-dautyaM-20160826-01.mp3 2014-08-07-nammuTE-dautyaM-20160826-01.mp3
+        </description>
+        <itunes:summary>
+           2014-08-07-nammuTE-dautyaM-20160826-01.mp3 2014-08-07-nammuTE-dautyaM-20160826-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-08-07-nammuTE-dautyaM-20160826-01.mp3 2014-08-07-nammuTE-dautyaM-20160826-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-08-07-nammuTE-dautyaM-20160826-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-08-07-nammuTE-dautyaM-20160826-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:14:48
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:25 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3
+        </title>
+        <description>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3
+        </description>
+        <itunes:summary>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:03:24
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:24 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3
+        </title>
+        <description>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3
+        </description>
+        <itunes:summary>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:02:55
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:23 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3
+        </title>
+        <description>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3
+        </description>
+        <itunes:summary>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:32
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:22 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3
+        </title>
+        <description>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3
+        </description>
+        <itunes:summary>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:57:13
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:21 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3
+        </title>
+        <description>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3
+        </description>
+        <itunes:summary>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3 2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-04-19-dharmAcharaNam-raShtra-nanmakku-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:53:47
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:20 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3
+        </title>
+        <description>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3
+        </description>
+        <itunes:summary>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140310-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:15
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:19 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3
+        </title>
+        <description>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3
+        </description>
+        <itunes:summary>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140309-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:12
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:18 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3
+        </title>
+        <description>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3
+        </description>
+        <itunes:summary>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:28
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:17 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3
+        </title>
+        <description>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3
+        </description>
+        <itunes:summary>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140303-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:48
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:16 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3
+        </title>
+        <description>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3
+        </description>
+        <itunes:summary>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140302-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:59:44
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:15 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3
+        </title>
+        <description>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3
+        </description>
+        <itunes:summary>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3 2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2014-01-12-shrImad-bhagavad-gItA-ch02-20140301-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:57:52
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:14 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-07 2013-11-05-nAradIya-bhakti-sUtraNNaL-07.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-07 2013-11-05-nAradIya-bhakti-sUtraNNaL-07.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-07 2013-11-05-nAradIya-bhakti-sUtraNNaL-07.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-07 2013-11-05-nAradIya-bhakti-sUtraNNaL-07.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-07.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-07.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:29:20
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:13 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-06 2013-11-05-nAradIya-bhakti-sUtraNNaL-06.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-06 2013-11-05-nAradIya-bhakti-sUtraNNaL-06.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-06 2013-11-05-nAradIya-bhakti-sUtraNNaL-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-06 2013-11-05-nAradIya-bhakti-sUtraNNaL-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:30:22
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:12 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-05 2013-11-05-nAradIya-bhakti-sUtraNNaL-05.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-05 2013-11-05-nAradIya-bhakti-sUtraNNaL-05.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-05 2013-11-05-nAradIya-bhakti-sUtraNNaL-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-05 2013-11-05-nAradIya-bhakti-sUtraNNaL-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:23:52
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:11 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-04 2013-11-05-nAradIya-bhakti-sUtraNNaL-04.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-04 2013-11-05-nAradIya-bhakti-sUtraNNaL-04.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-04 2013-11-05-nAradIya-bhakti-sUtraNNaL-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-04 2013-11-05-nAradIya-bhakti-sUtraNNaL-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:31:55
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:10 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-03 2013-11-05-nAradIya-bhakti-sUtraNNaL-03.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-03 2013-11-05-nAradIya-bhakti-sUtraNNaL-03.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-03 2013-11-05-nAradIya-bhakti-sUtraNNaL-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-03 2013-11-05-nAradIya-bhakti-sUtraNNaL-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:31:19
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:09 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-02 2013-11-05-nAradIya-bhakti-sUtraNNaL-02.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-02 2013-11-05-nAradIya-bhakti-sUtraNNaL-02.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-02 2013-11-05-nAradIya-bhakti-sUtraNNaL-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-02 2013-11-05-nAradIya-bhakti-sUtraNNaL-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:30:09
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:08 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-01 2013-11-05-nAradIya-bhakti-sUtraNNaL-01.mp3
+        </title>
+        <description>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-01 2013-11-05-nAradIya-bhakti-sUtraNNaL-01.mp3
+        </description>
+        <itunes:summary>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-01 2013-11-05-nAradIya-bhakti-sUtraNNaL-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-11-05-nAradIya-bhakti-sUtra~N~NaL-01 2013-11-05-nAradIya-bhakti-sUtraNNaL-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-11-05-nAradIya-bhakti-sUtraNNaL-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:30:09
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:07 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3 2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3
+        </title>
+        <description>
+           2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3 2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3
+        </description>
+        <itunes:summary>
+           2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3 2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3 2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-04-15-hindudharmattiNTe-yukti-bhadrata.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:02:54
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:06 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-02-24-AchArAnuShTAna~N~NaL 2013-02-24-AchArAnuShTAnaNNaL.mp3
+        </title>
+        <description>
+           2013-02-24-AchArAnuShTAna~N~NaL 2013-02-24-AchArAnuShTAnaNNaL.mp3
+        </description>
+        <itunes:summary>
+           2013-02-24-AchArAnuShTAna~N~NaL 2013-02-24-AchArAnuShTAnaNNaL.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-02-24-AchArAnuShTAna~N~NaL 2013-02-24-AchArAnuShTAnaNNaL.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-02-24-AchArAnuShTAnaNNaL.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-02-24-AchArAnuShTAnaNNaL.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:56:24
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:05 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3 2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3
+        </title>
+        <description>
+           2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3 2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3
+        </description>
+        <itunes:summary>
+           2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3 2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3 2013-02-01-dharmmavum-uNarunna-bhAratavum.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-02-01-dharmmavum-uNarunna-bhAratavum.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:49:43
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:04 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-01-13-uttiShta-bhArata-06-of-06.mp3 2013-01-13-uttiShta-bhArata-06-of-06.mp3
+        </title>
+        <description>
+           2013-01-13-uttiShta-bhArata-06-of-06.mp3 2013-01-13-uttiShta-bhArata-06-of-06.mp3
+        </description>
+        <itunes:summary>
+           2013-01-13-uttiShta-bhArata-06-of-06.mp3 2013-01-13-uttiShta-bhArata-06-of-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-01-13-uttiShta-bhArata-06-of-06.mp3 2013-01-13-uttiShta-bhArata-06-of-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-06-of-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-06-of-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:45:16
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:03 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-01-13-uttiShta-bhArata-05-of-06.mp3 2013-01-13-uttiShta-bhArata-05-of-06.mp3
+        </title>
+        <description>
+           2013-01-13-uttiShta-bhArata-05-of-06.mp3 2013-01-13-uttiShta-bhArata-05-of-06.mp3
+        </description>
+        <itunes:summary>
+           2013-01-13-uttiShta-bhArata-05-of-06.mp3 2013-01-13-uttiShta-bhArata-05-of-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-01-13-uttiShta-bhArata-05-of-06.mp3 2013-01-13-uttiShta-bhArata-05-of-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-05-of-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-05-of-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:14
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:02 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-01-13-uttiShta-bhArata-04-of-06.mp3 2013-01-13-uttiShta-bhArata-04-of-06.mp3
+        </title>
+        <description>
+           2013-01-13-uttiShta-bhArata-04-of-06.mp3 2013-01-13-uttiShta-bhArata-04-of-06.mp3
+        </description>
+        <itunes:summary>
+           2013-01-13-uttiShta-bhArata-04-of-06.mp3 2013-01-13-uttiShta-bhArata-04-of-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-01-13-uttiShta-bhArata-04-of-06.mp3 2013-01-13-uttiShta-bhArata-04-of-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-04-of-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-04-of-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:18
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:01 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-01-13-uttiShta-bhArata-03-of-06.mp3 2013-01-13-uttiShta-bhArata-03-of-06.mp3
+        </title>
+        <description>
+           2013-01-13-uttiShta-bhArata-03-of-06.mp3 2013-01-13-uttiShta-bhArata-03-of-06.mp3
+        </description>
+        <itunes:summary>
+           2013-01-13-uttiShta-bhArata-03-of-06.mp3 2013-01-13-uttiShta-bhArata-03-of-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-01-13-uttiShta-bhArata-03-of-06.mp3 2013-01-13-uttiShta-bhArata-03-of-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-03-of-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-03-of-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:00:20
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:53:00 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-01-13-uttiShta-bhArata-02-of-06.mp3 2013-01-13-uttiShta-bhArata-02-of-06.mp3
+        </title>
+        <description>
+           2013-01-13-uttiShta-bhArata-02-of-06.mp3 2013-01-13-uttiShta-bhArata-02-of-06.mp3
+        </description>
+        <itunes:summary>
+           2013-01-13-uttiShta-bhArata-02-of-06.mp3 2013-01-13-uttiShta-bhArata-02-of-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-01-13-uttiShta-bhArata-02-of-06.mp3 2013-01-13-uttiShta-bhArata-02-of-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-02-of-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-02-of-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:58:32
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:59 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2013-01-13-uttiShta-bhArata-01-of-06.mp3 2013-01-13-uttiShta-bhArata-01-of-06.mp3
+        </title>
+        <description>
+           2013-01-13-uttiShta-bhArata-01-of-06.mp3 2013-01-13-uttiShta-bhArata-01-of-06.mp3
+        </description>
+        <itunes:summary>
+           2013-01-13-uttiShta-bhArata-01-of-06.mp3 2013-01-13-uttiShta-bhArata-01-of-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2013-01-13-uttiShta-bhArata-01-of-06.mp3 2013-01-13-uttiShta-bhArata-01-of-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-01-of-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2013-01-13-uttiShta-bhArata-01-of-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:59:11
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:58 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3
+        </title>
+        <description>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3
+        </description>
+        <itunes:summary>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:22:35
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:57 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3
+        </title>
+        <description>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3
+        </description>
+        <itunes:summary>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:01:42
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:56 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3
+        </title>
+        <description>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3
+        </description>
+        <itunes:summary>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:33
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:55 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3
+        </title>
+        <description>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3
+        </description>
+        <itunes:summary>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:47:44
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:54 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3
+        </title>
+        <description>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3
+        </description>
+        <itunes:summary>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:15
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:53 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3
+        </title>
+        <description>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3
+        </description>
+        <itunes:summary>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3 2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2012-01-13-SCP-Discourse-on-Karma-Yoga-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:09:26
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:52 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2011-IshAvAsyamidamsarvam-20120126-06.mp3 2011-IshAvAsyamidamsarvam-20120126-06.mp3
+        </title>
+        <description>
+           2011-IshAvAsyamidamsarvam-20120126-06.mp3 2011-IshAvAsyamidamsarvam-20120126-06.mp3
+        </description>
+        <itunes:summary>
+           2011-IshAvAsyamidamsarvam-20120126-06.mp3 2011-IshAvAsyamidamsarvam-20120126-06.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2011-IshAvAsyamidamsarvam-20120126-06.mp3 2011-IshAvAsyamidamsarvam-20120126-06.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120126-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120126-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:03
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:51 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2011-IshAvAsyamidamsarvam-20120126-05.mp3 2011-IshAvAsyamidamsarvam-20120126-05.mp3
+        </title>
+        <description>
+           2011-IshAvAsyamidamsarvam-20120126-05.mp3 2011-IshAvAsyamidamsarvam-20120126-05.mp3
+        </description>
+        <itunes:summary>
+           2011-IshAvAsyamidamsarvam-20120126-05.mp3 2011-IshAvAsyamidamsarvam-20120126-05.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2011-IshAvAsyamidamsarvam-20120126-05.mp3 2011-IshAvAsyamidamsarvam-20120126-05.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120126-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120126-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:57:13
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:50 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2011-IshAvAsyamidamsarvam-20120125-04.mp3 2011-IshAvAsyamidamsarvam-20120125-04.mp3
+        </title>
+        <description>
+           2011-IshAvAsyamidamsarvam-20120125-04.mp3 2011-IshAvAsyamidamsarvam-20120125-04.mp3
+        </description>
+        <itunes:summary>
+           2011-IshAvAsyamidamsarvam-20120125-04.mp3 2011-IshAvAsyamidamsarvam-20120125-04.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2011-IshAvAsyamidamsarvam-20120125-04.mp3 2011-IshAvAsyamidamsarvam-20120125-04.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120125-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120125-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:54
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:49 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2011-IshAvAsyamidamsarvam-20120123-03.mp3 2011-IshAvAsyamidamsarvam-20120123-03.mp3
+        </title>
+        <description>
+           2011-IshAvAsyamidamsarvam-20120123-03.mp3 2011-IshAvAsyamidamsarvam-20120123-03.mp3
+        </description>
+        <itunes:summary>
+           2011-IshAvAsyamidamsarvam-20120123-03.mp3 2011-IshAvAsyamidamsarvam-20120123-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2011-IshAvAsyamidamsarvam-20120123-03.mp3 2011-IshAvAsyamidamsarvam-20120123-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120123-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120123-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:13:42
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:48 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2011-IshAvAsyamidamsarvam-20120123-02.mp3 2011-IshAvAsyamidamsarvam-20120123-02.mp3
+        </title>
+        <description>
+           2011-IshAvAsyamidamsarvam-20120123-02.mp3 2011-IshAvAsyamidamsarvam-20120123-02.mp3
+        </description>
+        <itunes:summary>
+           2011-IshAvAsyamidamsarvam-20120123-02.mp3 2011-IshAvAsyamidamsarvam-20120123-02.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2011-IshAvAsyamidamsarvam-20120123-02.mp3 2011-IshAvAsyamidamsarvam-20120123-02.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120123-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120123-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:14:29
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:47 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2011-IshAvAsyamidamsarvam-20120123-01.mp3 2011-IshAvAsyamidamsarvam-20120123-01.mp3
+        </title>
+        <description>
+           2011-IshAvAsyamidamsarvam-20120123-01.mp3 2011-IshAvAsyamidamsarvam-20120123-01.mp3
+        </description>
+        <itunes:summary>
+           2011-IshAvAsyamidamsarvam-20120123-01.mp3 2011-IshAvAsyamidamsarvam-20120123-01.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2011-IshAvAsyamidamsarvam-20120123-01.mp3 2011-IshAvAsyamidamsarvam-20120123-01.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120123-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2011-IshAvAsyamidamsarvam-20120123-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:10:23
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:46 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2010-01-04-uddharEd-AtmnAtmAnam.mp3 2010-01-04-uddharEd-AtmnAtmAnam.mp3
+        </title>
+        <description>
+           2010-01-04-uddharEd-AtmnAtmAnam.mp3 2010-01-04-uddharEd-AtmnAtmAnam.mp3
+        </description>
+        <itunes:summary>
+           2010-01-04-uddharEd-AtmnAtmAnam.mp3 2010-01-04-uddharEd-AtmnAtmAnam.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2010-01-04-uddharEd-AtmnAtmAnam.mp3 2010-01-04-uddharEd-AtmnAtmAnam.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2010-01-04-uddharEd-AtmnAtmAnam.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2010-01-04-uddharEd-AtmnAtmAnam.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        02:03:09
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:45 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2009-01-12-dharmma-prabhAShaNa-parampara.mp3 2009-01-12-dharmma-prabhAShaNa-parampara.mp3
+        </title>
+        <description>
+           2009-01-12-dharmma-prabhAShaNa-parampara.mp3 2009-01-12-dharmma-prabhAShaNa-parampara.mp3
+        </description>
+        <itunes:summary>
+           2009-01-12-dharmma-prabhAShaNa-parampara.mp3 2009-01-12-dharmma-prabhAShaNa-parampara.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2009-01-12-dharmma-prabhAShaNa-parampara.mp3 2009-01-12-dharmma-prabhAShaNa-parampara.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2009-01-12-dharmma-prabhAShaNa-parampara.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2009-01-12-dharmma-prabhAShaNa-parampara.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:57:40
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:44 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2008-10-12-01-daivadashakam-03-03.mp3 2008-10-12-01-daivadashakam-03-03.mp3
+        </title>
+        <description>
+           2008-10-12-01-daivadashakam-03-03.mp3 2008-10-12-01-daivadashakam-03-03.mp3
+        </description>
+        <itunes:summary>
+           2008-10-12-01-daivadashakam-03-03.mp3 2008-10-12-01-daivadashakam-03-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2008-10-12-01-daivadashakam-03-03.mp3 2008-10-12-01-daivadashakam-03-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2008-10-12-01-daivadashakam-03-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2008-10-12-01-daivadashakam-03-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:03:39
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:43 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2008-10-12-01-daivadashakam-02-03.mp3 2008-10-12-01-daivadashakam-02-03.mp3
+        </title>
+        <description>
+           2008-10-12-01-daivadashakam-02-03.mp3 2008-10-12-01-daivadashakam-02-03.mp3
+        </description>
+        <itunes:summary>
+           2008-10-12-01-daivadashakam-02-03.mp3 2008-10-12-01-daivadashakam-02-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2008-10-12-01-daivadashakam-02-03.mp3 2008-10-12-01-daivadashakam-02-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2008-10-12-01-daivadashakam-02-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2008-10-12-01-daivadashakam-02-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:02:35
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:42 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2008-10-12-01-daivadashakam-01-03.mp3 2008-10-12-01-daivadashakam-01-03.mp3
+        </title>
+        <description>
+           2008-10-12-01-daivadashakam-01-03.mp3 2008-10-12-01-daivadashakam-01-03.mp3
+        </description>
+        <itunes:summary>
+           2008-10-12-01-daivadashakam-01-03.mp3 2008-10-12-01-daivadashakam-01-03.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2008-10-12-01-daivadashakam-01-03.mp3 2008-10-12-01-daivadashakam-01-03.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2008-10-12-01-daivadashakam-01-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2008-10-12-01-daivadashakam-01-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:56:24
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:41 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2007-09-23-bhakti-yogaM.mp3 2007-09-23-bhakti-yogaM.mp3
+        </title>
+        <description>
+           2007-09-23-bhakti-yogaM.mp3 2007-09-23-bhakti-yogaM.mp3
+        </description>
+        <itunes:summary>
+           2007-09-23-bhakti-yogaM.mp3 2007-09-23-bhakti-yogaM.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2007-09-23-bhakti-yogaM.mp3 2007-09-23-bhakti-yogaM.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2007-09-23-bhakti-yogaM.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2007-09-23-bhakti-yogaM.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:00:48
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:40 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           2005-01-12-varNavuM-jAtiyuM.mp3 2005-01-12-varNavuM-jAtiyuM.mp3
+        </title>
+        <description>
+           2005-01-12-varNavuM-jAtiyuM.mp3 2005-01-12-varNavuM-jAtiyuM.mp3
+        </description>
+        <itunes:summary>
+           2005-01-12-varNavuM-jAtiyuM.mp3 2005-01-12-varNavuM-jAtiyuM.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           2005-01-12-varNavuM-jAtiyuM.mp3 2005-01-12-varNavuM-jAtiyuM.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/swAmi-chidAnanda-purI/2005-01-12-varNavuM-jAtiyuM.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/swAmi-chidAnanda-purI/2005-01-12-varNavuM-jAtiyuM.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:05:37
+      </itunes:duration>
+        <pubDate>
+          Sat, 14 Jan 2017 15:52:39 +0530
+        </pubDate>
+      </item>
+        </channel>
+      </rss>
