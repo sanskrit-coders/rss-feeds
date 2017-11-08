@@ -10,14 +10,14 @@
           <!--Various description fields.-->
           <description>
             A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends, with description:
-Rajiv Malhotra interviews Living Legends of the Dharmic Traditions..
+Rajiv Malhotra interviews Living Legends of the Dharmic Traditions. &lt;div&gt;For original source please visit https://rajivmalhotra.com/ &lt;/div&gt;&lt;div&gt;Facebook: https://www.facebook.com/RajivMalhotra.Official/ &lt;/div&gt;&lt;div&gt;YouTube: https://www.youtube.com/channel/UCk85J3pqkn1y--k2wNMbthA&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;- Rajiv Malhotra Volunteers.&lt;/div&gt;.
           </description>
           <itunes:subtitle>
             Rajiv Malhotra's Dialogue with the Masters
           </itunes:subtitle>
           <itunes:summary>
             A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends, with description:
-Rajiv Malhotra interviews Living Legends of the Dharmic Traditions..
+Rajiv Malhotra interviews Living Legends of the Dharmic Traditions. &lt;div&gt;For original source please visit https://rajivmalhotra.com/ &lt;/div&gt;&lt;div&gt;Facebook: https://www.facebook.com/RajivMalhotra.Official/ &lt;/div&gt;&lt;div&gt;YouTube: https://www.youtube.com/channel/UCk85J3pqkn1y--k2wNMbthA&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;- Rajiv Malhotra Volunteers.&lt;/div&gt;.
           </itunes:summary>
           <!--The podcast website.-->
           <link> https://archive.org/details/Rajiv-Malhotra-Talks-With-Living-Legends</link>
@@ -35,17 +35,17 @@ Rajiv Malhotra interviews Living Legends of the Dharmic Traditions..
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
-            podcast-bhaaratii@googlegroups.com
+            uttishta.bharata@gmail.com
           </webMaster>
           <itunes:author>
-            podcast-bhaaratii@googlegroups.com
+            uttishta.bharata@gmail.com
           </itunes:author>
           <itunes:owner>
             <itunes:name>
-              podcast-bhaaratii@googlegroups.com
+              uttishta.bharata@gmail.com
             </itunes:name>
             <itunes:email>
-              podcast-bhaaratii@googlegroups.com
+              uttishta.bharata@gmail.com
             </itunes:email>
           </itunes:owner>
 
