@@ -6,11 +6,11 @@
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
     "podcastTemplate": {
-      "title": "Swadeshi Indology Conferences: combined",
+      "title": "Swadeshi Indology Conferences",
       "description": "Podcast of all Swadeshi Indology Conferences",
-      "imageUrl": "https://archive.org/download/Swadeshi-Indology-Conference-01/artwork-01.jpg",
+      "imageUrl": "https://archive.org/download/Swadeshi-Indology-Conference-01/artwork-01-hres.jpg",
       "languageCode": "en",
-      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "publisherEmail": "uttishta.bharata@gmail.com",
       "author": "Rajiv Malhotra",
       "isExplicitYesNo": "no",
       "categories": "Society & Culture"
