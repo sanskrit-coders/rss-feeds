@@ -1,12 +1,13 @@
 {
   "archiveIds": [
-    "DVG-Jnapaka-chitra-shaale-audio"
+    "DVG-Jnapaka-chitra-shaale-audio",
+    "MahaBrahmana-by-DevuduAudio"
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
     "podcastTemplate": {
       "title": "Nagu and co podcasts",
-      "description": "DVG",
+      "description": "Covers books by authors like: DVG, devuDu narasimha shAstri",
       "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
       "languageCode": "kn",
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
