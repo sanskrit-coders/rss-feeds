@@ -3,7 +3,7 @@
     "DVG-Jnapaka-chitra-shaale-audio",
     "MahaBrahmana-by-DevuduAudio"
     ],
-    "useArchiveOrder": true,
+    "useArchiveOrder": false,
     "filePattern": ".*\\.mp3",
     "podcastTemplate": {
       "title": "Nagu and co podcasts",
