@@ -9,19 +9,21 @@
           </title>
           <!--Various description fields.-->
           <description>
-            Sanskrit stories read by Samskrita Bharati volunteers from the Sambhashana Sandesha Sanskrit Magazine (2015-2019).
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/bAlamodinI-05, with description:
+Sanskrit stories read by Samskrita Bharati volunteers from the Sambhashana Sandesha Sanskrit Magazine (2015-2019)..
           </description>
           <itunes:subtitle>
             Balamodini Children's Stories in Sanskrit (2015 to 2019)
           </itunes:subtitle>
           <itunes:summary>
-            Sanskrit stories read by Samskrita Bharati volunteers from the Sambhashana Sandesha Sanskrit Magazine (2015-2019).
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/bAlamodinI-05, with description:
+Sanskrit stories read by Samskrita Bharati volunteers from the Sambhashana Sandesha Sanskrit Magazine (2015-2019)..
           </itunes:summary>
           <!--The podcast website.-->
           <link> https://archive.org/details/bAlamodinI-05</link>
 
           
-          <language>sa</language>
+          <language>en</language>
           
 
 
@@ -69,6 +71,600 @@
 
           <item>
         <title>
+           SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3 SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3
+        </title>
+        <description>
+           SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3 SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3 SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3 SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-05-pg-21-vivekaH-jayati-sarvadA.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:16
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:44 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3 SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3
+        </title>
+        <description>
+           SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3 SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3 SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3 SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-05-pg-20-upakAraH-tu-svabhAvaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:05
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:43 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-04-pg-16-kuTilaH-kUpaH.mp3 SS-2016-04-pg-16-kuTilaH-kUpaH.mp3
+        </title>
+        <description>
+           SS-2016-04-pg-16-kuTilaH-kUpaH.mp3 SS-2016-04-pg-16-kuTilaH-kUpaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-04-pg-16-kuTilaH-kUpaH.mp3 SS-2016-04-pg-16-kuTilaH-kUpaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-04-pg-16-kuTilaH-kUpaH.mp3 SS-2016-04-pg-16-kuTilaH-kUpaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-04-pg-16-kuTilaH-kUpaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-04-pg-16-kuTilaH-kUpaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:04:24
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:42 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-04-pg-15-varadvayam.mp3 SS-2016-04-pg-15-varadvayam.mp3
+        </title>
+        <description>
+           SS-2016-04-pg-15-varadvayam.mp3 SS-2016-04-pg-15-varadvayam.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-04-pg-15-varadvayam.mp3 SS-2016-04-pg-15-varadvayam.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-04-pg-15-varadvayam.mp3 SS-2016-04-pg-15-varadvayam.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-04-pg-15-varadvayam.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-04-pg-15-varadvayam.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:58
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:41 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3 SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3
+        </title>
+        <description>
+           SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3 SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3 SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3 SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-04-pg-14-apUrvaH-abhyAsakramaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:35
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:40 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-03-phalAya-upakAraH-bhavet.mp3 SS-2016-03-phalAya-upakAraH-bhavet.mp3
+        </title>
+        <description>
+           SS-2016-03-phalAya-upakAraH-bhavet.mp3 SS-2016-03-phalAya-upakAraH-bhavet.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-03-phalAya-upakAraH-bhavet.mp3 SS-2016-03-phalAya-upakAraH-bhavet.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-03-phalAya-upakAraH-bhavet.mp3 SS-2016-03-phalAya-upakAraH-bhavet.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-03-phalAya-upakAraH-bhavet.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-03-phalAya-upakAraH-bhavet.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:44
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:39 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-03-namaskriyeta-mAtA.mp3 SS-2016-03-namaskriyeta-mAtA.mp3
+        </title>
+        <description>
+           SS-2016-03-namaskriyeta-mAtA.mp3 SS-2016-03-namaskriyeta-mAtA.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-03-namaskriyeta-mAtA.mp3 SS-2016-03-namaskriyeta-mAtA.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-03-namaskriyeta-mAtA.mp3 SS-2016-03-namaskriyeta-mAtA.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-03-namaskriyeta-mAtA.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-03-namaskriyeta-mAtA.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:02:50
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:38 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-02-mahAsAhasI-vidhicandaH.mp3 SS-2016-02-mahAsAhasI-vidhicandaH.mp3
+        </title>
+        <description>
+           SS-2016-02-mahAsAhasI-vidhicandaH.mp3 SS-2016-02-mahAsAhasI-vidhicandaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-02-mahAsAhasI-vidhicandaH.mp3 SS-2016-02-mahAsAhasI-vidhicandaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-02-mahAsAhasI-vidhicandaH.mp3 SS-2016-02-mahAsAhasI-vidhicandaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-02-mahAsAhasI-vidhicandaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-02-mahAsAhasI-vidhicandaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:05:00
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:37 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-02-adhyayanam-jnAnasangrahAya.mp3 SS-2016-02-adhyayanam-jnAnasangrahAya.mp3
+        </title>
+        <description>
+           SS-2016-02-adhyayanam-jnAnasangrahAya.mp3 SS-2016-02-adhyayanam-jnAnasangrahAya.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-02-adhyayanam-jnAnasangrahAya.mp3 SS-2016-02-adhyayanam-jnAnasangrahAya.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-02-adhyayanam-jnAnasangrahAya.mp3 SS-2016-02-adhyayanam-jnAnasangrahAya.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-02-adhyayanam-jnAnasangrahAya.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-02-adhyayanam-jnAnasangrahAya.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:42
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:36 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-01-kartavyabodhaH.mp3 SS-2016-01-kartavyabodhaH.mp3
+        </title>
+        <description>
+           SS-2016-01-kartavyabodhaH.mp3 SS-2016-01-kartavyabodhaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-01-kartavyabodhaH.mp3 SS-2016-01-kartavyabodhaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-01-kartavyabodhaH.mp3 SS-2016-01-kartavyabodhaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-01-kartavyabodhaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-01-kartavyabodhaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:04:49
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:35 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-01-garvabhangaH.mp3 SS-2016-01-garvabhangaH.mp3
+        </title>
+        <description>
+           SS-2016-01-garvabhangaH.mp3 SS-2016-01-garvabhangaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-01-garvabhangaH.mp3 SS-2016-01-garvabhangaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-01-garvabhangaH.mp3 SS-2016-01-garvabhangaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-01-garvabhangaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-01-garvabhangaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:32
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:34 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3 SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3
+        </title>
+        <description>
+           SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3 SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3
+        </description>
+        <itunes:summary>
+           SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3 SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3 SS-2016-01-IrshAdayaH-khalu-bhArAya.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2016-01-IrshAdayaH-khalu-bhArAya.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:04:07
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:33 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2015-12-pg-15-jIvanasUtram.mp3 SS-2015-12-pg-15-jIvanasUtram.mp3
+        </title>
+        <description>
+           SS-2015-12-pg-15-jIvanasUtram.mp3 SS-2015-12-pg-15-jIvanasUtram.mp3
+        </description>
+        <itunes:summary>
+           SS-2015-12-pg-15-jIvanasUtram.mp3 SS-2015-12-pg-15-jIvanasUtram.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2015-12-pg-15-jIvanasUtram.mp3 SS-2015-12-pg-15-jIvanasUtram.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2015-12-pg-15-jIvanasUtram.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2015-12-pg-15-jIvanasUtram.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:43
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:32 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3 SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3
+        </title>
+        <description>
+           SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3 SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3
+        </description>
+        <itunes:summary>
+           SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3 SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3 SS-2015-12-pg-14-bAlakaH-coraH-ca.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2015-12-pg-14-bAlakaH-coraH-ca.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:09
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:31 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
+        </title>
+        <description>
+           SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:05
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:30 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2015-11-pg-20-tattvam-AcaraNaM.mp3 SS-2015-11-pg-20-tattvam-AcaraNaM.mp3
+        </title>
+        <description>
+           SS-2015-11-pg-20-tattvam-AcaraNaM.mp3 SS-2015-11-pg-20-tattvam-AcaraNaM.mp3
+        </description>
+        <itunes:summary>
+           SS-2015-11-pg-20-tattvam-AcaraNaM.mp3 SS-2015-11-pg-20-tattvam-AcaraNaM.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2015-11-pg-20-tattvam-AcaraNaM.mp3 SS-2015-11-pg-20-tattvam-AcaraNaM.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2015-11-pg-20-tattvam-AcaraNaM.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2015-11-pg-20-tattvam-AcaraNaM.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:47
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:29 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2015-11-pg-19-antarangasamskAraH.mp3 SS-2015-11-pg-19-antarangasamskAraH.mp3
+        </title>
+        <description>
+           SS-2015-11-pg-19-antarangasamskAraH.mp3 SS-2015-11-pg-19-antarangasamskAraH.mp3
+        </description>
+        <itunes:summary>
+           SS-2015-11-pg-19-antarangasamskAraH.mp3 SS-2015-11-pg-19-antarangasamskAraH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2015-11-pg-19-antarangasamskAraH.mp3 SS-2015-11-pg-19-antarangasamskAraH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2015-11-pg-19-antarangasamskAraH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2015-11-pg-19-antarangasamskAraH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:27
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:28 +0530
+        </pubDate>
+      </item><item>
+        <title>
+           SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
+        </title>
+        <description>
+           SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
+        </description>
+        <itunes:summary>
+           SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp
+        </itunes:subtitle>
+
+        
+        
+        <guid>
+          https://archive.org/download/bAlamodinI-05/SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/bAlamodinI-05/SS-2015-11-pg-18-arjyatAm-guNotkarShaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:24
+      </itunes:duration>
+        <pubDate>
+          Fri, 02 Sep 2016 20:16:27 +0530
+        </pubDate>
+      </item><item>
+        <title>
           bAlamodini Stories 2015 SS-2015-10-pg27-kArye-shraddhA-MuniN.mp3 SS-2015-10-pg27-kArye-shraddhA-MuniN.mp3
         </title>
         <description>
@@ -98,7 +694,7 @@
         00:04:24
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:38 +0530
+          Fri, 02 Sep 2016 20:16:26 +0530
         </pubDate>
       </item><item>
         <title>
@@ -131,7 +727,7 @@
         00:05:07
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:37 +0530
+          Fri, 02 Sep 2016 20:16:25 +0530
         </pubDate>
       </item><item>
         <title>
@@ -164,20 +760,20 @@
         00:04:29
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:36 +0530
+          Fri, 02 Sep 2016 20:16:24 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3
+          bAlamodini Stories 2015 2015-9 Prajaasu SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3
+          bAlamodini Stories 2015 2015-9 Prajaasu SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3
+          bAlamodini Stories 2015 2015-9 Prajaasu SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp3 SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp
+          bAlamodini Stories 2015 2015-9 Prajaasu SS-2015-09-pg16-prajAsu-avidyamAnAsu-kva-rAjatvam-MuniN.mp
         </itunes:subtitle>
 
         
@@ -197,7 +793,7 @@
         00:04:04
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:35 +0530
+          Fri, 02 Sep 2016 20:16:23 +0530
         </pubDate>
       </item><item>
         <title>
@@ -230,20 +826,20 @@
         00:03:58
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:34 +0530
+          Fri, 02 Sep 2016 20:16:22 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3
+          bAlamodini Stories 2015 2015-09 sadaacaranam SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3
+          bAlamodini Stories 2015 2015-09 sadaacaranam SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3
+          bAlamodini Stories 2015 2015-09 sadaacaranam SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp3 SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp
+          bAlamodini Stories 2015 2015-09 sadaacaranam SS-2015-09-pg14-sadAcharaNameva-jIvanam-MuniN.mp
         </itunes:subtitle>
 
         
@@ -263,7 +859,7 @@
         00:02:59
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:33 +0530
+          Fri, 02 Sep 2016 20:16:21 +0530
         </pubDate>
       </item><item>
         <title>
@@ -296,7 +892,7 @@
         00:04:55
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:32 +0530
+          Fri, 02 Sep 2016 20:16:20 +0530
         </pubDate>
       </item><item>
         <title>
@@ -329,7 +925,7 @@
         00:04:50
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:31 +0530
+          Fri, 02 Sep 2016 20:16:19 +0530
         </pubDate>
       </item><item>
         <title>
@@ -362,20 +958,20 @@
         00:04:34
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:30 +0530
+          Fri, 02 Sep 2016 20:16:18 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3
+          bAlamodini Stories 2015 kartavya paalane vighnaH SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3
+          bAlamodini Stories 2015 kartavya paalane vighnaH SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3
+          bAlamodini Stories 2015 kartavya paalane vighnaH SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp3 SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp
+          bAlamodini Stories 2015 kartavya paalane vighnaH SS-2015-07-pg15-kartavyapAlane-vighnaH-MuniN.mp
         </itunes:subtitle>
 
         
@@ -395,20 +991,20 @@
         00:03:37
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:29 +0530
+          Fri, 02 Sep 2016 20:16:17 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3
+          bAlamodini Stories 2015 shlokaat parivRuttam jeevanam SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3
+          bAlamodini Stories 2015 shlokaat parivRuttam jeevanam SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3
+          bAlamodini Stories 2015 shlokaat parivRuttam jeevanam SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp3 SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp
+          bAlamodini Stories 2015 shlokaat parivRuttam jeevanam SS-2015-07-pg14-shlokAt-parivRRittaM-jIvanam-MuniN.mp
         </itunes:subtitle>
 
         
@@ -428,7 +1024,7 @@
         00:04:31
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:28 +0530
+          Fri, 02 Sep 2016 20:16:16 +0530
         </pubDate>
       </item><item>
         <title>
@@ -461,7 +1057,7 @@
         00:03:45
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:27 +0530
+          Fri, 02 Sep 2016 20:16:15 +0530
         </pubDate>
       </item><item>
         <title>
@@ -494,7 +1090,7 @@
         00:03:15
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:26 +0530
+          Fri, 02 Sep 2016 20:16:14 +0530
         </pubDate>
       </item><item>
         <title>
@@ -527,7 +1123,7 @@
         00:03:21
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:25 +0530
+          Fri, 02 Sep 2016 20:16:13 +0530
         </pubDate>
       </item><item>
         <title>
@@ -560,7 +1156,7 @@
         00:03:08
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:24 +0530
+          Fri, 02 Sep 2016 20:16:12 +0530
         </pubDate>
       </item><item>
         <title>
@@ -593,7 +1189,7 @@
         00:03:50
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:23 +0530
+          Fri, 02 Sep 2016 20:16:11 +0530
         </pubDate>
       </item><item>
         <title>
@@ -626,7 +1222,7 @@
         00:06:03
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:22 +0530
+          Fri, 02 Sep 2016 20:16:10 +0530
         </pubDate>
       </item><item>
         <title>
@@ -659,7 +1255,7 @@
         00:03:42
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:21 +0530
+          Fri, 02 Sep 2016 20:16:09 +0530
         </pubDate>
       </item><item>
         <title>
@@ -692,7 +1288,7 @@
         00:04:39
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:20 +0530
+          Fri, 02 Sep 2016 20:16:08 +0530
         </pubDate>
       </item><item>
         <title>
@@ -725,7 +1321,7 @@
         00:05:44
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:19 +0530
+          Fri, 02 Sep 2016 20:16:07 +0530
         </pubDate>
       </item><item>
         <title>
@@ -758,7 +1354,7 @@
         00:04:25
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:18 +0530
+          Fri, 02 Sep 2016 20:16:06 +0530
         </pubDate>
       </item><item>
         <title>
@@ -791,7 +1387,7 @@
         00:04:08
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:17 +0530
+          Fri, 02 Sep 2016 20:16:05 +0530
         </pubDate>
       </item><item>
         <title>
@@ -824,20 +1420,20 @@
         00:05:06
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:16 +0530
+          Fri, 02 Sep 2016 20:16:04 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3
+          bAlamodini Stories 2015 2015 09 ucitam SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3
+          bAlamodini Stories 2015 2015 09 ucitam SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3
+          bAlamodini Stories 2015 2015 09 ucitam SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp3 SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp
+          bAlamodini Stories 2015 2015 09 ucitam SS-2015-03-pg20-mUrkhAH-shukAH-MuniN.mp
         </itunes:subtitle>
 
         
@@ -857,20 +1453,20 @@
         00:03:01
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:15 +0530
+          Fri, 02 Sep 2016 20:16:03 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3
+          bAlamodini Stories 2015 jayamatyaaha aatmaahutihi SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3
+          bAlamodini Stories 2015 jayamatyaaha aatmaahutihi SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3
+          bAlamodini Stories 2015 jayamatyaaha aatmaahutihi SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp3 SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp
+          bAlamodini Stories 2015 jayamatyaaha aatmaahutihi SS-2015-02-pg22-mama-mAtA-devatA-MuniN.mp
         </itunes:subtitle>
 
         
@@ -890,20 +1486,20 @@
         00:04:59
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:14 +0530
+          Fri, 02 Sep 2016 20:16:02 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3
+          bAlamodini Stories 2015 mama maataa devataa SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3
+          bAlamodini Stories 2015 mama maataa devataa SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3
+          bAlamodini Stories 2015 mama maataa devataa SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp3 SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp
+          bAlamodini Stories 2015 mama maataa devataa SS-2015-02-pg21-jayamatyAH-AtmAhutiH-MuniN.mp
         </itunes:subtitle>
 
         
@@ -923,20 +1519,20 @@
         00:03:15
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:13 +0530
+          Fri, 02 Sep 2016 20:16:01 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3
+          bAlamodini Stories 2015 Uttamaha Sevaa paathaha SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3
+          bAlamodini Stories 2015 Uttamaha Sevaa paathaha SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3
+          bAlamodini Stories 2015 Uttamaha Sevaa paathaha SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp3 SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp
+          bAlamodini Stories 2015 Uttamaha Sevaa paathaha SS-2015-02-pg20-uttamaH-sevApAThaH-MuniN.mp
         </itunes:subtitle>
 
         
@@ -956,20 +1552,20 @@
         00:03:25
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:12 +0530
+          Fri, 02 Sep 2016 20:16:00 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-adhyetavyam SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-adhyetavyam SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-adhyetavyam SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp3 SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp
+          bAlamodini Stories 2015 2015-01-adhyetavyam SS-2015-01-pg25-adhyetavyaM-bahu-asti-MuniN.mp
         </itunes:subtitle>
 
         
@@ -989,20 +1585,20 @@
         00:03:47
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:11 +0530
+          Fri, 02 Sep 2016 20:15:59 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-paropakaarii SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-paropakaarii SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-paropakaarii SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp3 SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp
+          bAlamodini Stories 2015 2015-01-paropakaarii SS-2015-01-pg24-paropakArI-svAmI-MuniN.mp
         </itunes:subtitle>
 
         
@@ -1022,20 +1618,20 @@
         00:04:12
       </itunes:duration>
         <pubDate>
-          Fri, 02 Sep 2016 20:16:10 +0530
+          Fri, 02 Sep 2016 20:15:58 +0530
         </pubDate>
       </item><item>
         <title>
-          bAlamodini Stories 2015 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-buddhi SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3
         </title>
         <description>
-          bAlamodini Stories 2015 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-buddhi SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3
         </description>
         <itunes:summary>
-          bAlamodini Stories 2015 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3
+          bAlamodini Stories 2015 2015-01-buddhi SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3
         </itunes:summary>
         <itunes:subtitle>
-          bAlamodini Stories 2015 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp3 SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp
+          bAlamodini Stories 2015 2015-01-buddhi SS-2015-01-pg23-adhyApanaM-mama-dharmaH-MuniN.mp
         </itunes:subtitle>
 
         
@@ -1053,402 +1649,6 @@
         
         <itunes:duration>
         00:04:21
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:09 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-03-phalAya-upakAraH-bhavet.mp3 2016-03-phalAya-upakAraH-bhavet.mp3
-        </title>
-        <description>
-           2016-03-phalAya-upakAraH-bhavet.mp3 2016-03-phalAya-upakAraH-bhavet.mp3
-        </description>
-        <itunes:summary>
-           2016-03-phalAya-upakAraH-bhavet.mp3 2016-03-phalAya-upakAraH-bhavet.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-03-phalAya-upakAraH-bhavet.mp3 2016-03-phalAya-upakAraH-bhavet.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-03-phalAya-upakAraH-bhavet.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-03-phalAya-upakAraH-bhavet.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:44
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:08 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-03-namaskriyeta-mAtA.mp3 2016-03-namaskriyeta-mAtA.mp3
-        </title>
-        <description>
-           2016-03-namaskriyeta-mAtA.mp3 2016-03-namaskriyeta-mAtA.mp3
-        </description>
-        <itunes:summary>
-           2016-03-namaskriyeta-mAtA.mp3 2016-03-namaskriyeta-mAtA.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-03-namaskriyeta-mAtA.mp3 2016-03-namaskriyeta-mAtA.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-03-namaskriyeta-mAtA.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-03-namaskriyeta-mAtA.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:02:50
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:07 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-02-mahAsAhasI-vidhicandaH.mp3 2016-02-mahAsAhasI-vidhicandaH.mp3
-        </title>
-        <description>
-           2016-02-mahAsAhasI-vidhicandaH.mp3 2016-02-mahAsAhasI-vidhicandaH.mp3
-        </description>
-        <itunes:summary>
-           2016-02-mahAsAhasI-vidhicandaH.mp3 2016-02-mahAsAhasI-vidhicandaH.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-02-mahAsAhasI-vidhicandaH.mp3 2016-02-mahAsAhasI-vidhicandaH.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-02-mahAsAhasI-vidhicandaH.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-02-mahAsAhasI-vidhicandaH.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:05:00
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:06 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-02-adhyayanam-jnAnasangrahAya.mp3 2016-02-adhyayanam-jnAnasangrahAya.mp3
-        </title>
-        <description>
-           2016-02-adhyayanam-jnAnasangrahAya.mp3 2016-02-adhyayanam-jnAnasangrahAya.mp3
-        </description>
-        <itunes:summary>
-           2016-02-adhyayanam-jnAnasangrahAya.mp3 2016-02-adhyayanam-jnAnasangrahAya.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-02-adhyayanam-jnAnasangrahAya.mp3 2016-02-adhyayanam-jnAnasangrahAya.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-02-adhyayanam-jnAnasangrahAya.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-02-adhyayanam-jnAnasangrahAya.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:42
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:05 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-01-kartavyabodhaH.mp3 2016-01-kartavyabodhaH.mp3
-        </title>
-        <description>
-           2016-01-kartavyabodhaH.mp3 2016-01-kartavyabodhaH.mp3
-        </description>
-        <itunes:summary>
-           2016-01-kartavyabodhaH.mp3 2016-01-kartavyabodhaH.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-01-kartavyabodhaH.mp3 2016-01-kartavyabodhaH.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-01-kartavyabodhaH.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-01-kartavyabodhaH.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:04:49
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:04 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-01-garvabhangaH.mp3 2016-01-garvabhangaH.mp3
-        </title>
-        <description>
-           2016-01-garvabhangaH.mp3 2016-01-garvabhangaH.mp3
-        </description>
-        <itunes:summary>
-           2016-01-garvabhangaH.mp3 2016-01-garvabhangaH.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-01-garvabhangaH.mp3 2016-01-garvabhangaH.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-01-garvabhangaH.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-01-garvabhangaH.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:32
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:03 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2016-01-IrshAdayaH-khalu-bhArAya.mp3 2016-01-IrshAdayaH-khalu-bhArAya.mp3
-        </title>
-        <description>
-           2016-01-IrshAdayaH-khalu-bhArAya.mp3 2016-01-IrshAdayaH-khalu-bhArAya.mp3
-        </description>
-        <itunes:summary>
-           2016-01-IrshAdayaH-khalu-bhArAya.mp3 2016-01-IrshAdayaH-khalu-bhArAya.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2016-01-IrshAdayaH-khalu-bhArAya.mp3 2016-01-IrshAdayaH-khalu-bhArAya.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2016-01-IrshAdayaH-khalu-bhArAya.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2016-01-IrshAdayaH-khalu-bhArAya.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:04:07
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:02 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2015-12-pg-14-bAlakaH-coraH-ca.mp3 2015-12-pg-14-bAlakaH-coraH-ca.mp3
-        </title>
-        <description>
-           2015-12-pg-14-bAlakaH-coraH-ca.mp3 2015-12-pg-14-bAlakaH-coraH-ca.mp3
-        </description>
-        <itunes:summary>
-           2015-12-pg-14-bAlakaH-coraH-ca.mp3 2015-12-pg-14-bAlakaH-coraH-ca.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2015-12-pg-14-bAlakaH-coraH-ca.mp3 2015-12-pg-14-bAlakaH-coraH-ca.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2015-12-pg-14-bAlakaH-coraH-ca.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2015-12-pg-14-bAlakaH-coraH-ca.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:09
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:01 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
-        </title>
-        <description>
-           2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
-        </description>
-        <itunes:summary>
-           2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3 2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2015-12-pg-13-nAshasya-kAraNam-vyAkshepaH.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:05
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:16:00 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2015-11-pg-20-tattvam-AcaraNaM.mp3 2015-11-pg-20-tattvam-AcaraNaM.mp3
-        </title>
-        <description>
-           2015-11-pg-20-tattvam-AcaraNaM.mp3 2015-11-pg-20-tattvam-AcaraNaM.mp3
-        </description>
-        <itunes:summary>
-           2015-11-pg-20-tattvam-AcaraNaM.mp3 2015-11-pg-20-tattvam-AcaraNaM.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2015-11-pg-20-tattvam-AcaraNaM.mp3 2015-11-pg-20-tattvam-AcaraNaM.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2015-11-pg-20-tattvam-AcaraNaM.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2015-11-pg-20-tattvam-AcaraNaM.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:47
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:15:59 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2015-11-pg-19-antarangasamskAraH.mp3 2015-11-pg-19-antarangasamskAraH.mp3
-        </title>
-        <description>
-           2015-11-pg-19-antarangasamskAraH.mp3 2015-11-pg-19-antarangasamskAraH.mp3
-        </description>
-        <itunes:summary>
-           2015-11-pg-19-antarangasamskAraH.mp3 2015-11-pg-19-antarangasamskAraH.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2015-11-pg-19-antarangasamskAraH.mp3 2015-11-pg-19-antarangasamskAraH.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2015-11-pg-19-antarangasamskAraH.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2015-11-pg-19-antarangasamskAraH.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:27
-      </itunes:duration>
-        <pubDate>
-          Fri, 02 Sep 2016 20:15:58 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
-        </title>
-        <description>
-           2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
-        </description>
-        <itunes:summary>
-           2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           2015-11-pg-18-arjyatAm-guNotkarShaH.mp3 2015-11-pg-18-arjyatAm-guNotkarShaH.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/bAlamodinI-05/2015-11-pg-18-arjyatAm-guNotkarShaH.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/bAlamodinI-05/2015-11-pg-18-arjyatAm-guNotkarShaH.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:03:24
       </itunes:duration>
         <pubDate>
           Fri, 02 Sep 2016 20:15:57 +0530
