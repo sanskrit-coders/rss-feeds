@@ -28,10 +28,10 @@
 
 
           <lastBuildDate>
-            Wed, 01 Nov 2017 14:43:02 +0530
+            Sun, 28 Jan 2018 14:43:02 +0530
           </lastBuildDate>
           <pubDate>
-            Wed, 01 Nov 2017 14:43:02 +0530
+            Sun, 25 Jun 2017 14:43:02 +0530
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,7 +68,36 @@
             sanskrit,samskritam,sanskrit podcast,mann ki baat,manogatam,मनोगतम्,संस्कृतम्,narendra modi
           </itunes:keywords>
 
+          <item>
+        <title>
+           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3
+        </title>
+        <description>
+           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3
+        </description>
+        <itunes:summary>
+           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp
+        </itunes:subtitle>
 
+        
+        <guid>
+          https://archive.org/download/manogatam/040-manogatam-Jan2018.mp3
+        </guid>
+
+
+      <enclosure url="https://archive.org/download/manogatam/039-manogatam-Dec2017.mp3" type="audio/mpeg" length="1"/>
+        
+        <itunes:duration>
+        00:30:16
+      </itunes:duration>
+        <pubDate>
+          Sun, 28 Jan 2018 14:43:08 +0530
+        </pubDate>
+      </item>
+                
           <item>
         <title>
            039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3
@@ -100,7 +129,7 @@
         00:32:09
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:08 +0530
+          Sun, 31 Dec 2017 14:43:08 +0530
         </pubDate>
       </item><item>
         <title>
@@ -133,7 +162,7 @@
         00:34:21
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:07 +0530
+          Sun, 26 Nov 2017 14:43:07 +0530
         </pubDate>
       </item><item>
         <title>
@@ -166,7 +195,7 @@
         00:33:31
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:06 +0530
+          Sun, 29 Oct 2017 14:43:06 +0530
         </pubDate>
       </item><item>
         <title>
@@ -199,7 +228,7 @@
         00:33:39
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:05 +0530
+          Sun, 24 Sep 2017 14:43:05 +0530
         </pubDate>
       </item><item>
         <title>
@@ -232,7 +261,7 @@
         00:35:41
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:04 +0530
+          Sun, 27 Aug 2017 14:43:04 +0530
         </pubDate>
       </item><item>
         <title>
@@ -265,7 +294,7 @@
         00:34:29
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:03 +0530
+          Sun, 30 Jul 2017 14:43:03 +0530
         </pubDate>
       </item><item>
         <title>
@@ -298,7 +327,7 @@
         00:31:27
       </itunes:duration>
         <pubDate>
-          Wed, 01 Nov 2017 14:43:02 +0530
+          Sun, 25 Jun 2017 14:43:02 +0530
         </pubDate>
       </item>
         </channel>
