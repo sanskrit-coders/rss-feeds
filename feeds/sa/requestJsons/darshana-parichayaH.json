@@ -1,0 +1,16 @@
+{
+  "archiveIds": [
+    "tattvatraya-parichaya"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "prArambhika-darshana-nirvachanam प्रारम्भिक-दर्शन-निर्वचनम्",
+      "description": "prArambhika-darshana-nirvachanam प्रारम्भिक-दर्शन-निर्वचनम्",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various sanskrit students",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
