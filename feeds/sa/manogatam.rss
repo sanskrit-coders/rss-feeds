@@ -28,7 +28,7 @@
 
 
           <lastBuildDate>
-            Sun, 25 Feb 2018 14:43:02 +0530
+            Sun, 25 Mar 2018 14:43:02 +0530
           </lastBuildDate>
           <pubDate>
             Sun, 25 Jun 2017 14:43:02 +0530
@@ -68,6 +68,35 @@
             sanskrit,samskritam,sanskrit podcast,mann ki baat,manogatam,मनोगतम्,संस्कृतम्,narendra modi
           </itunes:keywords>
 
+          <item>
+        <title>
+           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3
+        </title>
+        <description>
+           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3
+        </description>
+        <itunes:summary>
+           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3
+        </itunes:summary>
+        <itunes:subtitle>
+           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp
+        </itunes:subtitle>
+
+        
+        <guid>
+          https://archive.org/download/manogatam/042-manogatam-Mar2018.mp3
+        </guid>
+
+
+      <enclosure url="https://archive.org/download/manogatam/042-manogatam-Mar2018.mp3" type="audio/mpeg" length="1"/>
+        
+        <itunes:duration>
+        00:36:04
+      </itunes:duration>
+        <pubDate>
+          Sun, 25 Mar 2018 14:43:08 +0530
+        </pubDate>
+      </item>
                 
           <item>
         <title>
