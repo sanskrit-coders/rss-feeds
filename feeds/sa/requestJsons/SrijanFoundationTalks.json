@@ -6,7 +6,7 @@
   "filePattern": ".*\\.mp3",
   "podcastTemplate": {
     "title": "Srijan Foundation Talks",
-    description": "Talks conducted by published by https://srijanfn.org/ and https://indictales.com/tag/indic-talks/ on YouTube. Redistributed here with thanks for the convenience of those who prefer audio podcasts (automatically downloaded to their phones)",
+    "description": "Talks conducted by published by https://srijanfn.org/ and https://indictales.com/tag/indic-talks/ on YouTube. Redistributed here with thanks for the convenience of those who prefer audio podcasts (automatically downloaded to their phones)",
     "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
     "languageCode": "sa",
     "publisherEmail": "podcast-bhaaratii@googlegroups.com",
