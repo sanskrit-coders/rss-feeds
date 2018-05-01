@@ -1,424 +1,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-        
-
-        <channel>
-          
-
-          <title>
-            manogatam
-          </title>
-          <!--Various description fields.-->
-          <description>
-            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/manogatam, with description:
-'Mann ki Baat' in Sanskrit&lt;div&gt;==================&lt;br /&gt;&lt;div&gt;'Mann Ki Baat' is an Indian radio programme hosted by Prime Minister Narendra Modi in which he addresses the people of India (भारतम्) once a month (since Oct 2014). &lt;/div&gt;&lt;div&gt;manogatam (मनोगतम्) is 'Mann Ki Baat' in Sanskrit (संस्कृतम्)&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;.
-          </description>
-          <itunes:subtitle>
-            manogatam
-          </itunes:subtitle>
-          <itunes:summary>
-            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/manogatam, with description:
-'Mann ki Baat' in Sanskrit&lt;div&gt;==================&lt;br /&gt;&lt;div&gt;'Mann Ki Baat' is an Indian radio programme hosted by Prime Minister Narendra Modi in which he addresses the people of India (भारतम्) once a month (since Oct 2014). &lt;/div&gt;&lt;div&gt;manogatam (मनोगतम्) is 'Mann Ki Baat' in Sanskrit (संस्कृतम्)&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;.
-          </itunes:summary>
-          <!--The podcast website.-->
-          <link> https://archive.org/details/manogatam</link>
-
-          
-          <language>sa</language>
-          
-
-
-          <lastBuildDate>
-            Sun, 29 Apr 2018 14:43:02 +0530
-          </lastBuildDate>
-          <pubDate>
-            Sun, 25 Jun 2017 14:43:02 +0530
-          </pubDate>
-          <!--Publisher details.-->
-          <webMaster>
-            podcast-bhaaratii@googlegroups.com
-          </webMaster>
-          <itunes:author>
-            podcast-bhaaratii@googlegroups.com
-          </itunes:author>
-          <itunes:owner>
-            <itunes:name>
-              podcast-bhaaratii@googlegroups.com
-            </itunes:name>
-            <itunes:email>
-              podcast-bhaaratii@googlegroups.com
-            </itunes:email>
-          </itunes:owner>
-
-          
-          <image>
-            <url>https://archive.org/download/manogatam/manogatam1400.jpg</url>
-            <title>manogatam</title>
-            <link> https://archive.org/details/manogatam</link>
-          </image>
-          <itunes:image href="https://archive.org/download/manogatam/manogatam1400.jpg"/>
-
-
-          
-          
-          <itunes:explicit>no</itunes:explicit>
-
-        
-          <itunes:category text="Society &amp; Culture"/>
-          <itunes:keywords>
-            sanskrit,samskritam,sanskrit podcast,mann ki baat,manogatam,मनोगतम्,संस्कृतम्,narendra modi
-          </itunes:keywords>
-
-          <item>
-                  
-        <title>
-           043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp3
-        </title>
-        <description>
-           043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp3
-        </description>
-        <itunes:summary>
-           043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp
-        </itunes:subtitle>
-
-        
-        <guid>
-          https://archive.org/download/manogatam/043-manogatam-Apr2018.mp3
-        </guid>
-
-
-      <enclosure url="https://archive.org/download/manogatam/043-manogatam-Apr2018.mp3" type="audio/mpeg" length="1"/>
-        
-        <itunes:duration>
-        00:35:04
-      </itunes:duration>
-        <pubDate>
-          Sun, 29 Apr 2018 14:43:08 +0530
-        </pubDate>
-      </item>
-                <item>
-        <title>
-           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3
-        </title>
-        <description>
-           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3
-        </description>
-        <itunes:summary>
-           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp
-        </itunes:subtitle>
-
-        
-        <guid>
-          https://archive.org/download/manogatam/042-manogatam-Mar2018.mp3
-        </guid>
-
-
-      <enclosure url="https://archive.org/download/manogatam/042-manogatam-Mar2018.mp3" type="audio/mpeg" length="1"/>
-        
-        <itunes:duration>
-        00:36:04
-      </itunes:duration>
-        <pubDate>
-          Sun, 25 Mar 2018 14:43:08 +0530
-        </pubDate>
-      </item>
-                
-          <item>
-        <title>
-           041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp3
-        </title>
-        <description>
-           041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp3
-        </description>
-        <itunes:summary>
-           041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp
-        </itunes:subtitle>
-
-        
-        <guid>
-          https://archive.org/download/manogatam/041-manogatam-Feb2018.mp3
-        </guid>
-
-
-      <enclosure url="https://archive.org/download/manogatam/041-manogatam-Feb2018.mp3" type="audio/mpeg" length="1"/>
-        
-        <itunes:duration>
-        00:29:05
-      </itunes:duration>
-        <pubDate>
-          Sun, 25 Feb 2018 14:43:08 +0530
-        </pubDate>
-      </item>
-                
-          <item>
-        <title>
-           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3
-        </title>
-        <description>
-           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3
-        </description>
-        <itunes:summary>
-           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp
-        </itunes:subtitle>
-
-        
-        <guid>
-          https://archive.org/download/manogatam/040-manogatam-Jan2018.mp3
-        </guid>
-
-
-      <enclosure url="https://archive.org/download/manogatam/040-manogatam-Jan2018.mp3" type="audio/mpeg" length="1"/>
-        
-        <itunes:duration>
-        00:30:16
-      </itunes:duration>
-        <pubDate>
-          Sun, 28 Jan 2018 14:43:08 +0530
-        </pubDate>
-      </item>
-                
-          <item>
-        <title>
-           039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3
-        </title>
-        <description>
-           039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3
-        </description>
-        <itunes:summary>
-           039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/039-manogatam-Dec2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/039-manogatam-Dec2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:32:09
-      </itunes:duration>
-        <pubDate>
-          Sun, 31 Dec 2017 14:43:08 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp3
-        </title>
-        <description>
-           038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp3
-        </description>
-        <itunes:summary>
-           038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/038-manogatam-Nov2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/038-manogatam-Nov2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:34:21
-      </itunes:duration>
-        <pubDate>
-          Sun, 26 Nov 2017 14:43:07 +0530
-        </pubDate>
-      </item><item>
-        <title>
-          manogatam 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp3
-        </title>
-        <description>
-          manogatam 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp3
-        </description>
-        <itunes:summary>
-          manogatam 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-          manogatam 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/037-manogatam-Oct2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/037-manogatam-Oct2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:33:31
-      </itunes:duration>
-        <pubDate>
-          Sun, 29 Oct 2017 14:43:06 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp3
-        </title>
-        <description>
-           036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp3
-        </description>
-        <itunes:summary>
-           036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/036-manogatam-Sep2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/036-manogatam-Sep2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:33:39
-      </itunes:duration>
-        <pubDate>
-          Sun, 24 Sep 2017 14:43:05 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp3
-        </title>
-        <description>
-           035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp3
-        </description>
-        <itunes:summary>
-           035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/035-manogatam-Aug2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/035-manogatam-Aug2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:35:41
-      </itunes:duration>
-        <pubDate>
-          Sun, 27 Aug 2017 14:43:04 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp3
-        </title>
-        <description>
-           034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp3
-        </description>
-        <itunes:summary>
-           034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/034-manogatam-Jul2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/034-manogatam-Jul2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:34:29
-      </itunes:duration>
-        <pubDate>
-          Sun, 30 Jul 2017 14:43:03 +0530
-        </pubDate>
-      </item><item>
-        <title>
-           033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp3
-        </title>
-        <description>
-           033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp3
-        </description>
-        <itunes:summary>
-           033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp3
-        </itunes:summary>
-        <itunes:subtitle>
-           033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp
-        </itunes:subtitle>
-
-        
-        
-        <guid>
-          https://archive.org/download/manogatam/033-manogatam-Jun2017.mp3
-        </guid>
-
-        
-        
-
-
-      <enclosure url="https://archive.org/download/manogatam/033-manogatam-Jun2017.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-        00:31:27
-      </itunes:duration>
-        <pubDate>
-          Sun, 25 Jun 2017 14:43:02 +0530
-        </pubDate>
-      </item>
-        </channel>
-      </rss>
+	<channel>
+		<title> manogatam </title>
+		<!--Various description fields.-->
+		<description> A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/manogatam, with description: 'Mann ki Baat' in Sanskrit&lt;div&gt;==================&lt;br /&gt;&lt;div&gt;'Mann Ki Baat' is an Indian radio programme hosted by Prime Minister Narendra Modi in which he addresses the people of India (भारतम्) once a month (since Oct 2014). &lt;/div&gt;&lt;div&gt;manogatam (मनोगतम्) is 'Mann Ki Baat' in Sanskrit (संस्कृतम्)&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;. </description>
+		<itunes:subtitle> manogatam </itunes:subtitle>
+		<itunes:summary> A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/manogatam, with description: 'Mann ki Baat' in Sanskrit&lt;div&gt;==================&lt;br /&gt;&lt;div&gt;'Mann Ki Baat' is an Indian radio programme hosted by Prime Minister Narendra Modi in which he addresses the people of India (भारतम्) once a month (since Oct 2014). &lt;/div&gt;&lt;div&gt;manogatam (मनोगतम्) is 'Mann Ki Baat' in Sanskrit (संस्कृतम्)&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;. </itunes:summary>
+		<!--The podcast website.-->
+		<link> https://archive.org/details/manogatam</link>
+		<language>sa</language>
+		<lastBuildDate> Sun, 29 Apr 2018 14:43:02 +0530 </lastBuildDate>
+		<pubDate> Sun, 25 Jun 2017 14:43:02 +0530 </pubDate>
+		<!--Publisher details.-->
+		<webMaster> podcast-bhaaratii@googlegroups.com </webMaster>
+		<itunes:author> podcast-bhaaratii@googlegroups.com </itunes:author>
+		<itunes:owner>
+			<itunes:name> podcast-bhaaratii@googlegroups.com </itunes:name>
+			<itunes:email> podcast-bhaaratii@googlegroups.com </itunes:email>
+		</itunes:owner>
+		<image>
+			<url>https://archive.org/download/manogatam/manogatam1400.jpg</url>
+			<title>manogatam</title>
+			<link> https://archive.org/details/manogatam</link>
+		</image>
+		<itunes:image href="https://archive.org/download/manogatam/manogatam1400.jpg"/>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:keywords> sanskrit,samskritam,sanskrit podcast,mann ki baat,manogatam,मनोगतम्,संस्कृतम्,narendra modi </itunes:keywords>
+		<item>
+			<title> 043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp3 </title>
+			<description> 043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp3 </description>
+			<itunes:summary> 043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp3 </itunes:summary>
+			<itunes:subtitle> 043-manogatam-Apr2018.mp3 043-manogatam-Apr2018.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/043-manogatam-Apr2018.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/043-manogatam-Apr2018.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:35:04 </itunes:duration>
+			<pubDate> Sun, 29 Apr 2018 14:43:08 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3 </title>
+			<description> 042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3 </description>
+			<itunes:summary> 042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp3 </itunes:summary>
+			<itunes:subtitle> 042-manogatam-Mar2018.mp3 042-manogatam-Mar2018.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/042-manogatam-Mar2018.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/042-manogatam-Mar2018.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:36:04 </itunes:duration>
+			<pubDate> Sun, 25 Mar 2018 14:43:08 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp3 </title>
+			<description> 041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp3 </description>
+			<itunes:summary> 041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp3 </itunes:summary>
+			<itunes:subtitle> 041-manogatam-Feb2018.mp3 041-manogatam-Feb2018.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/041-manogatam-Feb2018.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/041-manogatam-Feb2018.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:29:05 </itunes:duration>
+			<pubDate> Sun, 25 Feb 2018 14:43:08 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3 </title>
+			<description> 040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3 </description>
+			<itunes:summary> 040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp3 </itunes:summary>
+			<itunes:subtitle> 040-manogatam-Jan2018.mp3 040-manogatam-Jan2018.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/040-manogatam-Jan2018.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/040-manogatam-Jan2018.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:30:16 </itunes:duration>
+			<pubDate> Sun, 28 Jan 2018 14:43:08 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3 </title>
+			<description> 039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3 </description>
+			<itunes:summary> 039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp3 </itunes:summary>
+			<itunes:subtitle> 039-manogatam-Dec2017.mp3 039-manogatam-Dec2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/039-manogatam-Dec2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/039-manogatam-Dec2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:32:09 </itunes:duration>
+			<pubDate> Sun, 31 Dec 2017 14:43:08 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp3 </title>
+			<description> 038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp3 </description>
+			<itunes:summary> 038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp3 </itunes:summary>
+			<itunes:subtitle> 038-manogatam-Nov2017.mp3 038-manogatam-Nov2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/038-manogatam-Nov2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/038-manogatam-Nov2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:34:21 </itunes:duration>
+			<pubDate> Sun, 26 Nov 2017 14:43:07 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp3 </title>
+			<description> 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp3 </description>
+			<itunes:summary> 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp3 </itunes:summary>
+			<itunes:subtitle> 037-manogatam-Oct2017.mp3 037-manogatam-Oct2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/037-manogatam-Oct2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/037-manogatam-Oct2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:33:31 </itunes:duration>
+			<pubDate> Sun, 29 Oct 2017 14:43:06 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp3 </title>
+			<description> 036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp3 </description>
+			<itunes:summary> 036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp3 </itunes:summary>
+			<itunes:subtitle> 036-manogatam-Sep2017.mp3 036-manogatam-Sep2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/036-manogatam-Sep2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/036-manogatam-Sep2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:33:39 </itunes:duration>
+			<pubDate> Sun, 24 Sep 2017 14:43:05 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp3 </title>
+			<description> 035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp3 </description>
+			<itunes:summary> 035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp3 </itunes:summary>
+			<itunes:subtitle> 035-manogatam-Aug2017.mp3 035-manogatam-Aug2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/035-manogatam-Aug2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/035-manogatam-Aug2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:35:41 </itunes:duration>
+			<pubDate> Sun, 27 Aug 2017 14:43:04 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp3 </title>
+			<description> 034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp3 </description>
+			<itunes:summary> 034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp3 </itunes:summary>
+			<itunes:subtitle> 034-manogatam-Jul2017.mp3 034-manogatam-Jul2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/034-manogatam-Jul2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/034-manogatam-Jul2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:34:29 </itunes:duration>
+			<pubDate> Sun, 30 Jul 2017 14:43:03 +0530 </pubDate>
+		</item>
+		<item>
+			<title> 033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp3 </title>
+			<description> 033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp3 </description>
+			<itunes:summary> 033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp3 </itunes:summary>
+			<itunes:subtitle> 033-manogatam-Jun2017.mp3 033-manogatam-Jun2017.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/033-manogatam-Jun2017.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/033-manogatam-Jun2017.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:31:27 </itunes:duration>
+			<pubDate> Sun, 25 Jun 2017 14:43:02 +0530 </pubDate>
+		</item>
+	</channel>
+</rss>
