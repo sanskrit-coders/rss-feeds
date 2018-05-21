@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "daivattin-kuraL-english",
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "Dharma talks",
+      "description": "Hindu Dharma talks by various sources such as mahA-periyava of kanchi.",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "en",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Rajiv Malhotra",
+      "isExplicitYesNo": "no",
+      "categories": "Society & Culture"
+    }
+}
