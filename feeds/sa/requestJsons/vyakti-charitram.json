@@ -12,6 +12,6 @@
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
       "author": "Various sanskrit enthusiasts",
       "isExplicitYesNo": "no",
-      "categories": "Society & Culture"
+      "categories": ["Society & Culture"]
     }
 }

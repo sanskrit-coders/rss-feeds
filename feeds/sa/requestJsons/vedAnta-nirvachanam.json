@@ -1,6 +1,6 @@
 {
   "archiveIds": [
-    "Kathopanishad1206",
+    "Kathopanishad1206"
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
@@ -12,6 +12,6 @@
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
       "author": "Various sanskrit scholars",
       "isExplicitYesNo": "no",
-      "categories": "Society & Culture"
+      "categories": ["Society & Culture"]
     }
 }

@@ -1,7 +1,7 @@
 {
   "archiveIds": [
     "KaprejiBhAshaNam",
-    "saMnyAsinAm-saMskRtita-uktayaH",
+    "saMnyAsinAm-saMskRtita-uktayaH"
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
@@ -13,6 +13,6 @@
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
       "author": "Various sanskrit enthusiasts",
       "isExplicitYesNo": "no",
-      "categories": "Society & Culture"
+      "categories": ["Society & Culture"]
     }
 }

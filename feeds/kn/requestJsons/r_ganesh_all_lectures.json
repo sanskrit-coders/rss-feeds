@@ -20,6 +20,6 @@
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
       "author": "shatAvadhAnI R Ganesh",
       "isExplicitYesNo": "no",
-      "categories": "Society & Culture"
+      "categories": ["Society & Culture"]
     }
 }

@@ -12,6 +12,6 @@
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
       "author": "Pooja and friends",
       "isExplicitYesNo": "no",
-      "categories": "Society & Culture"
+      "categories": ["Society & Culture"]
     }
 }

@@ -18,6 +18,6 @@
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
       "author": "Nagu and co",
       "isExplicitYesNo": "no",
-      "categories": "Society & Culture"
+      "categories": ["Society & Culture"]
     }
 }
