@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "hindu-sanskrit-lectures"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "Hindu and Sanskrit talks from YT",
+      "description": "An eclectic podcast featuring curated audio transcripts of Hindu and Sanskrit talks by various people.",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "en",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various",
+      "isExplicitYesNo": "no",
+      "categories": ["Society & Culture"]
+    }
+}
