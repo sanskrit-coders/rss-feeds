@@ -1,0 +1,518 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        
+
+        <channel>
+          
+
+          <title>
+            kathAsaritsAgara-shrAvaNam
+          </title>
+          <!--Various description fields.-->
+          <description>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/kathAsaritsAgara-shrAvaNam, with description:
+guNADhya.  गुणाढ्य-कृत-कथासरित्-सागरः.
+          </description>
+          <itunes:subtitle>
+            kathAsaritsAgara-shrAvaNam
+          </itunes:subtitle>
+          <itunes:summary>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/kathAsaritsAgara-shrAvaNam, with description:
+guNADhya.  गुणाढ्य-कृत-कथासरित्-सागरः.
+          </itunes:summary>
+          <!--The podcast website.-->
+          <link> https://archive.org/details/kathAsaritsAgara-shrAvaNam</link>
+
+          
+          <language>sa</language>
+          
+
+
+          <lastBuildDate>
+            Sat, 25 Nov 2017 19:51:07 +0000
+          </lastBuildDate>
+          <pubDate>
+            Sat, 25 Nov 2017 19:51:07 +0000
+          </pubDate>
+          <!--Publisher details.-->
+          <webMaster>
+            podcast-bhaaratii@googlegroups.com
+          </webMaster>
+          <itunes:author>
+            podcast-bhaaratii@googlegroups.com
+          </itunes:author>
+          <itunes:owner>
+            <itunes:name>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:name>
+            <itunes:email>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:email>
+          </itunes:owner>
+
+          
+          <image>
+            <url>https://i.imgur.com/dQjPQYi.jpg</url>
+            <title>kathAsaritsAgara-shrAvaNam</title>
+            <link> https://archive.org/details/kathAsaritsAgara-shrAvaNam</link>
+          </image>
+          <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+
+
+          
+          
+          <itunes:explicit>no</itunes:explicit>
+
+        
+          <itunes:category text="Society &amp; Culture"/>
+          <itunes:keywords>
+            sanskrit,saMskRtam,kAvyam,audio-book
+          </itunes:keywords>
+
+
+          <item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 011p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 011p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/011p02.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 011p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 011p02 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/011p02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/011p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:06:56
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:18 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 011p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 011p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/011p01.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 011p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 011p01 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/011p01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/011p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:07:12
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:17 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 009p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 009p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/009p02.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 009p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 009p02 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/009p02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/009p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:07:30
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:16 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 009p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 009p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/009p01.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 009p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 009p01 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/009p01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/009p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:07:21
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:15 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 007 pANDurangasharmA पाण्डुरङ्गशर्मा
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 007 pANDurangasharmA पाण्डुरङ्गशर्मा
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/007.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 007 pANDurangasharmA पाण्डुरङ्गशर्मा
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 007 pANDurangasharmA पाण्डुरङ्गशर्म
+        </itunes:subtitle>
+
+        <author>pANDurangasharmA पाण्डुरङ्गशर्मा</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/007.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/007.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:19:23
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:14 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 006p03 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 006p03 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p03.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 006p03 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 006p03 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:09:49
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:13 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 006p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 006p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p02.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 006p02 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 006p02 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:08:45
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:12 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          कथासरित्सागरम् kathAsaritsAgara 006p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </title>
+        <description>
+          कथासरित्सागरम् kathAsaritsAgara 006p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p01.mp3</link>
+        <itunes:summary>
+          कथासरित्सागरम् kathAsaritsAgara 006p01 bhaTTamadhusUdanaH भट्टमधुसूदनः
+        </itunes:summary>
+        <itunes:subtitle>
+          कथासरित्सागरम् kathAsaritsAgara 006p01 bhaTTamadhusUdanaH भट्टमधुसूदन
+        </itunes:subtitle>
+
+        <author>bhaTTamadhusUdanaH भट्टमधुसूदनः</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/006p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:08:29
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:11 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          Kathasaritsaagarah 005 Ramakrishnan
+        </title>
+        <description>
+          Kathasaritsaagarah 005 Ramakrishnan
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/005.mp3</link>
+        <itunes:summary>
+          Kathasaritsaagarah 005 Ramakrishnan
+        </itunes:summary>
+        <itunes:subtitle>
+          Kathasaritsaagarah 005 Ramakrishna
+        </itunes:subtitle>
+
+        <author>Ramakrishnan</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/005.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/005.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:34:29
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:10 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 003p02.mp3 
+        </title>
+        <description>
+          NLL APPS 003p02.mp3 
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/003p02.mp3</link>
+        <itunes:summary>
+          NLL APPS 003p02.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 003p02.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/003p02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/003p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:06:20
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:09 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 003p01.mp3 
+        </title>
+        <description>
+          NLL APPS 003p01.mp3 
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/003p01.mp3</link>
+        <itunes:summary>
+          NLL APPS 003p01.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 003p01.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/003p01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/003p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:06:49
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:08 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          Kathasaritsaagarah 001 Ramakrishnan
+        </title>
+        <description>
+          Kathasaritsaagarah 001 Ramakrishnan
+        </description>
+        
+        <link>https://archive.org/download/kathAsaritsAgara-shrAvaNam/001.mp3</link>
+        <itunes:summary>
+          Kathasaritsaagarah 001 Ramakrishnan
+        </itunes:summary>
+        <itunes:subtitle>
+          Kathasaritsaagarah 001 Ramakrishna
+        </itunes:subtitle>
+
+        <author>Ramakrishnan</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kathAsaritsAgara-shrAvaNam/001.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/kathAsaritsAgara-shrAvaNam/001.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:15:31
+      </itunes:duration>
+        <pubDate>
+          Sat, 25 Nov 2017 19:51:07 +0000
+        </pubDate>
+      </item>
+        </channel>
+      </rss>
