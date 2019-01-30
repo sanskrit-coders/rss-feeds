@@ -1,0 +1,12 @@
+script:
+  bash build_feeds.sh
+deploy:
+  local-dir: auto-built-feeds
+  provider: pages
+  skip-cleanup: true
+  target-branch: auto-built-feeds # instead of gh-pages
+  github-token: $GH_TOKEN
+  keep-history: true # By default, Travis uses push --force and wipes out commit history
+  verbose: true
+  on:
+    branch: master
