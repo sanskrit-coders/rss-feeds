@@ -2,10 +2,10 @@
   "archiveIds": [
     "mahAbhArata-mUla-paThanam-GP"
     ],
-    "useArchiveOrder": true,
+    "useArchiveOrder": false,
     "filePattern": ".*\\.mp3",
     "podcastTemplate": {
-      "title": "mahAbhArata-mUla-paThanam - upates महाभारतम्",
+      "title": "mahAbhArata-mUla-paThanam - updates महाभारतम्",
       "description": "महाभारतम्",
       "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
       "languageCode": "sa",
