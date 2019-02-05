@@ -1,8 +1,4 @@
-language: generic
-addons:
-  apt:
-    packages:
-      - oracle-java8-set-default
+dist: xenial # openjdk installed by default according to https://docs.travis-ci.com/user/reference/precise/ .
 - script:
   bash build_feeds.sh
 deploy:
