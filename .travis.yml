@@ -1,5 +1,10 @@
-dist: xenial # openjdk installed by default according to https://docs.travis-ci.com/user/reference/precise/ .
-- script:
+language: generic
+# xenial machines have openjdk installed by default - that should suffice.
+#addons:
+#  apt:
+#    packages:
+#      - oracle-java8-set-default
+script:
   bash build_feeds.sh
 deploy:
   local-dir: auto-built-feeds
