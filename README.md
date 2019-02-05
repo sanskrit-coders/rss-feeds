@@ -7,4 +7,4 @@ This repository curates and publishes rss feeds on various topics (mostly podcas
   - [![Build Status](https://travis-ci.org/sanskrit-coders/rss-feeds.svg?branch=master)](https://travis-ci.org/sanskrit-coders/rss-feeds)
 
 ## Tips and tech details
-See the [sanskrit-coders page](https://sanskrit-coders.github.io/content/audio/).
+See the [sanskrit-coders page](https://sanskrit-coders.github.io/content/audio/podcasts/).
