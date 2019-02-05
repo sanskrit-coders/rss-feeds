@@ -1,19 +1,553 @@
-An error occurred: , with stacktrace:
-vedavaapi.rss.ArchiveReaderActor.$anonfun$getFinalPodcastFuture$2(ArchiveItemPodcastService.scala:69)
-scala.util.Success.$anonfun$map$1(Try.scala:251)
-scala.util.Success.map(Try.scala:209)
-scala.concurrent.Future.$anonfun$map$1(Future.scala:288)
-scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:29)
-scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:29)
-scala.concurrent.impl.CallbackRunnable.run(Promise.scala:60)
-akka.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:55)
-akka.dispatch.BatchingExecutor$BlockableBatch.$anonfun$run$1(BatchingExecutor.scala:91)
-scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:12)
-scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:81)
-akka.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:91)
-akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:40)
-akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:44)
-akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
-akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
-akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
-akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        
+
+        <channel>
+          
+
+          <title>
+            kumAra-vyAsa-mahA-bhArata vivaraNeya sahita
+          </title>
+          <!--Various description fields.-->
+          <description>
+            kumAra-vyAsa-mahA-bhArata
+          </description>
+          <itunes:subtitle>
+            kumAra-vyAsa-mahA-bhArata vivaraNeya sahita
+          </itunes:subtitle>
+          <itunes:summary>
+            kumAra-vyAsa-mahA-bhArata
+          </itunes:summary>
+          <!--The podcast website.-->
+          <link> https://archive.org/details/20171128215242</link>
+
+          
+          <language>kn</language>
+          
+
+
+          <lastBuildDate>
+            Tue, 28 Nov 2017 17:36:22 +0000
+          </lastBuildDate>
+          <pubDate>
+            Tue, 28 Nov 2017 17:36:22 +0000
+          </pubDate>
+          <!--Publisher details.-->
+          <webMaster>
+            podcast-bhaaratii@googlegroups.com
+          </webMaster>
+          <itunes:author>
+            Pooja and friends
+          </itunes:author>
+          <itunes:owner>
+            <itunes:name>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:name>
+            <itunes:email>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:email>
+          </itunes:owner>
+
+          
+          <image>
+            <url>https://i.imgur.com/dQjPQYi.jpg</url>
+            <title>kumAra-vyAsa-mahA-bhArata vivaraNeya sahita</title>
+            <link> https://archive.org/details/20171128215242</link>
+          </image>
+          <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+
+
+          
+          
+          <itunes:explicit>no</itunes:explicit>
+
+        
+          <itunes:category text="Society &amp; Culture"/>
+          <itunes:keywords>
+            Kannada,poetry,naDugannaDa
+          </itunes:keywords>
+
+
+          <item>
+        <title>
+          NLL APPS 01-04-08.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-08.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-08.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-08.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-08.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-08.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-08.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:00:50
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:34 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-07.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-07.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-07.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-07.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-07.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-07.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-07.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:35
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:33 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-06b.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-06b.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-06b.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-06b.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-06b.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-06b.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-06b.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:00:42
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:32 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-06.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-06.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-06.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-06.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-06.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-06.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-06.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:27
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:31 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-05.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-05.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-05.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-05.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-05.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-05.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-05.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:03:28
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:30 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-04.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-04.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-04.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-04.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-04.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-04.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:31
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:29 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-03.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-03.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-03.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-03.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-03.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:35
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:28 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-02.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-02.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-02.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-02.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-02.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:24
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:27 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-01.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-01.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-01.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-01.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-01.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:56
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:26 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          NLL APPS 01-04-00.mp3 
+        </title>
+        <description>
+          NLL APPS 01-04-00.mp3 
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-04-00.mp3</link>
+        <itunes:summary>
+          NLL APPS 01-04-00.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+          NLL APPS 01-04-00.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-04-00.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-04-00.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        00:01:14
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:25 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          karNATa-bhArata-kathA-manjarI 01-003 kumAra-vyAsa, pUjA
+        </title>
+        <description>
+          karNATa-bhArata-kathA-manjarI 01-003 kumAra-vyAsa, pUjA
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-03.mp3</link>
+        <itunes:summary>
+          karNATa-bhArata-kathA-manjarI 01-003 kumAra-vyAsa, pUjA
+        </itunes:summary>
+        <itunes:subtitle>
+          karNATa-bhArata-kathA-manjarI 01-003 kumAra-vyAsa, pUj
+        </itunes:subtitle>
+
+        <author>kumAra-vyAsa, pUjA</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-03.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        01:28:46
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:24 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          karNATa-bhArata-kathA-manjarI 01-002 kumAra-vyAsa, pUjA
+        </title>
+        <description>
+          karNATa-bhArata-kathA-manjarI 01-002 kumAra-vyAsa, pUjA
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-02.mp3</link>
+        <itunes:summary>
+          karNATa-bhArata-kathA-manjarI 01-002 kumAra-vyAsa, pUjA
+        </itunes:summary>
+        <itunes:subtitle>
+          karNATa-bhArata-kathA-manjarI 01-002 kumAra-vyAsa, pUj
+        </itunes:subtitle>
+
+        <author>kumAra-vyAsa, pUjA</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-02.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        03:27:46
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:23 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          karNATa-bhArata-kathA-manjarI 01-001 kumAra-vyAsa, pUjA
+        </title>
+        <description>
+          karNATa-bhArata-kathA-manjarI 01-001 kumAra-vyAsa, pUjA
+        </description>
+        
+        <link>https://archive.org/download/20171128215242/01-01.mp3</link>
+        <itunes:summary>
+          karNATa-bhArata-kathA-manjarI 01-001 kumAra-vyAsa, pUjA
+        </itunes:summary>
+        <itunes:subtitle>
+          karNATa-bhArata-kathA-manjarI 01-001 kumAra-vyAsa, pUj
+        </itunes:subtitle>
+
+        <author>kumAra-vyAsa, pUjA</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/20171128215242/01-01.mp3
+        </guid>
+
+        
+        
+
+
+      <enclosure url="https://archive.org/download/20171128215242/01-01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+        08:34:13
+      </itunes:duration>
+        <pubDate>
+          Tue, 28 Nov 2017 17:36:22 +0000
+        </pubDate>
+      </item>
+        </channel>
+      </rss>
