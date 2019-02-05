@@ -1,4 +1,9 @@
-script:
+language: generic
+addons:
+  apt:
+    packages:
+      - oracle-java8-set-default
+- script:
   bash build_feeds.sh
 deploy:
   local-dir: auto-built-feeds
