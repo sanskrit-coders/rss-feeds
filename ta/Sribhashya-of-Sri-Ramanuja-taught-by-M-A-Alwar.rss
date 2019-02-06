@@ -5,7 +5,7 @@
           
 
           <title>
-            navya-nyAya-pAThaH ALvArtaH
+            navya-nyAya-pAThaH-ALvArtaH न्याय-शास्त्रम् आळ्वारतः
           </title>
           <!--Various description fields.-->
           <description>
@@ -13,7 +13,7 @@
 आळ्वार-माहाशयेन पाठितम् नव्यन्यायशास्त्रम्।&lt;br /&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size:13.3333px;&quot;&gt;muulam - https://www.youtube.com/playlist?list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt&lt;/span&gt;&lt;/font&gt;.
           </description>
           <itunes:subtitle>
-            navya-nyAya-pAThaH ALvArtaH
+            navya-nyAya-pAThaH-ALvArtaH न्याय-शास्त्रम् आळ्वारतः
           </itunes:subtitle>
           <itunes:summary>
             A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/navya-nyAya-pAThaH-ALvArtaH, with description:
@@ -28,17 +28,17 @@
 
 
           <lastBuildDate>
-            Sat, 30 Sep 2017 15:27:15 +0000
+            Mon, 16 Oct 2017 21:26:17 +0000
           </lastBuildDate>
           <pubDate>
-            Sat, 30 Sep 2017 15:27:15 +0000
+            Mon, 16 Oct 2017 21:26:17 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
             podcast-bhaaratii@googlegroups.com
           </webMaster>
           <itunes:author>
-            podcast-bhaaratii@googlegroups.com
+            M A ALwar
           </itunes:author>
           <itunes:owner>
             <itunes:name>
@@ -52,7 +52,7 @@
           
           <image>
             <url>https://i.imgur.com/dQjPQYi.jpg</url>
-            <title>navya-nyAya-pAThaH ALvArtaH</title>
+            <title>navya-nyAya-pAThaH-ALvArtaH न्याय-शास्त्रम् आळ्वारतः</title>
             <link> https://archive.org/details/navya-nyAya-pAThaH-ALvArtaH</link>
           </image>
           <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
@@ -97,14 +97,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0077.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0077.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:24:29
-      </itunes:duration>
+          00:24:29
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:31 +0000
+          Mon, 16 Oct 2017 21:27:33 +0000
         </pubDate>
       </item><item>
         <title>
@@ -134,14 +134,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0076.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0076.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:51:09
-      </itunes:duration>
+          00:51:09
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:30 +0000
+          Mon, 16 Oct 2017 21:27:32 +0000
         </pubDate>
       </item><item>
         <title>
@@ -171,14 +171,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0075.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0075.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:01:55
-      </itunes:duration>
+          01:01:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:29 +0000
+          Mon, 16 Oct 2017 21:27:31 +0000
         </pubDate>
       </item><item>
         <title>
@@ -208,14 +208,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0074.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0074.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:39:40
-      </itunes:duration>
+          00:39:40
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:28 +0000
+          Mon, 16 Oct 2017 21:27:30 +0000
         </pubDate>
       </item><item>
         <title>
@@ -245,14 +245,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0073.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0073.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:40:15
-      </itunes:duration>
+          00:40:15
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:27 +0000
+          Mon, 16 Oct 2017 21:27:29 +0000
         </pubDate>
       </item><item>
         <title>
@@ -282,14 +282,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0072.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0072.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:30:20
-      </itunes:duration>
+          00:30:20
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:26 +0000
+          Mon, 16 Oct 2017 21:27:28 +0000
         </pubDate>
       </item><item>
         <title>
@@ -319,14 +319,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0071.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0071.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:01:24
-      </itunes:duration>
+          01:01:24
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:25 +0000
+          Mon, 16 Oct 2017 21:27:27 +0000
         </pubDate>
       </item><item>
         <title>
@@ -356,14 +356,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0070.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0070.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:49:09
-      </itunes:duration>
+          00:49:09
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:24 +0000
+          Mon, 16 Oct 2017 21:27:26 +0000
         </pubDate>
       </item><item>
         <title>
@@ -393,14 +393,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0069.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0069.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:02:04
-      </itunes:duration>
+          01:02:04
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:23 +0000
+          Mon, 16 Oct 2017 21:27:25 +0000
         </pubDate>
       </item><item>
         <title>
@@ -430,14 +430,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0068.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0068.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:56:25
-      </itunes:duration>
+          00:56:25
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:22 +0000
+          Mon, 16 Oct 2017 21:27:24 +0000
         </pubDate>
       </item><item>
         <title>
@@ -467,14 +467,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0067.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0067.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:05:05
-      </itunes:duration>
+          01:05:05
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:21 +0000
+          Mon, 16 Oct 2017 21:27:23 +0000
         </pubDate>
       </item><item>
         <title>
@@ -504,14 +504,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0066.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0066.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:48:05
-      </itunes:duration>
+          00:48:05
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:20 +0000
+          Mon, 16 Oct 2017 21:27:22 +0000
         </pubDate>
       </item><item>
         <title>
@@ -541,14 +541,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0065.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0065.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:11
-      </itunes:duration>
+          00:42:11
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:19 +0000
+          Mon, 16 Oct 2017 21:27:21 +0000
         </pubDate>
       </item><item>
         <title>
@@ -578,14 +578,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0064.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0064.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:53:14
-      </itunes:duration>
+          00:53:14
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:18 +0000
+          Mon, 16 Oct 2017 21:27:20 +0000
         </pubDate>
       </item><item>
         <title>
@@ -615,14 +615,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0063.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0063.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:53:14
-      </itunes:duration>
+          00:53:14
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:17 +0000
+          Mon, 16 Oct 2017 21:27:19 +0000
         </pubDate>
       </item><item>
         <title>
@@ -652,14 +652,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0062.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0062.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:49:49
-      </itunes:duration>
+          00:49:49
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:16 +0000
+          Mon, 16 Oct 2017 21:27:18 +0000
         </pubDate>
       </item><item>
         <title>
@@ -689,14 +689,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0061.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0061.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:49:36
-      </itunes:duration>
+          00:49:36
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:15 +0000
+          Mon, 16 Oct 2017 21:27:17 +0000
         </pubDate>
       </item><item>
         <title>
@@ -726,14 +726,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0060.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0060.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:35:00
-      </itunes:duration>
+          00:35:00
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:14 +0000
+          Mon, 16 Oct 2017 21:27:16 +0000
         </pubDate>
       </item><item>
         <title>
@@ -763,14 +763,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0059.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0059.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:46:15
-      </itunes:duration>
+          00:46:15
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:13 +0000
+          Mon, 16 Oct 2017 21:27:15 +0000
         </pubDate>
       </item><item>
         <title>
@@ -800,14 +800,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0058.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0058.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:34:59
-      </itunes:duration>
+          00:34:59
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:12 +0000
+          Mon, 16 Oct 2017 21:27:14 +0000
         </pubDate>
       </item><item>
         <title>
@@ -837,14 +837,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0057.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0057.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:55
-      </itunes:duration>
+          00:42:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:11 +0000
+          Mon, 16 Oct 2017 21:27:13 +0000
         </pubDate>
       </item><item>
         <title>
@@ -874,14 +874,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0056.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0056.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:49:34
-      </itunes:duration>
+          00:49:34
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:10 +0000
+          Mon, 16 Oct 2017 21:27:12 +0000
         </pubDate>
       </item><item>
         <title>
@@ -911,14 +911,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0055.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0055.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:47:35
-      </itunes:duration>
+          00:47:35
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:09 +0000
+          Mon, 16 Oct 2017 21:27:11 +0000
         </pubDate>
       </item><item>
         <title>
@@ -948,14 +948,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0054.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0054.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:33:00
-      </itunes:duration>
+          00:33:00
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:08 +0000
+          Mon, 16 Oct 2017 21:27:10 +0000
         </pubDate>
       </item><item>
         <title>
@@ -985,14 +985,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0053.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0053.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:05:04
-      </itunes:duration>
+          01:05:04
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:07 +0000
+          Mon, 16 Oct 2017 21:27:09 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1022,14 +1022,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0052.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0052.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:45:55
-      </itunes:duration>
+          00:45:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:06 +0000
+          Mon, 16 Oct 2017 21:27:08 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1059,14 +1059,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0051.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0051.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:59
-      </itunes:duration>
+          00:42:59
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:05 +0000
+          Mon, 16 Oct 2017 21:27:07 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1096,14 +1096,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0050.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0050.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:52:15
-      </itunes:duration>
+          00:52:15
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:04 +0000
+          Mon, 16 Oct 2017 21:27:06 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1133,14 +1133,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0049.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0049.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:45:45
-      </itunes:duration>
+          00:45:45
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:03 +0000
+          Mon, 16 Oct 2017 21:27:05 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1170,14 +1170,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0048.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0048.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:45:55
-      </itunes:duration>
+          00:45:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:02 +0000
+          Mon, 16 Oct 2017 21:27:04 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1207,14 +1207,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0047.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0047.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:36:35
-      </itunes:duration>
+          00:36:35
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:01 +0000
+          Mon, 16 Oct 2017 21:27:03 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1244,14 +1244,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0046.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0046.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:53:59
-      </itunes:duration>
+          00:53:59
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:28:00 +0000
+          Mon, 16 Oct 2017 21:27:02 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1281,14 +1281,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0045.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0045.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:37:00
-      </itunes:duration>
+          00:37:00
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:59 +0000
+          Mon, 16 Oct 2017 21:27:01 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1318,14 +1318,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0044.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0044.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:35:26
-      </itunes:duration>
+          00:35:26
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:58 +0000
+          Mon, 16 Oct 2017 21:27:00 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1355,14 +1355,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0043.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0043.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:35:55
-      </itunes:duration>
+          00:35:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:57 +0000
+          Mon, 16 Oct 2017 21:26:59 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1392,14 +1392,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0042.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0042.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:20:05
-      </itunes:duration>
+          00:20:05
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:56 +0000
+          Mon, 16 Oct 2017 21:26:58 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1429,14 +1429,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0041.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0041.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:13:39
-      </itunes:duration>
+          00:13:39
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:55 +0000
+          Mon, 16 Oct 2017 21:26:57 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1466,14 +1466,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0040.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0040.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:49:25
-      </itunes:duration>
+          00:49:25
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:54 +0000
+          Mon, 16 Oct 2017 21:26:56 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1503,14 +1503,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0039.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0039.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:39:21
-      </itunes:duration>
+          00:39:21
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:53 +0000
+          Mon, 16 Oct 2017 21:26:55 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1540,14 +1540,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0038.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0038.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:35:50
-      </itunes:duration>
+          00:35:50
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:52 +0000
+          Mon, 16 Oct 2017 21:26:54 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1577,14 +1577,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0037.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0037.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:33:49
-      </itunes:duration>
+          00:33:49
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:51 +0000
+          Mon, 16 Oct 2017 21:26:53 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1614,14 +1614,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0036.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0036.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:45:00
-      </itunes:duration>
+          00:45:00
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:50 +0000
+          Mon, 16 Oct 2017 21:26:52 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1651,14 +1651,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0035.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0035.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:35:30
-      </itunes:duration>
+          00:35:30
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:49 +0000
+          Mon, 16 Oct 2017 21:26:51 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1688,14 +1688,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0034.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0034.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:39
-      </itunes:duration>
+          00:42:39
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:48 +0000
+          Mon, 16 Oct 2017 21:26:50 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1725,14 +1725,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0033.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0033.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:58:20
-      </itunes:duration>
+          00:58:20
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:47 +0000
+          Mon, 16 Oct 2017 21:26:49 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1762,14 +1762,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0032.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0032.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:39:40
-      </itunes:duration>
+          00:39:40
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:46 +0000
+          Mon, 16 Oct 2017 21:26:48 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1799,14 +1799,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0031.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0031.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:29:35
-      </itunes:duration>
+          00:29:35
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:45 +0000
+          Mon, 16 Oct 2017 21:26:47 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1836,14 +1836,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0030.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0030.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:58:25
-      </itunes:duration>
+          00:58:25
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:44 +0000
+          Mon, 16 Oct 2017 21:26:46 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1873,14 +1873,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0029.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0029.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:41:45
-      </itunes:duration>
+          00:41:45
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:43 +0000
+          Mon, 16 Oct 2017 21:26:45 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1910,14 +1910,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0028.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0028.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:07:40
-      </itunes:duration>
+          00:07:40
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:42 +0000
+          Mon, 16 Oct 2017 21:26:44 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1947,14 +1947,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0027.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0027.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:36:40
-      </itunes:duration>
+          00:36:40
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:41 +0000
+          Mon, 16 Oct 2017 21:26:43 +0000
         </pubDate>
       </item><item>
         <title>
@@ -1984,14 +1984,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0026.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0026.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:54
-      </itunes:duration>
+          00:42:54
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:40 +0000
+          Mon, 16 Oct 2017 21:26:42 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2021,14 +2021,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0025.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0025.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:48:40
-      </itunes:duration>
+          00:48:40
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:39 +0000
+          Mon, 16 Oct 2017 21:26:41 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2058,14 +2058,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0024.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0024.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:52:24
-      </itunes:duration>
+          00:52:24
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:38 +0000
+          Mon, 16 Oct 2017 21:26:40 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2095,14 +2095,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0023.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0023.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:31:06
-      </itunes:duration>
+          00:31:06
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:37 +0000
+          Mon, 16 Oct 2017 21:26:39 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2132,14 +2132,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0022.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0022.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:54:55
-      </itunes:duration>
+          00:54:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:36 +0000
+          Mon, 16 Oct 2017 21:26:38 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2169,14 +2169,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0021.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0021.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:39:49
-      </itunes:duration>
+          00:39:49
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:35 +0000
+          Mon, 16 Oct 2017 21:26:37 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2206,14 +2206,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0020.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0020.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:46:00
-      </itunes:duration>
+          00:46:00
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:34 +0000
+          Mon, 16 Oct 2017 21:26:36 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2243,14 +2243,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0019.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0019.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:30:45
-      </itunes:duration>
+          00:30:45
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:33 +0000
+          Mon, 16 Oct 2017 21:26:35 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2280,14 +2280,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0018.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0018.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:43:34
-      </itunes:duration>
+          00:43:34
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:32 +0000
+          Mon, 16 Oct 2017 21:26:34 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2317,14 +2317,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0017.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0017.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:50:55
-      </itunes:duration>
+          00:50:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:31 +0000
+          Mon, 16 Oct 2017 21:26:33 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2354,14 +2354,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0016.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0016.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:19:46
-      </itunes:duration>
+          00:19:46
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:30 +0000
+          Mon, 16 Oct 2017 21:26:32 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2391,14 +2391,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0015.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0015.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:45
-      </itunes:duration>
+          00:42:45
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:29 +0000
+          Mon, 16 Oct 2017 21:26:31 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2428,14 +2428,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0014.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0014.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:42:55
-      </itunes:duration>
+          00:42:55
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:28 +0000
+          Mon, 16 Oct 2017 21:26:30 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2465,14 +2465,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0013.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0013.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:55:31
-      </itunes:duration>
+          00:55:31
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:27 +0000
+          Mon, 16 Oct 2017 21:26:29 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2502,14 +2502,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0012.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0012.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:58:21
-      </itunes:duration>
+          00:58:21
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:26 +0000
+          Mon, 16 Oct 2017 21:26:28 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2539,14 +2539,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0011.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0011.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:46:45
-      </itunes:duration>
+          00:46:45
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:25 +0000
+          Mon, 16 Oct 2017 21:26:27 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2576,14 +2576,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0010.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0010.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:38:35
-      </itunes:duration>
+          00:38:35
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:24 +0000
+          Mon, 16 Oct 2017 21:26:26 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2613,14 +2613,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0009.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0009.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:58:10
-      </itunes:duration>
+          00:58:10
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:23 +0000
+          Mon, 16 Oct 2017 21:26:25 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2650,14 +2650,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0008.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0008.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:47:49
-      </itunes:duration>
+          00:47:49
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:22 +0000
+          Mon, 16 Oct 2017 21:26:24 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2687,14 +2687,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0007.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0007.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:49:20
-      </itunes:duration>
+          00:49:20
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:21 +0000
+          Mon, 16 Oct 2017 21:26:23 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2724,14 +2724,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0006.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0006.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:02:15
-      </itunes:duration>
+          01:02:15
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:20 +0000
+          Mon, 16 Oct 2017 21:26:22 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2761,14 +2761,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0005.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0005.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:35:33
-      </itunes:duration>
+          00:35:33
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:19 +0000
+          Mon, 16 Oct 2017 21:26:21 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2798,14 +2798,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0004.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0004.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:56:46
-      </itunes:duration>
+          00:56:46
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:18 +0000
+          Mon, 16 Oct 2017 21:26:20 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2835,14 +2835,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0003.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0003.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:53:16
-      </itunes:duration>
+          00:53:16
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:17 +0000
+          Mon, 16 Oct 2017 21:26:19 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2872,14 +2872,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0002.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0002.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        01:01:01
-      </itunes:duration>
+          01:01:01
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:16 +0000
+          Mon, 16 Oct 2017 21:26:18 +0000
         </pubDate>
       </item><item>
         <title>
@@ -2909,14 +2909,14 @@
         
 
 
-      <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0001.mp3" type="audio/mpeg" length="1"/>
+        <enclosure url="https://archive.org/download/navya-nyAya-pAThaH-ALvArtaH/navya-nyAya-ALvAr-0001.mp3" type="audio/mpeg" length="1"/>
 
         
         <itunes:duration>
-        00:57:30
-      </itunes:duration>
+          00:57:30
+        </itunes:duration>
         <pubDate>
-          Sat, 30 Sep 2017 15:27:15 +0000
+          Mon, 16 Oct 2017 21:26:17 +0000
         </pubDate>
       </item>
         </channel>
