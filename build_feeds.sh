@@ -9,13 +9,13 @@ java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath f
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/sa/requestJsons/nyAya-shAstra-vidyAdharI.json  --outputPath  auto-built-feeds/sa/nyAya-shAstra-vidyAdharI.rss
 
 ## Kannada
-java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/nAgusPodcasts.json  --outputPath  auto-built-feeds/nAgusPodcasts.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/nAgusPodcasts.json  --outputPath  auto-built-feeds/kn/nAgusPodcasts.rss
 
 ## English
-java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/hindu-sanskrit-lectures-yt-vv.json  --outputPath  auto-built-feeds/hindu-sanskrit-lectures-yt-vv.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/hindu-sanskrit-lectures-yt-vv.json  --outputPath  auto-built-feeds/en/hindu-sanskrit-lectures-yt-vv.rss
 
 ### Rare updates
-java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/SrijanFoundationTalks.json  --outputPath  auto-built-feeds/SrijanFoundationTalks.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/SrijanFoundationTalks.json  --outputPath  auto-built-feeds/en/SrijanFoundationTalks.rss
 
 ## Tamil
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/ta/requestJsons/Sribhashya-of-Sri-Ramanuja-taught-by-M-A-Alwar.json  --outputPath  auto-built-feeds/ta/Sribhashya-of-Sri-Ramanuja-taught-by-M-A-Alwar.rss
