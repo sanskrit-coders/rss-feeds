@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "navya-nyAya-pAThaH-ALvArtaH"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "navya-nyAya-pAThaH-ALvArtaH न्याय-शास्त्रम् आळ्वारतः",
+      "description": "",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "sa",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "M A ALwar",
+      "isExplicitYesNo": "no",
+      "categories": ["Society & Culture"]
+    }
+}
