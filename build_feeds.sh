@@ -8,7 +8,6 @@ wget -N https://github.com/sanskrit-coders/db-interface/raw/master/bin/artifacts
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/sa/requestJsons/mahAbhArata-mUla-paThanam.json  --outputPath auto-built-feeds/sa/mahAbhArata-mUla-paThanam.rss
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/sa/requestJsons/nyAya-shAstra-vidyAdharI.json  --outputPath  auto-built-feeds/sa/nyAya-shAstra-vidyAdharI.rss
 
-
 ## Kannada
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/nAgusPodcasts.json  --outputPath  auto-built-feeds/nAgusPodcasts.rss
 
