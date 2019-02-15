@@ -18,7 +18,7 @@
             Covers books by authors like: DVG, devuDu narasimha shAstri
           </itunes:summary>
           <!--The podcast website.-->
-          <link> https://archive.org/details/saMskAra-mahodadhi-anantanarasiMhAchAr</link>
+          <link> https://archive.org/details/KutumbaPrabhOdana</link>
 
           
           <language>kn</language>
@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Mon, 11 Feb 2019 04:23:02 +0000
+            Fri, 15 Feb 2019 17:47:09 +0000
           </lastBuildDate>
           <pubDate>
-            Mon, 11 Feb 2019 04:23:02 +0000
+            Fri, 15 Feb 2019 17:47:09 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -51,7 +51,7 @@
           <image>
             <url>https://i.imgur.com/dQjPQYi.jpg</url>
             <title>Nagu and co podcasts</title>
-            <link> https://archive.org/details/saMskAra-mahodadhi-anantanarasiMhAchAr</link>
+            <link> https://archive.org/details/KutumbaPrabhOdana</link>
           </image>
           <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
 
@@ -63,11 +63,48 @@
         
           <itunes:category text="Society &amp; Culture"/>
           <itunes:keywords>
-            saMskAra,kannada,festivals,utsava,audiobook,kAvya,upaniShat,yAjnavalkya,short stories,brAhmaNyam,vasiShTha,vishvamitra
+            hindu AchAra,dharma,saMskAra,kannada,festivals,utsava,audiobook,kAvya,upaniShat,yAjnavalkya,short stories,brAhmaNyam,vasiShTha,vishvamitra
           </itunes:keywords>
 
 
           <item>
+        <title>
+          ASR Recordings hindu jIvanada vishEshathegaLu ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings hindu jIvanada vishEshathegaLu ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/KutumbaPrabhOdana/00%20hindu%20jIvanada%20vishEshathegaLu.mp3</link>
+        <itunes:summary>
+          ASR Recordings hindu jIvanada vishEshathegaLu ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings hindu jIvanada vishEshathegaLu ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/KutumbaPrabhOdana/00%20hindu%20jIvanada%20vishEshathegaLu.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/KutumbaPrabhOdana/00%20hindu%20jIvanada%20vishEshathegaLu.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:06:30
+        </itunes:duration>
+        <pubDate>
+          Fri, 15 Feb 2019 17:47:09 +0000
+        </pubDate>
+      </item><item>
         <title>
           ಭಾರತೀಯ-ಹಬ್ಬ-ಆಚರಣೆಗಳು bhAratIya habba AcharaNegaLu 79 Sri Guru-Acharyara Janmadina mattu p1 ವಾಸುಕಿ-ನಾಗರತ್ನಾ vAsuki-nAgaratnA
         </title>
