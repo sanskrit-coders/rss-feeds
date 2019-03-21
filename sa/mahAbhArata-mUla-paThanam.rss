@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Sun, 03 Mar 2019 15:54:08 +0000
+            Thu, 21 Mar 2019 01:53:22 +0000
           </lastBuildDate>
           <pubDate>
-            Sun, 03 Mar 2019 15:54:08 +0000
+            Thu, 21 Mar 2019 01:53:22 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+           001-155-p02.mp3 
+        </title>
+        <description>
+           001-155-p02.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p02.mp3</link>
+        <itunes:summary>
+           001-155-p02.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           001-155-p02.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p02.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:02:05
+        </itunes:duration>
+        <pubDate>
+          Thu, 21 Mar 2019 01:53:22 +0000
+        </pubDate>
+      </item><item>
+        <title>
+           001-155-p01.mp3 
+        </title>
+        <description>
+           001-155-p01.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p01.mp3</link>
+        <itunes:summary>
+           001-155-p01.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           001-155-p01.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p01.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:02:03
+        </itunes:duration>
+        <pubDate>
+          Thu, 21 Mar 2019 01:53:17 +0000
+        </pubDate>
+      </item><item>
         <title>
           महाभारतम् mahAbhAratam - parva 001 001-188-p03 shashI शशी
         </title>
