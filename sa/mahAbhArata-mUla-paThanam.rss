@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Fri, 22 Mar 2019 18:24:19 +0000
+            Thu, 28 Mar 2019 17:36:48 +0000
           </lastBuildDate>
           <pubDate>
-            Fri, 22 Mar 2019 18:24:19 +0000
+            Thu, 28 Mar 2019 17:36:48 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+          महाभारतम् mahAbhAratam - parva 001 001-204 bAlA बाला
+        </title>
+        <description>
+          महाभारतम् mahAbhAratam - parva 001 001-204 bAlA बाला
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-204.mp3</link>
+        <itunes:summary>
+          महाभारतम् mahAbhAratam - parva 001 001-204 bAlA बाला
+        </itunes:summary>
+        <itunes:subtitle>
+          महाभारतम् mahAbhAratam - parva 001 001-204 bAlA बाल
+        </itunes:subtitle>
+
+        <author>bAlA बाला</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-204.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-204.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:07:00
+        </itunes:duration>
+        <pubDate>
+          Thu, 28 Mar 2019 17:36:48 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          महाभारतम् mahAbhAratam - parva 001 001-190 shrEyAn श्रेयान्
+        </title>
+        <description>
+          महाभारतम् mahAbhAratam - parva 001 001-190 shrEyAn श्रेयान्
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-190.mp3</link>
+        <itunes:summary>
+          महाभारतम् mahAbhAratam - parva 001 001-190 shrEyAn श्रेयान्
+        </itunes:summary>
+        <itunes:subtitle>
+          महाभारतम् mahAbhAratam - parva 001 001-190 shrEyAn श्रेयान
+        </itunes:subtitle>
+
+        <author>shrEyAn श्रेयान्</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-190.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-190.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:08:15
+        </itunes:duration>
+        <pubDate>
+          Thu, 28 Mar 2019 17:36:41 +0000
+        </pubDate>
+      </item><item>
         <title>
           महाभारतम् mahAbhAratam - parva 001 001-203 bAlA बाला
         </title>
