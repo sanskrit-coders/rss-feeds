@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Fri, 31 May 2019 08:33:26 +0000
+            Sun, 02 Jun 2019 12:34:59 +0000
           </lastBuildDate>
           <pubDate>
-            Fri, 31 May 2019 08:33:26 +0000
+            Sun, 02 Jun 2019 12:34:59 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -63,11 +63,85 @@
         
           <itunes:category text="Society &amp; Culture"/>
           <itunes:keywords>
-            hindu AchAra,dharma,saMskAra,kannada,festivals,utsava,audiobook,kAvya,upaniShat,yAjnavalkya,short stories,brAhmaNyam,vasiShTha,vishvamitra
+            hindu AchAra,dharma,kannada,history,chitradurga,saMskAra,festivals,utsava,audiobook,kAvya,upaniShat,yAjnavalkya,short stories,brAhmaNyam,vasiShTha,vishvamitra
           </itunes:keywords>
 
 
           <item>
+        <title>
+          ASR Recordings 2019_06_02_17_45_50 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2019_06_02_17_45_50 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2019_06_02_17_45_50.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2019_06_02_17_45_50 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2019_06_02_17_45_50 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2019_06_02_17_45_50.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2019_06_02_17_45_50.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:14:23
+        </itunes:duration>
+        <pubDate>
+          Sun, 02 Jun 2019 12:34:59 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          ASR Recordings 2019_06_01_12_39_01 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2019_06_01_12_39_01 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2019_06_01_12_39_01.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2019_06_01_12_39_01 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2019_06_01_12_39_01 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2019_06_01_12_39_01.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2019_06_01_12_39_01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:13:19
+        </itunes:duration>
+        <pubDate>
+          Sat, 01 Jun 2019 07:24:54 +0000
+        </pubDate>
+      </item><item>
         <title>
           ASR Recordings 2019_05_05_12_25_42 ASR by NLL APPS
         </title>
@@ -140,6 +214,43 @@
         </itunes:duration>
         <pubDate>
           Fri, 31 May 2019 07:39:52 +0000
+        </pubDate>
+      </item><item>
+        <title>
+           0000-00-00-00_00_00_gaNeshAya_namaH.mp3 
+        </title>
+        <description>
+           0000-00-00-00_00_00_gaNeshAya_namaH.mp3 
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/0000-00-00-00_00_00_gaNeshAya_namaH.mp3</link>
+        <itunes:summary>
+           0000-00-00-00_00_00_gaNeshAya_namaH.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           0000-00-00-00_00_00_gaNeshAya_namaH.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/0000-00-00-00_00_00_gaNeshAya_namaH.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/0000-00-00-00_00_00_gaNeshAya_namaH.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:00:02
+        </itunes:duration>
+        <pubDate>
+          Thu, 30 May 2019 05:00:20 +0000
         </pubDate>
       </item><item>
         <title>
