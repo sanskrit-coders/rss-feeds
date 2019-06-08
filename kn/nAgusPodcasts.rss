@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Fri, 07 Jun 2019 18:22:33 +0000
+            Sat, 08 Jun 2019 11:52:40 +0000
           </lastBuildDate>
           <pubDate>
-            Fri, 07 Jun 2019 18:22:33 +0000
+            Sat, 08 Jun 2019 11:52:40 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+          ASR Recordings 2019_06_03_20_39_48 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2019_06_03_20_39_48 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2019_06_03_20_39_48.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2019_06_03_20_39_48 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2019_06_03_20_39_48 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2019_06_03_20_39_48.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2019_06_03_20_39_48.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:10:00
+        </itunes:duration>
+        <pubDate>
+          Sat, 08 Jun 2019 11:52:40 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          ASR Recordings 2019_06_08_16_43_40 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2019_06_08_16_43_40 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2019_06_08_16_43_40.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2019_06_08_16_43_40 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2019_06_08_16_43_40 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2019_06_08_16_43_40.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2019_06_08_16_43_40.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:21:32
+        </itunes:duration>
+        <pubDate>
+          Sat, 08 Jun 2019 11:44:16 +0000
+        </pubDate>
+      </item><item>
         <title>
           ASR Recordings 2019_06_07_19_46_23 ASR by NLL APPS
         </title>
