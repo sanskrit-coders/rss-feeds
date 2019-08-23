@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Thu, 22 Aug 2019 14:28:02 +0000
+            Thu, 22 Aug 2019 14:28:10 +0000
           </lastBuildDate>
           <pubDate>
-            Thu, 22 Aug 2019 14:28:02 +0000
+            Thu, 22 Aug 2019 14:28:10 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -69,21 +69,58 @@
 
           <item>
         <title>
-           002-032-p01.mp3 
+          महाभारतम् mahAbhAratam - parva 002 002-032-p02 digvijaya-parva दिग्विजय-पर्व shashI शशी
         </title>
         <description>
-           002-032-p01.mp3 
+          महाभारतम् mahAbhAratam - parva 002 002-032-p02 digvijaya-parva दिग्विजय-पर्व shashI शशी
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3</link>
+        <itunes:summary>
+          महाभारतम् mahAbhAratam - parva 002 002-032-p02 digvijaya-parva दिग्विजय-पर्व shashI शशी
+        </itunes:summary>
+        <itunes:subtitle>
+          महाभारतम् mahAbhAratam - parva 002 002-032-p02 digvijaya-parva दिग्विजय-पर्व shashI शश
+        </itunes:subtitle>
+
+        <author>shashI शशी</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:01:53
+        </itunes:duration>
+        <pubDate>
+          Thu, 22 Aug 2019 14:28:10 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          महाभारतम् mahAbhAratam - parva 002 002-032-p01 digvijaya-parva दिग्विजय-पर्व shashI शशी
+        </title>
+        <description>
+          महाभारतम् mahAbhAratam - parva 002 002-032-p01 digvijaya-parva दिग्विजय-पर्व shashI शशी
         </description>
         
         <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p01.mp3</link>
         <itunes:summary>
-           002-032-p01.mp3 
+          महाभारतम् mahAbhAratam - parva 002 002-032-p01 digvijaya-parva दिग्विजय-पर्व shashI शशी
         </itunes:summary>
         <itunes:subtitle>
-           002-032-p01.mp3
+          महाभारतम् mahAbhAratam - parva 002 002-032-p01 digvijaya-parva दिग्विजय-पर्व shashI शश
         </itunes:subtitle>
 
-        
+        <author>shashI शशी</author>
 
         
         
@@ -103,43 +140,6 @@
         </itunes:duration>
         <pubDate>
           Thu, 22 Aug 2019 14:28:02 +0000
-        </pubDate>
-      </item><item>
-        <title>
-           002-032-p02.mp3 
-        </title>
-        <description>
-           002-032-p02.mp3 
-        </description>
-        
-        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3</link>
-        <itunes:summary>
-           002-032-p02.mp3 
-        </itunes:summary>
-        <itunes:subtitle>
-           002-032-p02.mp3
-        </itunes:subtitle>
-
-        
-
-        
-        
-        <guid>
-          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3
-        </guid>
-
-        
-        
-
-
-        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3" type="audio/mpeg" length="1"/>
-
-        
-        <itunes:duration>
-          00:01:53
-        </itunes:duration>
-        <pubDate>
-          Thu, 22 Aug 2019 14:27:56 +0000
         </pubDate>
       </item><item>
         <title>
