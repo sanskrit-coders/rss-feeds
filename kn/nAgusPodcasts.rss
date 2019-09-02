@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Sat, 31 Aug 2019 11:34:09 +0000
+            Sun, 01 Sep 2019 11:13:39 +0000
           </lastBuildDate>
           <pubDate>
-            Sat, 31 Aug 2019 11:34:09 +0000
+            Sun, 01 Sep 2019 11:13:39 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+          ASR Recordings 2019_09_01_16_15_29 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2019_09_01_16_15_29 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2019_09_01_16_15_29.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2019_09_01_16_15_29 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2019_09_01_16_15_29 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2019_09_01_16_15_29.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2019_09_01_16_15_29.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:20:53
+        </itunes:duration>
+        <pubDate>
+          Sun, 01 Sep 2019 11:13:39 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          ASR Recordings 2019_09_01_12_25_12 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2019_09_01_12_25_12 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/saMskAra-mahodadhi-anantanarasiMhAchAr/2019_09_01_12_25_12.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2019_09_01_12_25_12 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2019_09_01_12_25_12 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/saMskAra-mahodadhi-anantanarasiMhAchAr/2019_09_01_12_25_12.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/saMskAra-mahodadhi-anantanarasiMhAchAr/2019_09_01_12_25_12.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:27:02
+        </itunes:duration>
+        <pubDate>
+          Sun, 01 Sep 2019 07:24:22 +0000
+        </pubDate>
+      </item><item>
         <title>
           ASR Recordings 2019_08_31_16_04_10 ASR by NLL APPS
         </title>
