@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Wed, 04 Sep 2019 01:13:50 +0000
+            Sat, 07 Sep 2019 16:09:45 +0000
           </lastBuildDate>
           <pubDate>
-            Wed, 04 Sep 2019 01:13:50 +0000
+            Sat, 07 Sep 2019 16:09:45 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+           002-039-p02.mp3 
+        </title>
+        <description>
+           002-039-p02.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p02.mp3</link>
+        <itunes:summary>
+           002-039-p02.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           002-039-p02.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p02.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:01:45
+        </itunes:duration>
+        <pubDate>
+          Sat, 07 Sep 2019 16:09:45 +0000
+        </pubDate>
+      </item><item>
+        <title>
+           002-039-p01.mp3 
+        </title>
+        <description>
+           002-039-p01.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p01.mp3</link>
+        <itunes:summary>
+           002-039-p01.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           002-039-p01.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p01.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:01:54
+        </itunes:duration>
+        <pubDate>
+          Sat, 07 Sep 2019 16:09:36 +0000
+        </pubDate>
+      </item><item>
         <title>
           महाभारतम् mahAbhAratam - parva 002 002-023p02 jarAsandha-vadha-parva jarAsandhashrAntiH जरासन्ध-वध-पर्व जरासन्धश्रान्तिः shIlA शीला
         </title>
