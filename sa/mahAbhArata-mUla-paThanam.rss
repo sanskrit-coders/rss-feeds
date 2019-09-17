@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Sun, 15 Sep 2019 16:36:50 +0000
+            Tue, 17 Sep 2019 12:03:59 +0000
           </lastBuildDate>
           <pubDate>
-            Sun, 15 Sep 2019 16:36:50 +0000
+            Tue, 17 Sep 2019 12:03:59 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,43 @@
 
 
           <item>
+        <title>
+           002-037-p01.mp3 
+        </title>
+        <description>
+           002-037-p01.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p01.mp3</link>
+        <itunes:summary>
+           002-037-p01.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           002-037-p01.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p01.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p01.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:01:51
+        </itunes:duration>
+        <pubDate>
+          Tue, 17 Sep 2019 12:03:59 +0000
+        </pubDate>
+      </item><item>
         <title>
           महाभारतम् mahAbhAratam - parva 002 002-046p03 dyUta-parva vyAsa-bhaviShyavANI द्यूत-पर्व व्यास-भविष्यवाणी kiDAmbi-haripriyA किडाम्बि-हरिप्रिया
         </title>
