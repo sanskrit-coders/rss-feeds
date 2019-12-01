@@ -8,7 +8,7 @@
 		<!--The podcast website.-->
 		<link> https://archive.org/details/manogatam</link>
 		<language>sa</language>
-		<lastBuildDate> Sun, 27 Oct 2019 09:43:02 +0530 </lastBuildDate>
+		<lastBuildDate> Sun, 24 Nov 2019 09:43:02 +0530 </lastBuildDate>
 		<pubDate> Sun, 25 Jun 2017 14:43:02 +0530 </pubDate>
 		<!--Publisher details.-->
 		<webMaster> podcast-bhaaratii@googlegroups.com </webMaster>
@@ -26,6 +26,16 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:category text="Society &amp; Culture"/>
 		<itunes:keywords> sanskrit,samskritam,sanskrit podcast,mann ki baat,manogatam,मनोगतम्,संस्कृतम्,narendra modi </itunes:keywords>
+		<item>
+			<title> 059-manogatam-Nov2019.mp3 059-manogatam-Nov2019.mp3 </title>
+			<description> 059-manogatam-Nov2019.mp3 059-manogatam-Nov2019.mp3 </description>
+			<itunes:summary> 059-manogatam-Nov2019.mp3 059-manogatam-Nov2019.mp3 </itunes:summary>
+			<itunes:subtitle> 059-manogatam-Nov2019.mp3 059-manogatam-Nov2019.mp </itunes:subtitle>
+			<guid> https://archive.org/download/manogatam/059-manogatam-Nov2019.mp3 </guid>
+			<enclosure url="https://archive.org/download/manogatam/059-manogatam-Nov2019.mp3" type="audio/mpeg" length="1"/>
+			<itunes:duration> 00:40:21 </itunes:duration>
+			<pubDate> Sun, 24 Nov 2019 09:43:08 +0530 </pubDate>
+		</item>
 		<item>
 			<title> 058-manogatam-Oct2019.mp3 058-manogatam-Oct2019.mp3 </title>
 			<description> 058-manogatam-Oct2019.mp3 058-manogatam-Oct2019.mp3 </description>
