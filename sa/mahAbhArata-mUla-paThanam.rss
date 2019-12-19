@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Tue, 17 Dec 2019 12:21:39 +0000
+            Wed, 18 Dec 2019 23:38:25 +0000
           </lastBuildDate>
           <pubDate>
-            Tue, 17 Dec 2019 12:21:39 +0000
+            Wed, 18 Dec 2019 23:38:25 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,43 @@
 
 
           <item>
+        <title>
+           003-006.mp3 
+        </title>
+        <description>
+           003-006.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-006.mp3</link>
+        <itunes:summary>
+           003-006.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           003-006.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-006.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-006.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:04:46
+        </itunes:duration>
+        <pubDate>
+          Wed, 18 Dec 2019 23:38:25 +0000
+        </pubDate>
+      </item><item>
         <title>
           महाभारतम् mahAbhAratam - parva 002 002-067-p5 dyUta-parva pANDavAvamAnam draupadyAnayanam द्यूत-पर्व पाण्डवावमानम् द्रौपद्यानयनम् bAlA बाला
         </title>
