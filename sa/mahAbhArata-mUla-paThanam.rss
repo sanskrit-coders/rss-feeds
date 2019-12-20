@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Wed, 18 Dec 2019 23:38:25 +0000
+            Thu, 19 Dec 2019 14:36:49 +0000
           </lastBuildDate>
           <pubDate>
-            Wed, 18 Dec 2019 23:38:25 +0000
+            Thu, 19 Dec 2019 14:36:49 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -69,18 +69,92 @@
 
           <item>
         <title>
-           003-006.mp3 
+           003-007-p2.mp3 
         </title>
         <description>
-           003-006.mp3 
+           003-007-p2.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p2.mp3</link>
+        <itunes:summary>
+           003-007-p2.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           003-007-p2.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p2.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p2.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:01:41
+        </itunes:duration>
+        <pubDate>
+          Thu, 19 Dec 2019 14:36:49 +0000
+        </pubDate>
+      </item><item>
+        <title>
+           003-007-p1.mp3 
+        </title>
+        <description>
+           003-007-p1.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p1.mp3</link>
+        <itunes:summary>
+           003-007-p1.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           003-007-p1.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p1.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p1.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:02:59
+        </itunes:duration>
+        <pubDate>
+          Thu, 19 Dec 2019 14:36:39 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          महाभारतम् mahAbhAratam - parva 003 003-006 
+        </title>
+        <description>
+          महाभारतम् mahAbhAratam - parva 003 003-006 
         </description>
         
         <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-006.mp3</link>
         <itunes:summary>
-           003-006.mp3 
+          महाभारतम् mahAbhAratam - parva 003 003-006 
         </itunes:summary>
         <itunes:subtitle>
-           003-006.mp3
+          महाभारतम् mahAbhAratam - parva 003 003-006
         </itunes:subtitle>
 
         
