@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Wed, 01 Jan 2020 13:45:42 +0000
+            Wed, 01 Jan 2020 13:45:57 +0000
           </lastBuildDate>
           <pubDate>
-            Wed, 01 Jan 2020 13:45:42 +0000
+            Wed, 01 Jan 2020 13:45:57 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+           003-001-p04.mp3 
+        </title>
+        <description>
+           003-001-p04.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p04.mp3</link>
+        <itunes:summary>
+           003-001-p04.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           003-001-p04.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p04.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p04.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:02:26
+        </itunes:duration>
+        <pubDate>
+          Wed, 01 Jan 2020 13:45:57 +0000
+        </pubDate>
+      </item><item>
+        <title>
+           003-001-p03.mp3 
+        </title>
+        <description>
+           003-001-p03.mp3 
+        </description>
+        
+        <link>https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p03.mp3</link>
+        <itunes:summary>
+           003-001-p03.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           003-001-p03.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p03.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:02:12
+        </itunes:duration>
+        <pubDate>
+          Wed, 01 Jan 2020 13:45:47 +0000
+        </pubDate>
+      </item><item>
         <title>
            003-001-p02.mp3 
         </title>
