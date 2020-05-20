@@ -10,6 +10,7 @@ java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath f
 
 ## Kannada
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/nAgusPodcasts.json  --outputPath  auto-built-feeds/kn/nAgusPodcasts.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/kumAra-vyAsa-bhArata.json  --outputPath  auto-built-feeds/kn/kumAra-vyAsa-bhArata.rss
 
 ## English
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/hindu-sanskrit-lectures-yt-vv.json  --outputPath  auto-built-feeds/en/hindu-sanskrit-lectures-yt-vv.rss
