@@ -1,7 +1,6 @@
 {
   "archiveIds": [
-    "kumaravyasa-bharata-recitation",
-    "20171128215242"
+    "kumaravyasa-bharata-recitation"
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
@@ -11,7 +10,7 @@
       "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
       "languageCode": "kn",
       "publisherEmail": "podcast-bhaaratii@googlegroups.com",
-      "author": "Pooja and friends",
+      "author": "Gautam Bhargava",
       "isExplicitYesNo": "no",
       "categories": ["Society & Culture"]
     }
