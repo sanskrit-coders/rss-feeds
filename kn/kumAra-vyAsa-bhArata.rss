@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Sun, 24 May 2020 06:38:28 +0000
+            Mon, 25 May 2020 09:35:09 +0000
           </lastBuildDate>
           <pubDate>
-            Sun, 24 May 2020 06:38:28 +0000
+            Mon, 25 May 2020 09:35:09 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -69,6 +69,43 @@
 
           <item>
         <title>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 002 Sandhi Part 02 of 02 Kumaravyasa
+        </title>
+        <description>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 002 Sandhi Part 02 of 02 Kumaravyasa
+        </description>
+        
+        <link>https://archive.org/download/kumaravyasa-bharata-recitation/Parva-01-Adiparva-002-Sandhi-Part-02-of-02.mp3</link>
+        <itunes:summary>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 002 Sandhi Part 02 of 02 Kumaravyasa
+        </itunes:summary>
+        <itunes:subtitle>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 002 Sandhi Part 02 of 02 Kumaravyas
+        </itunes:subtitle>
+
+        <author>Kumaravyasa</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kumaravyasa-bharata-recitation/Parva-01-Adiparva-002-Sandhi-Part-02-of-02.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/kumaravyasa-bharata-recitation/Parva-01-Adiparva-002-Sandhi-Part-02-of-02.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:20:46
+        </itunes:duration>
+        <pubDate>
+          Mon, 25 May 2020 09:35:11 +0000
+        </pubDate>
+      </item><item>
+        <title>
           Kumaravyasa Bharata Adiparva Parva 01 Adiparva 002 Sandhi Part 01 of 02 Kumaravyasa
         </title>
         <description>
@@ -102,7 +139,7 @@
           00:12:49
         </itunes:duration>
         <pubDate>
-          Sun, 24 May 2020 06:38:29 +0000
+          Mon, 25 May 2020 09:35:10 +0000
         </pubDate>
       </item><item>
         <title>
@@ -139,7 +176,7 @@
           00:20:02
         </itunes:duration>
         <pubDate>
-          Sun, 24 May 2020 06:38:28 +0000
+          Mon, 25 May 2020 09:35:09 +0000
         </pubDate>
       </item>
         </channel>
