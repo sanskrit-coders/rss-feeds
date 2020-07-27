@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Fri, 24 Jul 2020 13:05:24 +0000
+            Sun, 26 Jul 2020 11:18:35 +0000
           </lastBuildDate>
           <pubDate>
-            Fri, 24 Jul 2020 13:05:24 +0000
+            Sun, 26 Jul 2020 11:18:35 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -68,6 +68,80 @@
 
 
           <item>
+        <title>
+          ASR Recordings 2020_07_26_16_34_38 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2020_07_26_16_34_38 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2020_07_26_16_34_38.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2020_07_26_16_34_38 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2020_07_26_16_34_38 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2020_07_26_16_34_38.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2020_07_26_16_34_38.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:11:25
+        </itunes:duration>
+        <pubDate>
+          Sun, 26 Jul 2020 11:18:35 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          ASR Recordings 2020_07_26_12_52_18 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2020_07_26_12_52_18 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2020_07_26_12_52_18.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2020_07_26_12_52_18 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2020_07_26_12_52_18 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2020_07_26_12_52_18.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2020_07_26_12_52_18.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:27:44
+        </itunes:duration>
+        <pubDate>
+          Sun, 26 Jul 2020 07:55:15 +0000
+        </pubDate>
+      </item><item>
         <title>
           ASR Recordings 2020_07_24_18_03_24 ASR by NLL APPS
         </title>
