@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Wed, 12 Aug 2020 09:26:55 +0000
+            Thu, 13 Aug 2020 13:13:30 +0000
           </lastBuildDate>
           <pubDate>
-            Wed, 12 Aug 2020 09:26:55 +0000
+            Thu, 13 Aug 2020 13:13:30 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -69,21 +69,58 @@
 
           <item>
         <title>
-           2020_08_12_14_37_08.mp3 
+          ASR Recordings 2020_08_13_17_21_51 ASR by NLL APPS
         </title>
         <description>
-           2020_08_12_14_37_08.mp3 
+          ASR Recordings 2020_08_13_17_21_51 ASR by NLL APPS
+        </description>
+        
+        <link>https://archive.org/download/durgAstamAna/2020_08_13_17_21_51.mp3</link>
+        <itunes:summary>
+          ASR Recordings 2020_08_13_17_21_51 ASR by NLL APPS
+        </itunes:summary>
+        <itunes:subtitle>
+          ASR Recordings 2020_08_13_17_21_51 ASR by NLL APP
+        </itunes:subtitle>
+
+        <author>ASR by NLL APPS</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/durgAstamAna/2020_08_13_17_21_51.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/durgAstamAna/2020_08_13_17_21_51.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:18:46
+        </itunes:duration>
+        <pubDate>
+          Thu, 13 Aug 2020 13:13:30 +0000
+        </pubDate>
+      </item><item>
+        <title>
+          ASR Recordings 2020_08_12_14_37_08 ASR by NLL APPS
+        </title>
+        <description>
+          ASR Recordings 2020_08_12_14_37_08 ASR by NLL APPS
         </description>
         
         <link>https://archive.org/download/durgAstamAna/2020_08_12_14_37_08.mp3</link>
         <itunes:summary>
-           2020_08_12_14_37_08.mp3 
+          ASR Recordings 2020_08_12_14_37_08 ASR by NLL APPS
         </itunes:summary>
         <itunes:subtitle>
-           2020_08_12_14_37_08.mp3
+          ASR Recordings 2020_08_12_14_37_08 ASR by NLL APP
         </itunes:subtitle>
 
-        
+        <author>ASR by NLL APPS</author>
 
         
         
