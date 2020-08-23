@@ -1,0 +1,148 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        
+
+        <channel>
+          
+
+          <title>
+            vyaktInAm charitram 
+          </title>
+          <!--Various description fields.-->
+          <description>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/rAmakaraNa-sharma-sandarshanam-balarAmena, with description:
+vyakticitraṇāni&lt;br /&gt;&lt;br /&gt;yathā - rAmakaraNa-sharma-sandarshanam balarAmena. रामकरणशर्मणस् सन्दर्शनम्। अस्यालेख इहास्ति - http://goo.gl/ueJGVS ।&lt;div&gt;&lt;div class=&quot;gtx-trans-icon&quot;&gt;&lt;/div&gt;&lt;/div&gt;.
+          </description>
+          <itunes:subtitle>
+            vyaktInAm charitram 
+          </itunes:subtitle>
+          <itunes:summary>
+            A podcast created using https://github.com/vedavaapi/scala-akka-http-server from the archive item: https://archive.org/details/rAmakaraNa-sharma-sandarshanam-balarAmena, with description:
+vyakticitraṇāni&lt;br /&gt;&lt;br /&gt;yathā - rAmakaraNa-sharma-sandarshanam balarAmena. रामकरणशर्मणस् सन्दर्शनम्। अस्यालेख इहास्ति - http://goo.gl/ueJGVS ।&lt;div&gt;&lt;div class=&quot;gtx-trans-icon&quot;&gt;&lt;/div&gt;&lt;/div&gt;.
+          </itunes:summary>
+          <!--The podcast website.-->
+          <link> https://archive.org/details/rAmakaraNa-sharma-sandarshanam-balarAmena</link>
+
+          
+          <language>sa</language>
+          
+
+
+          <lastBuildDate>
+            Sun, 23 Aug 2020 12:17:44 +0000
+          </lastBuildDate>
+          <pubDate>
+            Sun, 23 Aug 2020 12:17:44 +0000
+          </pubDate>
+          <!--Publisher details.-->
+          <webMaster>
+            podcast-bhaaratii@googlegroups.com
+          </webMaster>
+          <itunes:author>
+            Various sanskrit enthusiasts
+          </itunes:author>
+          <itunes:owner>
+            <itunes:name>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:name>
+            <itunes:email>
+              podcast-bhaaratii@googlegroups.com
+            </itunes:email>
+          </itunes:owner>
+
+          
+          <image>
+            <url>https://i.imgur.com/dQjPQYi.jpg</url>
+            <title>vyaktInAm charitram </title>
+            <link> https://archive.org/details/rAmakaraNa-sharma-sandarshanam-balarAmena</link>
+          </image>
+          <itunes:image href="https://i.imgur.com/dQjPQYi.jpg"/>
+
+
+          
+          
+          <itunes:explicit>no</itunes:explicit>
+
+        
+          <itunes:category text="Society &amp; Culture"/>
+          <itunes:keywords>
+            sanskrit,interview
+          </itunes:keywords>
+
+
+          <item>
+        <title>
+           VOICE004.mp3 
+        </title>
+        <description>
+           VOICE004.mp3 
+        </description>
+        
+        <link>https://archive.org/download/rAmakaraNa-sharma-sandarshanam-balarAmena/VOICE004.mp3</link>
+        <itunes:summary>
+           VOICE004.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           VOICE004.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/rAmakaraNa-sharma-sandarshanam-balarAmena/VOICE004.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/rAmakaraNa-sharma-sandarshanam-balarAmena/VOICE004.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          01:21:52
+        </itunes:duration>
+        <pubDate>
+          Sun, 23 Aug 2020 12:17:45 +0000
+        </pubDate>
+      </item><item>
+        <title>
+           Navalpakkam Srimad Agnihotram Somayagi Vaibhavam.mp3 
+        </title>
+        <description>
+           Navalpakkam Srimad Agnihotram Somayagi Vaibhavam.mp3 
+        </description>
+        
+        <link>https://archive.org/download/rAmakaraNa-sharma-sandarshanam-balarAmena/Navalpakkam%20Srimad%20Agnihotram%20Somayagi%20Vaibhavam.mp3</link>
+        <itunes:summary>
+           Navalpakkam Srimad Agnihotram Somayagi Vaibhavam.mp3 
+        </itunes:summary>
+        <itunes:subtitle>
+           Navalpakkam Srimad Agnihotram Somayagi Vaibhavam.mp3
+        </itunes:subtitle>
+
+        
+
+        
+        
+        <guid>
+          https://archive.org/download/rAmakaraNa-sharma-sandarshanam-balarAmena/Navalpakkam%20Srimad%20Agnihotram%20Somayagi%20Vaibhavam.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/rAmakaraNa-sharma-sandarshanam-balarAmena/Navalpakkam%20Srimad%20Agnihotram%20Somayagi%20Vaibhavam.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          01:00:11
+        </itunes:duration>
+        <pubDate>
+          Sun, 23 Aug 2020 12:17:44 +0000
+        </pubDate>
+      </item>
+        </channel>
+      </rss>
