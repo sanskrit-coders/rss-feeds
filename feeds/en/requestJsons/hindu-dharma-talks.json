@@ -1,6 +1,7 @@
 {
   "archiveIds": [
-    "daivattin-kuraL-english"
+    "daivattin-kuraL-english",
+    "ks-kannan-lectures-kannada"
     ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",

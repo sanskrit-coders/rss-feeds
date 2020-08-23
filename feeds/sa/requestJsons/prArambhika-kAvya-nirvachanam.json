@@ -44,8 +44,9 @@
     "veda-sAhitya-saundarya-charchA",
     "kumArasambhavam-sarga-05",
     "meghadUtam-01",
-    "sundarakANDam-01"
-    ],
+    "sundarakANDam-01",
+    "ks-kannan-lectures-kannada"
+  ],
     "useArchiveOrder": true,
     "filePattern": ".*\\.mp3",
     "podcastTemplate": {
