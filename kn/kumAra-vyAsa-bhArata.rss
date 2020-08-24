@@ -26,10 +26,10 @@
 
 
           <lastBuildDate>
-            Sun, 16 Aug 2020 16:58:36 +0000
+            Sun, 23 Aug 2020 15:08:57 +0000
           </lastBuildDate>
           <pubDate>
-            Sun, 16 Aug 2020 16:58:36 +0000
+            Sun, 23 Aug 2020 15:08:57 +0000
           </pubDate>
           <!--Publisher details.-->
           <webMaster>
@@ -69,6 +69,43 @@
 
           <item>
         <title>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 006 Sandhi Part 03 of 03 Kumaravyasa
+        </title>
+        <description>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 006 Sandhi Part 03 of 03 Kumaravyasa
+        </description>
+        
+        <link>https://archive.org/download/kumaravyasa-bharata-recitation/Parva-01-Adiparva-006-Sandhi-Part-03-of-03.mp3</link>
+        <itunes:summary>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 006 Sandhi Part 03 of 03 Kumaravyasa
+        </itunes:summary>
+        <itunes:subtitle>
+          Kumaravyasa Bharata Adiparva Parva 01 Adiparva 006 Sandhi Part 03 of 03 Kumaravyas
+        </itunes:subtitle>
+
+        <author>Kumaravyasa</author>
+
+        
+        
+        <guid>
+          https://archive.org/download/kumaravyasa-bharata-recitation/Parva-01-Adiparva-006-Sandhi-Part-03-of-03.mp3
+        </guid>
+
+        
+        
+
+
+        <enclosure url="https://archive.org/download/kumaravyasa-bharata-recitation/Parva-01-Adiparva-006-Sandhi-Part-03-of-03.mp3" type="audio/mpeg" length="1"/>
+
+        
+        <itunes:duration>
+          00:10:53
+        </itunes:duration>
+        <pubDate>
+          Sun, 23 Aug 2020 15:09:10 +0000
+        </pubDate>
+      </item><item>
+        <title>
           Kumaravyasa Bharata Adiparva Parva 01 Adiparva 006 Sandhi Part 02 of 03 Kumaravyasa
         </title>
         <description>
@@ -102,7 +139,7 @@
           00:17:42
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:48 +0000
+          Sun, 23 Aug 2020 15:09:09 +0000
         </pubDate>
       </item><item>
         <title>
@@ -139,7 +176,7 @@
           00:16:29
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:47 +0000
+          Sun, 23 Aug 2020 15:09:08 +0000
         </pubDate>
       </item><item>
         <title>
@@ -176,7 +213,7 @@
           00:13:47
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:46 +0000
+          Sun, 23 Aug 2020 15:09:07 +0000
         </pubDate>
       </item><item>
         <title>
@@ -213,7 +250,7 @@
           00:16:22
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:45 +0000
+          Sun, 23 Aug 2020 15:09:06 +0000
         </pubDate>
       </item><item>
         <title>
@@ -250,7 +287,7 @@
           00:13:48
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:44 +0000
+          Sun, 23 Aug 2020 15:09:05 +0000
         </pubDate>
       </item><item>
         <title>
@@ -287,7 +324,7 @@
           00:17:46
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:43 +0000
+          Sun, 23 Aug 2020 15:09:04 +0000
         </pubDate>
       </item><item>
         <title>
@@ -324,7 +361,7 @@
           00:13:57
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:42 +0000
+          Sun, 23 Aug 2020 15:09:03 +0000
         </pubDate>
       </item><item>
         <title>
@@ -361,7 +398,7 @@
           00:17:53
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:41 +0000
+          Sun, 23 Aug 2020 15:09:02 +0000
         </pubDate>
       </item><item>
         <title>
@@ -398,7 +435,7 @@
           00:13:23
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:40 +0000
+          Sun, 23 Aug 2020 15:09:01 +0000
         </pubDate>
       </item><item>
         <title>
@@ -435,7 +472,7 @@
           00:11:38
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:39 +0000
+          Sun, 23 Aug 2020 15:09:00 +0000
         </pubDate>
       </item><item>
         <title>
@@ -472,7 +509,7 @@
           00:20:46
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:38 +0000
+          Sun, 23 Aug 2020 15:08:59 +0000
         </pubDate>
       </item><item>
         <title>
@@ -509,7 +546,7 @@
           00:12:49
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:37 +0000
+          Sun, 23 Aug 2020 15:08:58 +0000
         </pubDate>
       </item><item>
         <title>
@@ -546,7 +583,7 @@
           00:20:02
         </itunes:duration>
         <pubDate>
-          Sun, 16 Aug 2020 16:58:36 +0000
+          Sun, 23 Aug 2020 15:08:57 +0000
         </pubDate>
       </item>
         </channel>
