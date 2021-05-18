@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "IndicTodayTalks"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "Indic Today Talks",
+    "description": "Talks conducted by published by Indic Today on YouTube at https://www.youtube.com/c/IndicToday/videos . Redistributed here with thanks for the convenience of those who prefer audio podcasts (automatically downloaded to their phones)",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "sa",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various speakers invited by Srijan Trust",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}
