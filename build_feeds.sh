@@ -20,6 +20,7 @@ java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath f
 
 ### Rare updates
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/SrijanFoundationTalks.json  --outputPath  auto-built-feeds/en/SrijanFoundationTalks.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/IndicTodayTalks.json  --outputPath  auto-built-feeds/en/IndicTodayFoundationTalks.rss
 
 ## Tamil
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/ta/requestJsons/Sribhashya-of-Sri-Ramanuja-taught-by-M-A-Alwar.json  --outputPath  auto-built-feeds/ta/Sribhashya-of-Sri-Ramanuja-taught-by-M-A-Alwar.rss
