@@ -1,16 +1,16 @@
 {
   "archiveIds": [
-    "IndicTodayTalks"
+    "IndicAcademyTalks"
   ],
   "useArchiveOrder": true,
   "filePattern": ".*\\.mp3",
   "podcastTemplate": {
-    "title": "Indic Today Talks",
-    "description": "Talks conducted by published by Indic Today on YouTube at https://www.youtube.com/c/IndicToday/videos . Redistributed here with thanks for the convenience of those who prefer audio podcasts (automatically downloaded to their phones)",
+    "title": "Indic Academy Talks",
+    "description": "Talks conducted by published by Indic Today on YouTube at https://www.youtube.com/c/IndicAcademy/videos . Redistributed here with thanks for the convenience of those who prefer audio podcasts (automatically downloaded to their phones)",
     "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
     "languageCode": "en",
     "publisherEmail": "podcast-bhaaratii@googlegroups.com",
-    "author": "Various speakers invited by Indic Today",
+    "author": "Various speakers invited by Indic Academy",
     "isExplicitYesNo": "no",
     "categories": ["Society & Culture"]
   }
