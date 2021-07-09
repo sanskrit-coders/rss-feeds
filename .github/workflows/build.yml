@@ -1,0 +1,31 @@
+name: Build Hugo site
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        default: 'warning'
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inject slug/short variables
+        uses: rlespinasse/github-slug-action@v3.x
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@master
+      - name: Build feeds
+        id: clean_build
+        run: bash build_feeds.sh
+      - name: Deploy
+        if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./auto-built-feeds
+          publish_branch: auto-built-feeds
