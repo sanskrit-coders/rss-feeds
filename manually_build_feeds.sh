@@ -6,4 +6,7 @@ java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath f
 
 ## sanskrit
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/sa/requestJsons/navya-nyAya-pAThaH-ALvArtaH.json  --outputPath  feeds/sa/navya-nyAya-pAThaH-ALvArtaH.rss
-curl -X GET "http://54.244.106.57:9090/podcasts/v1/archiveItems/kathAsaritsAgara-shrAvaNam?publisherEmail=podcast-bhaaratii%40googlegroups.com&languageCode=sa&categoriesCsv=Society%20%26%20Culture&imageUrl=https%3A%2F%2Fi.imgur.com%2FdQjPQYi.jpg&isExplicitYesNo=no" -H "accept: application/rss+xml" > feeds/sa/kathAsaritsAgara-shrAvaNam.rss
+#curl -X GET "http://54.244.106.57:9090/podcasts/v1/archiveItems/kathAsaritsAgara-shrAvaNam?publisherEmail=podcast-bhaaratii%40googlegroups.com&languageCode=sa&categoriesCsv=Society%20%26%20Culture&imageUrl=https%3A%2F%2Fi.imgur.com%2FdQjPQYi.jpg&isExplicitYesNo=no" -H "accept: application/rss+xml" > feeds/sa/kathAsaritsAgara-shrAvaNam.rss
+
+## English
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/SardarPatelLectures.json  --outputPath  feeds/sa/sardar-patel-lectures.rss

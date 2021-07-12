@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "sardarPatelTalks"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "Sardar Patel Lectures",
+    "description": "Sardar Patel Memorial Lectures published by Prasar Bharati on YouTube. Redistributed here with thanks for the convenience of those who prefer audio podcasts (automatically downloaded to their phones)",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "en",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various speakers invited by Prasar Bharati",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}
