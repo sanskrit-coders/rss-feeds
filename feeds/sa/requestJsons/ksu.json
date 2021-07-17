@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "ksu-yt"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "KSU YT talks कर्णाटकसंस्कृतविश्वविद्यालय-भाषणानि",
+    "description": "Lectures by various Sanskrit/ saMskRta scholars published under the Karnataka Sanskrit University YT channel.",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "sa",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various sanskrit scholars",
+    "copyright": "None",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}

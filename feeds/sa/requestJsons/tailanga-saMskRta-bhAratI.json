@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "telangAna-saMskRta-bhAratI"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "tailanga-saMskRta-bhAratI तैलङ्ग-संस्कृत-भारती",
+    "description": "Lectures by various Sanskrit/ saMskRta scholars invited by saMskRtita bhAratI, Telangana - uploaded on their YT channel.",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "sa",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various sanskrit scholars",
+    "copyright": "None",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}

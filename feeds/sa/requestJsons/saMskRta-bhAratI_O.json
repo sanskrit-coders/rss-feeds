@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "saMskRta-bhAratI_O"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "saMskRta-bhAratI_O संस्कृत-भारती",
+    "description": "Lectures by various Sanskrit/ saMskRta scholars invited by saMskRtita bhAratI, published on the SamskritaBharati_Official YT channel.",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "sa",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various sanskrit scholars",
+    "copyright": "None",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}

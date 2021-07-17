@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "USA-saMskRta-bhAratI"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "USA-saMskRta-bhAratI अमेरिक-संस्कृत-भारती",
+    "description": "Lectures by various Sanskrit/ saMskRta scholars invited by saMskRtita bhAratI, USA.",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "sa",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various sanskrit scholars",
+    "copyright": "None",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}

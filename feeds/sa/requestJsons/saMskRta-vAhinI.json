@@ -1,0 +1,18 @@
+{
+  "archiveIds": [
+    "saMskRta-vAhinI"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "saMskRta-vAhinI संस्कृतवाहिनी",
+    "description": "Lectures by various Sanskrit/ saMskRta scholars published under the saMskRta vAhinI YT channel.",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "sa",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "Various sanskrit scholars",
+    "copyright": "None",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}
