@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "rAmAnuja-dayA-audio"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "rAmAnuja-dayA-audio रामानुज-दया",
+      "description": "",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "ta",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Ramanuja Daya YT",
+      "isExplicitYesNo": "no",
+      "categories": ["Society & Culture"]
+    }
+}
