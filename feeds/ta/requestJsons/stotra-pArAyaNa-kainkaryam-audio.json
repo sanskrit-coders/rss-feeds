@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "gspk_stotra-pArAyaNa-kainkaryam"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "Global Stotra Parayana Kainkaryam GSPK",
+    "description": "",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "ta",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "GSPK",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}
