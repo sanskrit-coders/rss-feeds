@@ -1,0 +1,19 @@
+{
+  "archiveIds": [
+    "duShyanth-shrIdhar-talks",
+    "mangalam-shrIkAnta-lectures",
+    "natteri-guru-paramparA_tamiL"
+  ],
+  "useArchiveOrder": true,
+  "filePattern": ".*\\.mp3",
+  "podcastTemplate": {
+    "title": "shrIvaiShNava+upanyAsAH श्रीवैष्णवोपन्यासाः",
+    "description": "Lectures by prominent ubhaya-vedAntins (shrIvaiShNavas).",
+    "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+    "languageCode": "ta",
+    "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+    "author": "श्रीवैष्णव-विद्वांसः",
+    "isExplicitYesNo": "no",
+    "categories": ["Society & Culture"]
+  }
+}
