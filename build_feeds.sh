@@ -21,3 +21,4 @@ java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath f
 ## Tamil
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/ta/requestJsons/rAmAnuja-dayA-audio.json  --outputPath  auto-built-feeds/ta/rAmAnuja-dayA-audio.rss
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/ta/requestJsons/shrI-vaiShNavopanyAsAH.json  --outputPath  auto-built-feeds/ta/shrI-vaiShNavopanyAsAH.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/ta/requestJsons/stotra-pArAyaNa-kainkaryam-audio.json  --outputPath  auto-built-feeds/ta/stotra-pArAyaNa-kainkaryam-audio.rss
