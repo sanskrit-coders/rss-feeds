@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "vyAsarAja-maTha-lectures"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "vyAsarAja-maTha-lectures",
+      "description": "Lectures delivered at the vyAsarAja maTha, a mAdhva institution",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "kn",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various",
+      "isExplicitYesNo": "no",
+      "categories": ["Society & Culture"]
+    }
+}

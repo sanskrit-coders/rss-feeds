@@ -2,6 +2,8 @@
 wget -N https://github.com/sanskrit-coders/db-interface/raw/master/bin/artifacts/db-interface.jar 
 
 ## kannada
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/vyAsarAja-maTha.json  --outputPath  feeds/kn/vyAsarAja-maTha.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/kumAra-vyAsa-bhArata.json  --outputPath  feeds/kn/kumAra-vyAsa-bhArata.rss
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/kumAra-vyAsa-bhArata.json  --outputPath  feeds/kn/kumAra-vyAsa-bhArata.rss
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/nAgusPodcasts.json  --outputPath  feeds/kn/nAgusPodcasts.rss
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/kn/requestJsons/kumAra-vyAsa-bhArata.json  --outputPath  feeds/kn/kumAra-vyAsa-bhArata.rss
