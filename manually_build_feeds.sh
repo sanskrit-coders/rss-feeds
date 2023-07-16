@@ -22,6 +22,7 @@ java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath f
 
 ## English
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/SardarPatelLectures.json  --outputPath  feeds/en/sardar-patel-lectures.rss
+java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/en/requestJsons/royal-inst-yt-talks.json  --outputPath  feeds/en/royal-inst-yt-talks.rss
 
 ## Tamil
 java -Xmx1G -Xss32m -jar db-interface.jar podcastFromRequest --requestJsonPath feeds/ta/requestJsons/Sribhashya-of-Sri-Ramanuja-taught-by-M-A-Alwar.json  --outputPath  feeds/ta/Sribhashya-of-Sri-Ramanuja-taught-by-M-A-Alwar.rss

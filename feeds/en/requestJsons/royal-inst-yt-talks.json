@@ -1,0 +1,17 @@
+{
+  "archiveIds": [
+    "royal-inst-yt-talks"
+    ],
+    "useArchiveOrder": true,
+    "filePattern": ".*\\.mp3",
+    "podcastTemplate": {
+      "title": "Royal Institution Public talks",
+      "description": "Royal Institution Public talks - many of which are not available from the other audio-only stream.",
+      "imageUrl": "https://i.imgur.com/dQjPQYi.jpg",
+      "languageCode": "en",
+      "publisherEmail": "podcast-bhaaratii@googlegroups.com",
+      "author": "Various",
+      "isExplicitYesNo": "no",
+      "categories": ["Society & Culture"]
+    }
+}
